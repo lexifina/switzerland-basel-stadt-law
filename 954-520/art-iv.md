@@ -1,0 +1,4 @@
+# Ziff. IV
+1 Die grossherzogliche Bahnverwaltung hat weder von dem Erwerb der Liegenschaften für die Bahn und ihre Zugehörden, noch von deren Eigentum, noch von dem Bahnbetriebe, noch überhaupt irgend eine Steuer, Abgabe oder Leistung an den Kanton oder die Stadt zu entrichten. Insbesondere sollen die Bahngebäude mit keiner Einquartierung, falls dieselbe einstens auf Häuser repartiert werden wollte, belastet werden.
+2 Etwaige Versicherung der Bahngebäude in der kantonalen Brandversicherungsanstalt ist sowohl für die Bahnverwaltung als auch für die Kantonalbehörde fakultativ und bleibt besonderer Verständigung vorbehalten. Ebenso bleiben etwaige Beleuchtungsbeiträge einer Verständigung zwischen der Bahnverwaltung und der Gasbeleuchtungsadministration vorbehalten.
+3 Die Angestellten der Bahnverwaltung, welche badische Angehörige sind, bleiben von jeder direkten Abgabe an den Kanton und die Stadt befreit.
