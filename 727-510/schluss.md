@@ -1,0 +1,1 @@
+Diese Verordnung ist zu publizieren, sie tritt mit dem Gesetz auf den 1. Januar 1974 in Wirksamkeit.
