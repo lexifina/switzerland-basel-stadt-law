@@ -1,0 +1,4 @@
+Bistum Basel: Interkantonale Übereinkunft | Staat und Kirche
+# Übereinkunft zwischen den hohen Ständen Lucern, Bern, Solothurn und Zug für die Organisation des Bisthums Basel
+Vom 28. März 1828
+Die Regierungen der hohen Stände Luzern, Bern, Solothurn und Zug, von der Wichtigkeit durchdrungen, die Begründung und Vollendung der Bisthums-Angelegenheiten ehestens zu bezwecken, haben zu diesem Ende, in Erneuerung und Vervollständigung des am dritten März Tausend acht Hundert und zwanzig zu Langenthal abgeschlossenen Vertrages, mit Rücksicht auf ihre nachherigen Verhandlungen vom acht und zwanzigsten Brachmonat Tausend acht Hundert vier und zwanzig und sieben und zwanzigsten Wintermonat Tausend acht Hundertsechs und zwanzig, sowie in Beachtung der durch die seitherigen Umstände nothwendig gewordenen Abänderungen, folgende Übereinkunft mit Ratifikazions-Vorbehalt, unter sich abgeschlossen, als:
