@@ -1,0 +1,3 @@
+Hafenbahn: Vertrag mit Deutschland | Hafenbahn / Deutsche Bundesbahn
+# Vertrag zwischen dem Deutschen Reich (Eisenbahnfiskus), vertreten durch die Reichsbahndirektion in Karlsruhe, einerseits, dem Kanton Basel-Stadt, vertreten durch den Regierungsrat, und den Schweizerischen Bundesbahnen, vertreten durch die Generaldirektion in Bern, anderseits, betreffend a) den Anschluss der Hafenbahn an den Basel Badischen Verschubbahnhof, b) den Betrieb der Hafenbahn durch die Schweizerischen Bundesbahnen zwischen dem baselstädtischen Rheinhafen Kleinhüningen und dem Basel Badischen Verschubbahnhof
+Vom 16. Dezember 1922
