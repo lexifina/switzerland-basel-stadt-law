@@ -1,0 +1,3 @@
+Dieses Gesetz im Sinne eines Gegenvorschlages zum «Initiativbegehren für einen wirksamen Naturschutz» ist zu publizieren und zusammen mit dem Initiativbegehren der Gesamtheit der Stimmberechtigten vorzulegen. Für den Fall, dass sowohl das Initiativbegehren als auch der Gegenvorschlag angenommen werden, haben die Stimmberechtigten zu entscheiden, welche der beiden Vorlagen sie vorziehen.
+Der Grosse Rat empfiehlt den Stimmberechtigten, das Initiativbegehren zu verwerfen und den Gegenvorschlag anzunehmen.
+Wenn das Initiativbegehren zurückgezogen wird, ist das Gesetz über den Natur- und Landschaftsschutz nochmals zu publizieren und wird dem fakultativen Referendum unterliegen.
