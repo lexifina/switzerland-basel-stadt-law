@@ -1,0 +1,1 @@
+Dieses Reglement ist zu publizieren; es wird auf den Zeitpunkt der Inbetriebnahme des gesamten K-Netzes wirksam. Auf den gleichen Zeitpunkt wird die Gebührenordnung für die GAA (GemeinschaftsAntennen-Anlage) für Fernsehen und Radio der Gemeinde Bettingen vom 4. August 1976 aufgehoben.
