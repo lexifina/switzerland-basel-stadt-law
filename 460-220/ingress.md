@@ -1,4 +1,4 @@
-Abschlussprüfungen MfB: Verordnung | Erwachsenenbildung
+Erwachsenenbildung
 # Verordnung über die Abschlussprüfungen der Maturitätskurse für Berufstätige
 Vom 11. Dezember 2007
 Der Regierungsrat des Kantons Basel-Stadt,

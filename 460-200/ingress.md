@@ -1,4 +1,4 @@
-Maturitätskurse für Berufstätige: Verordnung | Erwachsenenbildung
+Erwachsenenbildung
 # Verordnung über die Maturitätskurse für Berufstätige
 Vom 11. Dezember 2007
 Der Regierungsrat des Kantons Basel-Stadt
