@@ -1,0 +1,1 @@
+Das Gesetz ist zu publizieren; es unterliegt dem Referendum. Für den Fall jedoch, dass eine Volksabstimmung über das Initiativbegehren stattfindet, ist dieses Gesetz zusammen mit dem Initiativbegehren und als Gegenvorschlag hiezu der Gesamtheit der Stimmberechtigten zur Annahme oder Verwerfung vorzulegen.
