@@ -1,0 +1,2 @@
+# Artikel II
+1 In den sich ergebenden Konkursfällen werden, rücksichtlich aller und jeder hypothekarischen und nicht hypothekarischen, privilegierten und nicht privilegierten Forderungen, die Einwohner des Königreichs Württemberg und die Einwohner der genannten Kantone, nach gleichen Rechten, d. h. also behandelt und kolloziert, daß je die Angehörigen des einen Staates den Einheimischen im andern Staate gleich und – je nach Beschaffenheit ihrer Schuldforderungen – so gehalten werden sollen, wie es die Gesetze des Landes für die Einheimischen selbst vorschreiben.

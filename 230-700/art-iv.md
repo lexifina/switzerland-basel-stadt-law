@@ -1,0 +1,2 @@
+# Artikel IV
+1 Alle beweglichen und unbeweglichen Güter eines Gemeinschuldners, auf welchem Staatsgebiete sich dieselben immer befinden mögen, sollen in die allgemeine Konkursmasse fallen.
