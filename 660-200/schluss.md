@@ -1,0 +1,1 @@
+Diese Verordnung ist zu publizieren; sie tritt nach ihrer Genehmigung durch den Schweizerischen Bundesrat in Kraft. Die Verordnung über den Vollzug der Eidgenössischen Verrechnungssteuer im Kanton Basel-Stadt vom 20. Dezember 1943 ist aufgehoben.
