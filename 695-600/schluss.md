@@ -1,0 +1,1 @@
+Dieses Reglement ist zu publizieren; es tritt, vorbehältlich der Genehmigung durch den Regierungsrat, am 1. Januar 1981 in Wirksamkeit; auf diesen Zeitpunkt wird das Prämienermässigungsreglement vom 29. April 1974 aufgehoben.
