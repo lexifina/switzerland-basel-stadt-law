@@ -1,0 +1,1 @@
+Diese Urkunde, welche diejenige vom 3. September 1859 nebst den Nachträgen vom 28. Juni 1862, vom 7. Januar 1863 und vom 12. Oktober 1864 ersetzt, wird dem Bürgerrat der Stadt Basel zur Aufbewahrung übergeben.
