@@ -1,0 +1,1 @@
+Diese Ordnung ist zu publizieren; sie wird am 1. Juli 1995 wirksam. Auf den gleichen Zeitpunkt wird die Ordnung über die Entschädigungen für den Bürgerratspräsidenten, die Mitglieder des Bürgerrates, den Schreiber und den Kassier vom 28. November 1985 aufgehoben.
