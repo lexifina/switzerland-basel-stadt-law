@@ -1,0 +1,1 @@
+Diese Verordnung ist zu publizieren; sie wird sofort nach ihrer Genehmigung durch den Bundesrat wirksam. Die Verordnung vom 20. März 1990 über die Umweltverträglichkeitsprüfung im Kanton Basel-Stadt ist aufgehoben.
