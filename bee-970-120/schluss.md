@@ -1,0 +1,1 @@
+Diese Ordnung ist zu publizieren; sie wird auf den Zeitpunkt der Inbetriebnahme des gesamten K-Netzes wirksam. Auf den gleichen Zeitpunkt wird das Reglement über die Gemeinschafts-Antennen-Anlage (GAA) für Fernsehen und Radio der Gemeinde Bettingen vom 4. August 1976 aufgehoben.
