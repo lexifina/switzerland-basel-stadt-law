@@ -1,5 +1,5 @@
 Maturitäts-Anerkennungsreglement | Schulgeld / Schulabkommen / Anerkennungsabkommen
-# Verordnung des Bundesrates/Reglement der EDK über die Anerkennung von gymnasialen Maturitätsausweisen
+# Verordnung des Bundesrates / Reglement der EDK über die Anerkennung von gymnasialen Maturitätsausweisen
 (MAR)
 Vom 16. Januar 1995
 Der Schweizerische Bundesrat,
