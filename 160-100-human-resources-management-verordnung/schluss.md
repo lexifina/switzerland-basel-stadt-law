@@ -1,0 +1,1 @@
+Diese Verordnung ist zu publizieren; sie wird rückwirkend per 1. Januar 2005 wirksam. Auf den gleichen Zeitpunkt wird die Verordnung betreffend Aufgaben und Organisation des Personalamtes vom 6. April 1971 aufgehoben.
