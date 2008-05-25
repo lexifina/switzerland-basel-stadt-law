@@ -1,0 +1,1 @@
+Diese Verordnung ist zu publizieren; sie wird sofort wirksam. Auf den gleichen Zeitpunkt werden die Ausführungsvorschriften betreffend die Toleranzzonen im Sinne von § 38 des Kantonalen Übertretungsstrafgesetzes vom 18. August 2005 aufgehoben.
