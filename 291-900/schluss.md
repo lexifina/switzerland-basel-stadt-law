@@ -1,0 +1,1 @@
+Dieses Reglement ist zu publizieren; es wird sofort wirksam. Auf den gleichen Zeitpunkt wird das Reglement über die Advokatenprüfung, die Erteilung des Befähigungsausweises und die Zulassung zur Advokatur vom 2. Januar 1971 aufgehoben.
