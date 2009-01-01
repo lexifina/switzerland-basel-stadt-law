@@ -1,0 +1,1 @@
+Diese Verordnung ist zu publizieren; sie wird sofort wirksam.Auf den gleichen Zeitpunkt wird die Verordnung betreffend Ausführung des Bundesgesetzes über Rohrleitungsanlagen vom 28. November 1978 aufgehoben.
