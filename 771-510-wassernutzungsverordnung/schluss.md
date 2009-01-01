@@ -1,0 +1,1 @@
+Diese Verordnung ist zu publizieren; sie wird sofort wirksam. Die Verordnung zum Gesetz über die Nutzung von öffentlichem Fluss- und Grundwasser (Wassernutzungsverordnung) vom 19. Juni 1984 ist aufgehoben.
