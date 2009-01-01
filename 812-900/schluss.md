@@ -1,0 +1,1 @@
+Diese Verordnung ist zu publizieren. Die §§ 7–9 werden auf den 1. Dezember 2003, die §§ 1–6 und 10 sowie die Änderung der Verordnung über die Verfolgung von Straftaten im Verzeigungsverfahren auf den 1. Juni 2004 wirksam.
