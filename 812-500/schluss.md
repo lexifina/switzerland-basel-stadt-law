@@ -1,0 +1,1 @@
+Diese Verordnung ist zu publizieren; sie wird sofort wirksam. Auf diesen Zeitpunkt wird die Verordnung betreffend den Vollzug des Bundesgesetzes über die Heimarbeit vom 12. Dezember 1940, vom 13. März 1942 aufgehoben.
