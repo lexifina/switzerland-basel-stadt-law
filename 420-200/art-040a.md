@@ -1,0 +1,2 @@
+# § 40a Grundsatz
+1 Der Kanton fördert im Rahmen des Gesamtkonzepts zur Senkung der Jugendarbeitslosigkeit Massnahmen zur Verbesserung der Lehrstellensituation, der Rahmenbedingungen für die Ausbildungstätigkeit der Lehrbetriebe, des Übergangs von der obligatorischen Schule und den Brückenangeboten in die Berufsbildung, der Elternmitwirkung sowie andere Massnahmen, die zur Stärkung der dualen Berufsbildung beitragen.

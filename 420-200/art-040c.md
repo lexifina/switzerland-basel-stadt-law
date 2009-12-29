@@ -1,0 +1,4 @@
+# § 40c Fördermassnahmen
+1 Der Kanton kann zum Zweck der Förderung der beruflichen Grundbildung von Jugendlichen aus Basler Schulen sowie von Erwachsenen mit Wohnsitz im Kanton Basel-Stadt spezialisierte Ausbildungszentren, Lehrbetriebsverbünde, Lehrwerkstätten oder andere Bildungsstätten selbst betreiben oder sich an solchen beteiligen.
+2 Wenn die Lehrvertragsabschlüsse im Kanton Basel-Stadt im Durchschnitt einer Vierjahresperiode stagnieren oder abnehmen, ergreift die zuständige Verwaltungsabteilung Massnahmen in den Bereichen Werbung, Lehrstellenakquisition und Beratung sowie Öffentlichkeitsarbeit. Die Branchenentwicklung sowie die demografische Entwicklung und die Situation der Basler Schulabgängerinnen und Schulabgänger auf dem Lehrstellenmarkt sind zu berücksichtigen.
+3 Die zuständige Verwaltungsabteilung kann weitere Massnahmen ergreifen, die geeignet sind, die unter Abs. 2 genannten Aufgaben zu erfüllen.
