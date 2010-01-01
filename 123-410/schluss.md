@@ -1,0 +1,1 @@
+Diese Verordnung ist zu publizieren; sie wird gleichzeitig mit dem Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungenvom 15. November 2007 wirksam. Auf den gleichen Zeitpunkt wird die Verordnung betreffend Einführung des Bundesgesetzes über Massnahmen zur Wahrung der inneren Sicherheit vom 12. Dezember 2006 aufgehoben.
