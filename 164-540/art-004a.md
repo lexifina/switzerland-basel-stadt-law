@@ -1,0 +1,2 @@
+# § 4a Übergangsregelung für die Schuljahre 2011/12 bis 2020/21
+1 Unbefristet angestellte Lehrpersonen, die aufgrund der grundlegenden Strukturänderung des Bildungssystems (Aufhebung der Orientierungs- und Weiterbildungsschule) in einer Schulstufe mit tiefer eingereihten Stellen unterrichten, werden für die an dieser Stufe unterrichteten Lektionen während der Schuljahre 2011/12 bis und mit 2020/21 in der höheren Lohnklasse entlöhnt.
