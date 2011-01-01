@@ -1,0 +1,1 @@
+Diese Verordnung ist zu publizieren; sie wird auf den 1. Januar 2009 wirksam. Auf den gleichen Zeitpunkt wird die Verordnung betreffend Verpflegung von Mitarbeiterinnen und Mitarbeitern des Kantons Basel-Stadt vom 23. Oktober 2007 aufgehoben.
