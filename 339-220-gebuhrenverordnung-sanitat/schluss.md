@@ -1,0 +1,1 @@
+Diese Verordnung ist zu publizieren; sie wird am 1. Januar 2008 wirksam. Auf den gleichen Zeitpunkt wird die Verordnung über die von der Sanität Basel zu erhebenden Gebühren (Gebührenverordnung Sanität) vom 10. Dezember 2002 aufgehoben.
