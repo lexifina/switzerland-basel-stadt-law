@@ -1,0 +1,3 @@
+# § 18a Aufgaben
+1 Die Einwohnergemeinden sind unter Vorbehalt von § 3 Abs. 1 für diejenigen Aufgaben zuständig, für die eine örtliche Regelung geeignet ist und die nicht in die Zuständigkeit des Kantons oder des Bundes fallen.
+2 Die Aufgabenteilung zwischen Kanton und Einwohnergemeinden richtet sich nach den Grundsätzen der Transparenz, der Wirtschaftlichkeit und der Bürgernähe.
