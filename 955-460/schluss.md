@@ -1,2 +1,2 @@
 Anhänge
-Anhang 01: Anhang I Hafenabgaben im Bahn- und im Strassenverkehr Anhang 02 : Ausser Kraft Anhang 03: Anhang III betreffend Vorschriften über die An- und Abmeldung der dem Gütertransport dienenden Schiffe Anhang 04: Anhang IV Bunkerauftrag Anhang 05: Anhang V Regelung des Schiffsverkehrs im Hafengebiet von Basel-Kleinhüningen Anhang 06: Anhang VI Vorschriften über das Gasfreimachen von Tankschiffen
+Anhang 01 : Ausser Kraft Anhang 02 : Ausser Kraft Anhang 03: Anhang III betreffend Vorschriften über die An- und Abmeldung der dem Gütertransport dienenden Schiffe Anhang 04: Anhang IV Bunkerauftrag Anhang 05: Anhang V Regelung des Schiffsverkehrs im Hafengebiet von Basel-Kleinhüningen Anhang 06: Anhang VI Vorschriften über das Gasfreimachen von Tankschiffen
