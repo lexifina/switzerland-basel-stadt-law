@@ -1,0 +1,1 @@
+Diese Verordnung ist zu publizieren; sie wird am 1. Januar 2011 wirksam. Auf den gleichen Zeitpunkt wird die Verordnung über das Informatiksystem der Staatsanwaltschaft vom 13. Dezember 2005 aufgehoben.
