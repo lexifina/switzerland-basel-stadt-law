@@ -1,0 +1,4 @@
+# § 13 b
+1 Der Kanton und die Gemeinden Bettingen und Riehen treffen Massnahmen, um den Anteil der umweltfreundlichen Verkehrsmittel am gesamten Verkehrsvolumen zu erhöhen.
+2 Sie treffen Massnahmen zur Kanalisierung, Verminderung und Beruhigung des privaten Motorfahrzeugverkehrs. Wird die Kapazität des Hochleistungsstrassennetzes auf Kantonsgebiet erhöht, ergreift der Kanton Massnahmen, um das übrige Strassennetz im Gegenzug dauerhaft von Verkehr zu entlasten.
+3 Der Kanton und die Gemeinden Bettingen und Riehen sorgen durch bauliche, betriebliche, verkehrslenkende oder -beschränkende Massnahmen dafür, dass Fussgängerinnen und Fussgänger sowie der nicht motorisierte und der öffentliche Verkehr gegenüber dem privaten Motorfahrzeugverkehr bevorzugt und vor vermeidbaren Behinderungen und Gefährdungen geschützt werden.
