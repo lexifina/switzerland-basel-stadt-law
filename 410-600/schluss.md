@@ -1,0 +1,1 @@
+Diese Verordnung ist zu publizieren; sie wird sofort wirksam. Auf den gleichen Zeitpunkt wird die Ordnung über Verwaltung und Verwendung der Schulfonds in Riehen, Bettingen und Kleinhüningen vom 31. Oktober 1891 aufgehoben.
