@@ -1,0 +1,2 @@
+# § 11b Einem Verlustschein gleichzusetzende Rechtstitel
+1 Einem Verlustschein im Sinne von Art. 64a Abs. 3 KVG sind Verfügungen über die Ausrichtung von Ergänzungsleistungen oder gleichwertige Rechtstitel, die das Fehlen von finanziellen Mitteln der versicherten Person belegen, gleichgesetzt. Das Amt für Sozialbeiträge entscheidet über die Gleichwertigkeit von Rechtstiteln in den mit der Abrechnung der Krankenversicherer eingereichten Unterlagen.

@@ -1,0 +1,2 @@
+# § 8b Eigenbeitrag der versicherten Person an die Kosten der ambulanten Pflege
+1 Der maximale Eigenbeitrag der versicherten Person gemäss Art. 25a Abs. 5 KVG an die Kosten der ambulanten Pflege beträgt 10 Prozent des höchsten vom Bundesrat festgesetzten Pflegebeitrages pro Tag. Der maximale Eigenbeitrag ist nur bei einer Leistungsdauer von einer Stunde anrechenbar; bei kürzerer Leistungsdauer verringert sich der anrechenbare Eigenbeitrag anteilmässig (pro rata temporis).
