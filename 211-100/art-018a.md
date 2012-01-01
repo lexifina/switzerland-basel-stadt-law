@@ -1,0 +1,2 @@
+# § 18a
+1 Die erforderlichen Vorschriften über die Durchführung der Stiftungskontrolle und über die für die Aufsichtstätigkeit zu erhebenden Gebühren erlässt die BSABB für die ihr unterstellten Stiftungen. Für die der Aufsicht der Bürgergemeinden Basel oder Riehen unterstehenden Stiftungen werden die entsprechenden Vorschriften durch den jeweiligen Bürgerrat erlassen. Für diese Stiftungen nimmt die BSABB auch die Aufgaben der Änderungsbehörde im Sinne von Art. 85 und Art. 86 wahr.

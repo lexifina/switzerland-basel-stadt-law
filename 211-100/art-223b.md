@@ -1,0 +1,3 @@
+# § 223b 3. Unterstellung unter das neue Adoptionsrecht (ZGBSchlT 12b)
+1 Begehren um Unterstellung einer nach dem bisherigen Recht ausgesprochenen Kindesannahme einer unmündigen Person unter die neuen Bestimmungen sind bis zum 31. März 1978 dem vom Regierungsrat als zuständig bezeichneten Departement schriftlich begründet einzureichen. Beizulegen sind amtliche Nachweise über Handlungsfähigkeit, Familienverhältnisse und Wohnsitz der Adoptiveltern und des Adoptivkindes.
+2 Das Departement erlässt, nach Durchführung der allenfalls erforderlichen Erhebungen, die entsprechende Verfügung. Für das Verfahren gilt § 43 subsidiär.
