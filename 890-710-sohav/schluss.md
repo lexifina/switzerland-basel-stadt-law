@@ -1,2 +1,2 @@
 Anhänge
-Anhang 890.710.1: Anhang I: Pflicht zur Datenlieferung gemäss § 32 und Zugriffsberechtigung gemäss den §§ 36 und 37 Anhang 890.710.2: Anhang II: Aufbewahrung von Akten
+Anhang 890.710 Anhang 1 : Pflicht zur Datenlieferung Anhang 890.710 Anhang 2 : Aufbewahrung von Akten Anhang 890.710.1 : Ausser Kraft Anhang 890.710.2 : Ausser Kraft
