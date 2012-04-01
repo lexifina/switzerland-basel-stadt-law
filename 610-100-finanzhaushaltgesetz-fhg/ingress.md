@@ -1,7 +1,7 @@
 Finanzhaushaltgesetz | Finanzordnung
 # Gesetz über den kantonalen Finanzhaushalt
 (Finanzhaushaltgesetz)
-Vom 16. April 1997
+Vom 14. März 2012
 Der Grosse Rat des Kantons Basel-Stadt,
-gestützt auf § 39 lit. d und e, § 40, § 47 sowie § 48 der Kantonsverfassung vom 2. Dezember 1889,
-erlässt auf Antrag seiner Kommission folgendes Gesetz:
+nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. 11.1273.01 vom 20. September 2011 sowie in den Bericht der Finanzkommission Nr. 11.1273.02 vom 9. Februar 2012,
+beschliesst:

@@ -1,3 +1,0 @@
-# § 36a Programmvereinbarung mit dem Bund
-1 Für den Abschluss von Programmvereinbarungen mit dem Bund ist der Regierungsrat im Rahmen seiner vollziehenden und finanzrechtlichen Kompetenzen zuständig.
-2 Er kann durch Verordnung die Kompetenz auf die Departemente übertragen.
