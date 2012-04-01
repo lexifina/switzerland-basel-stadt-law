@@ -1,6 +1,7 @@
-Finanzhaushalt: Verordnung | Finanzordnung
+Finanzhaushaltverordnung | Finanzordnung
 # Verordnung zum Gesetz über den kantonalen Finanzhaushalt
-Vom 2. November 1999
+(Finanzhaushaltverordnung)
+Vom 22. Mai 2012
 Der Regierungsrat des Kantons Basel-Stadt,
-gestützt auf das Gesetz über den kantonalen Finanzhaushalt (Finanzhaushaltgesetz) vom 16. April 1997,
+gestützt auf das Gesetz über den kantonalen Finanzhaushalt (Finanzhaushaltgesetz) vom 14. März 2012,
 beschliesst:
