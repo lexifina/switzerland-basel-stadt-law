@@ -1,0 +1,1 @@
+Dieses Reglement ist zu publizieren; es wird auf den 1. Januar 2008 wirksam. Auf den gleichen Zeitpunkt wird das Reglement über die Erhebung von Gebühren im Einbürgerungsverfahren vom 17. April 1997 aufgehoben.
