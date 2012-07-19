@@ -1,0 +1,5 @@
+# § 55c Beim Kanton befristet angestellte Lehrpersonen
+1 Lehrpersonen, die gemäss § 45i der Schulordnung von den Gemeindeschulen angestellt werden, erhalten folgende Arbeitsverträge:
+a) Haben sie beim Kanton im Schuljahr vor der Übernahme einen befristeten Jahresarbeitsvertrag im vierten Jahr in Folge, erhalten sie einen unbefristeten Arbeitsvertrag. Dies gilt auch für längere Befristungen.
+b) Haben sie beim Kanton im Schuljahr vor der Übernahme einen befristeten Jahresarbeitsvertrag im zweiten oder dritten Jahr in Folge, erhalten sie vorerst einen auf ein Jahr befristeten Arbeitsvertrag. Im Falle der Weiterbeschäftigung in den Gemeindeschulen wird ihr Arbeitsvertrag ab dem zweiten Jahr in einen unbefristeten Arbeitsvertrag überführt.
+c) Haben sie beim Kanton vor der Übernahme erstmals einen befristeten Jahresarbeitsvertrag, erhalten sie einen auf ein Jahr befristeten Arbeitsvertrag, welcher im Falle der Weiterbeschäftigung bei den Gemeindeschulen nochmals um ein Jahr verlängert wird. Wird anschliessend das Arbeitsverhältnis weiter geführt, wird ihr Arbeitsvertrag ab dem dritten Jahr in einen unbefristeten Arbeitsvertrag überführt.
