@@ -1,2 +1,0 @@
-# § 1a Zuständigkeit
-1 Die Aufgaben der amtlichen Vermessung werden vom Grundbuch- und Vermessungsamt wahrgenommen. Dieses untersteht der Aufsicht durch das Bau- und Verkehrsdepartement.
