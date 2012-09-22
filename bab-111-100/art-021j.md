@@ -1,0 +1,3 @@
+# § 21j Aufgaben und Befugnisse des Verwaltungsrates
+1 Der Verwaltungsrat leitet nach den Bestimmungen der vom Bürgergemeinderat genehmigten Leistungsvereinbarung zwischen dem Kanton und der Bürgergemeinde die Geschäfte der Sozialhilfe der Stadt Basel. Die erlassenen Ordnungen und Reglemente der Bürgergemeinde gelten sinngemäss, soweit die Leistungsvereinbarung nichts anderes bestimmt.
+2 …
