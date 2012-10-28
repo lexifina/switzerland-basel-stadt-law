@@ -1,0 +1,1 @@
+Dieses Gesetz ist zu publizieren; es unterliegt dem Referendum. Vorschriften, welche die Anmerkung öffentlich-rechtlicher Eigentumsbeschränkungen im Grundbuch vorsehen, sind dem Bund zur Genehmigung zu unterbreiten. Nach Eintritt der Rechtskraft setzt der Regierungsrat den Zeitpunkt der Wirksamkeit fest.
