@@ -1,0 +1,1 @@
+Diese Verordnung ist zu publizieren; sie wird sofort wirksam. Auf den gleichen Zeitpunkt wird die Verordnung betreffend die Verwendung des dem Kanton Basel-Stadt zufallenden Gewinnanteils aus den Sport-Toto-Wettbewerben vom 12. Januar 1987 aufgehoben.
