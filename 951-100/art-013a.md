@@ -1,0 +1,4 @@
+# § 13a Verpflichtung der Veranstalterinnen und Veranstalter
+1 Veranstalterinnen und Veranstalter von Anlässen wie Messen, Kongressen, Konzerten, Sportveranstaltungen und dergleichen mit voraussichtlich hohem Besucheraufkommen haben sicherzustellen, dass die Erreichbarkeit mit dem öffentlichen Verkehr in angemessener Weise gewährleistet ist.
+2 Ist diese Erreichbarkeit weder durch das ordentliche Verkehrsangebot noch durch die Transportunternehmung selbst angemessen gewährleistet, kann die Veranstalterin resp. der Veranstalter verpflichtet werden, Mehrleistungen des öffentlichen Verkehrs zu bestellen und, soweit zwischen ihr resp. ihm und der Transportunternehmung keine andere Vereinbarung getroffen ist, die ungedeckten Kosten abzugelten.
+3 Der Regierungsrat kann das Nähere in einer Verordnung regeln.
