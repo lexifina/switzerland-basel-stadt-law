@@ -108,6 +108,7 @@
 ###### (1. Teil/4. Abschn./II.) 4. Mitglieder der Verwaltung oder Geschäftsführung juristischer Personen
 ###### (1. Teil/4. Abschn./II.) 5. Hypothekargläubiger und Hypothekargläubigerinnen
 ###### (1. Teil/4. Abschn./II.) 6. Empfänger und Empfängerinnen von Vorsorgeleistungen
+##### (1. Teil/4. Abschn./II.) 6bis. Empfänger und Empfängerinnen von Mitarbeiterbeteiligungen
 ###### (1. Teil/4. Abschn./II.) 7. Abgegoltene Steuer
 #### (1. Teil) 5. Abschnitt: Die Grundstückgewinnsteuer
 ##### (1. Teil/5. Abschn.) I. Steuerpflicht
