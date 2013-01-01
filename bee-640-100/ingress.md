@@ -1,3 +1,4 @@
+Steuerordnung | Bettingen: Einwohnergemeinde
 # Steuerordnung der Gemeinde Bettingen
 Vom 7. Dezember 1999
 Die Gemeindeversammlung der Einwohnergemeinde Bettingen,
