@@ -159,7 +159,7 @@
 #### 22.III. Einseitige Ablösung von Grundpfandverschreibungen (ZGB 828-830)
 #### 22.IV. Amtliche Schätzung (ZGB 843 Abs. 1, 848)
 #### 22.V. Ausfertigung von Schuldbrief und Gült (ZGB 857)
-#### 22.VI. Stellvertreter des Gläubigers bei Schuldbrief und Gült (ZGB 860 Abs. 3)
+#### 22.VI. Stellvertretung der Gläubigerschaft bei Schuldbriefen (ZGB 850 Abs. 3)
 #### 22.VII. Zahlungsort (ZGB 861)
 #### 22.VIII. Kraftloserklärung von Titeln und Coupons bei Gült und Schuldbrief (ZGB 870, 871)
 #### 22.IX. Überwachung der Auslosung und Tilgung bei Anleihensobligationen mit Gültsicherung und bei Seriengülten (ZGB 882)
@@ -176,7 +176,7 @@
 #### 25.III. Vorläufige Eintragung auf richterlichen Befehl (ZGB 961, 966)
 #### 25.IV. Anmerkung öffentlich-rechtlicher Beschränkungen (ZGB 962)
 #### 25.V. Anmeldungen (ZGB 963; Grundbuchverordnung Art. 20)
-#### 25.Va. Aufhebung und Veränderung der Einträge (ZGB 975, 976)
+#### 25.Va. Aufhebung und Veränderung der Einträge (ZGB 975, 976, 976a-c)
 #### 25.VI. Gerichtliche Anfechtung versehentlicher Grundbucheinträge (ZGB 977, Grundbuchverordnung Art. 98 Abs. 4)
 ## V. Teil: Das Obligationenrecht
 ### I. (V. Teil) Wildschaden (OR 56 Abs. 3)
@@ -200,7 +200,7 @@
 #### I.V. Grundpfandrechte
 #### I.VI. Einführung des Grundbuchs (ZGBSchlT 38, 46)
 #### I.VII. Grundbüchliche Behandlung aufgehobener Rechte (ZGBSchlT 45)
-#### I.VIII. Öffentliche Beurkundung und Beglaubigung (ZGBSchlT 55)
+#### I.VIII. Öffentliche Beurkundung und Beglaubigung (ZGBSchlT 55, 55a)
 #### I.IX. Sicherung der Sparkasseneinlagen (ZGBSchlT 57)
 #### I.X. Verkündungs- und Trauungserlaubnis an Ausländer (ZGBSchlT 59 Ziff. 7e)
 ### II. (Schlusstitel) Aufhebung und Änderung kantonalen Rechts

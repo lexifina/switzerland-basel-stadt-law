@@ -1,3 +1,1 @@
-# § 94a
-1 Ist einer Person, die auf Klage der Vormundschaftsbehörde entmündigt werden soll oder die gegenüber der Vormundschaftsbehörde auf Aufhebung der Entmündigung klagen will, ein Beistand zu bestellen, weil das Gericht sie als unfähig erachtet, den Prozess richtig zu führen oder einen Vertreter gehörig zu instruieren, so ist die Vormundschaftsbehörde bei der Bezeichnung des Beistandes an den Vorschlag des prozessleitenden Gerichtspräsidenten gebunden. Sie kann in diesem Fall den Beistand nicht ohne Zustimmung des Gerichtspräsidenten vor Abschluss des Prozesses von seinem Amte entheben.
-2 Hält die Vormundschaftsbehörde die Vorschläge des Präsidenten oder die Verweigerung der Zustimmung für unvereinbar mit dem Interesse des Beistandsbedürftigen, so entscheidet auf ihr Ansuchen das zuständige Departement nach Anhörung des Gerichtspräsidenten; wenn es einen Vorschlag ablehnt, so ist ein neuer Vorschlag einzureichen.
+# § 94a …
