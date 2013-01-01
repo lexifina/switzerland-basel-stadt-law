@@ -1,4 +1,4 @@
-Mietbeitragsverordnung | Sozialhilfe / Sozialbeiträge
+Mietzinsbeitragsverordnung | Sozialhilfe / Sozialbeiträge
 # Verordnung zum Gesetz über die Ausrichtung von Mietzinsbeiträgen an Familien mit Kindern
 (Mietbeitragsverordnung, MIVO)
 Vom 25. November 2008
