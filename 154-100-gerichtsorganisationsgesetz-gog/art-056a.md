@@ -16,7 +16,7 @@ a) des Bundesrechts:
 13. des Bundesgesetzes betreffend die Aufsicht über die privaten Versicherungseinrichtungen (VAG) vom 23. Juni 1978 (Streitigkeiten aus Zusatzversicherungen zur sozialen Krankenversicherung gemäss Art. 47 Abs. 2 und 3 VAG),
 14. Art. 7 ZPO (Zusatzversicherungen zur sozialen Krankenversicherung) und
 b) des kantonalen Rechts:
-1. des Gesetzes betreffend die Versicherung der Mitarbeiterinnen und Mitarbeiter des Kantons Basel-Stadt bei Unfall und Krankheit vom 29. April 1992 (Beschwerden gegen Entscheide gemäss § 16 des Gesetzes),
+1. des Gesetzes betreffend die Versicherung der Mitarbeiterinnen und Mitarbeiter des Kantons Basel-Stadt bei Unfall und Krankheit vom 29. April 1992 (Beschwerden gegen Entscheide gemäss § 15 des Gesetzes),
 2. das Gesetz betreffend die Pensionskasse Basel-Stadt (Pensionskassengesetz) vom 28. Juni 2007 (Klagen gemäss § 54 Abs. 2 Pensionskassengesetz),
 3. des Gesetzes über die Auflösung der kantonalen Alters- und Hinterlassenenversicherung im Kanton Basel-Stadt von 1930 (Auflösungsgesetz KAHV) vom 9. Mai 2007,
 4. des Gesetzes über die Einführung des Bundesgesetzes über die Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherungsowie über die Ausrichtung von kantonalen Beihilfen (EG/ELG) vom 11. November 1987(Beschwerden gegen Einspracheentscheide gemäss § 24a EG/ELG),
