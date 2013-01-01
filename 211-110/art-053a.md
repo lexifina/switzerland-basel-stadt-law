@@ -1,0 +1,2 @@
+# § 53a Zuständige Behörde für die Bewilligung berufsmässiger Ehe- oder Partnerschaftsvermittlung gemäss Art. 406c Abs. 1 OR (EG § 215a)
+1 Das Departement für Wirtschaft, Soziales und Umwelt ist das für die Bewilligung und Aufsicht über die berufsmässige Ehe- oder Partnerschaftsvermittlung von Personen oder an Personen aus dem Ausland zuständige Departement. Ihm steht zur Erfüllung der Aufgaben das Amt für Wirtschaft und Arbeit zur Verfügung.
