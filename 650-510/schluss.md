@@ -1,0 +1,1 @@
+Diese Verordnung ist zu publizieren. Sie wird am 1. Januar 2013 wirksam. Auf den gleichen Zeitpunkt wird die Verordnung vom 3. Januar 1967 zum Gesetz über die Besteuerung der Motorfahrzeuge vom 17. November 1966 aufgehoben.
