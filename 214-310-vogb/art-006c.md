@@ -1,0 +1,6 @@
+# § 6c
+1 Lasten in einem Gebiet auf einer Mehrzahl von Grundstücken materiell bedeutungslose Dienstbarkeiten, Vor- oder Anmerkungen, kann vom Grundbuch- und Vermessungsamt von Amtes wegen deren Bereinigung angeordnet werden (Art. 976c Abs. 1 ZGB).
+2 Die Anordnung wird im Grundbuch angemerkt (Art. 976c Abs. 2 ZGB) und den betroffenen Eigentümerinnen oder Eigentümern sowie den anderen dinglichen Berechtigten mit eingeschriebenem Brief mitgeteilt und veröffentlicht.
+3 Jede Person, die sich durch die Bereinigung in ihren Rechten verletzt sieht, kann beim Grundbuch- und Vermessungsamt innert 30 Tagen seit der Veröffentlichung schriftlich und begründet Einsprache erheben. Dieses prüft die materiellen Voraussetzungen für eine Bereinigung erneut und entscheidet, ob dem Einspruch stattzugeben ist.
+4 Kommt das Grundbuch- und Vermessungsamt zum Schluss, dass die Einsprache abzuweisen ist, so teilt es der berechtigten Person mit, dass es die Bereinigung vornehmen werde, wenn sie nicht innert 30 Tagen beim Gericht auf Feststellung klagt, dass der Eintrag (die Eintragungen) eine rechtliche Bedeutung hat (haben).
+5 Das Grundbuch- und Vermessungsamt nimmt die Bereinigung vor, wenn innert 30 Tagen seit der Veröffentlichung keine Einsprache erhoben wurde.
