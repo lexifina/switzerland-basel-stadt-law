@@ -1,4 +1,4 @@
-Organisationsgesetz | Regierung und Verwaltung / Verwaltungsgebühren
+Organisationsgesetz | Regierung und Verwaltung
 # Gesetz betreffend die Organisation des Regierungsrates und der Verwaltung des Kantons Basel-Stadt
 (Organisationsgesetz, OG)
 Vom 22. April 1976
