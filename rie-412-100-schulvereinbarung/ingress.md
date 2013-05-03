@@ -1,5 +1,5 @@
 Gemeindeschulen: Vereinbarung mit BS und Bettingen | Riehen: Einwohnergemeinde
-# Vereinbarung betreffend die kommunalen Kindergärten und Primarschulen zwischen dem Kanton Basel-Stadt und den Gemeinden Bettingen und Riehen.
+# Vereinbarung betreffend die kommunalen Kindergärten und Primarschulen zwischen dem Kanton Basel-Stadt und den Gemeinden Bettingen und Riehen
 Vom 17. Februar 2009
 In Bezug auf die kommunale Trägerschaft von Kindergarten und Primarschule, nachstehend Gemeindeschulen genannt, vereinbaren
 1. der Kanton Basel-Stadt, nachstehend Kanton genannt,

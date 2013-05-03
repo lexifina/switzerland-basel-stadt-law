@@ -13,4 +13,4 @@ Der Präsident: Willi Fischer
 Der Gemeindeverwalter: Andreas Schuppli
 Genehmigt durch den Einwohnerrat Riehen am 29. April 2009.
 Anhänge
-Anhang BeE 412.100 Anhang 1: Von den kantonalen Fachstellen gemäss § 1 dieser Vereinbarung zu erbringende, vom Kanton finanzierte Dienstleitungen für die Gemeindeschulen Anhang BeE 412.100 Anhang 2: Budget des Erziehungsdepartements für die Primarschulen von Bettingen und Riehen vom 19. Dezember 2006 (Hinweis)
+Anhang BeE 412.100 Anhang 1 : Von den kantonalen Fachstellen gemäss § 1 Anhang BeE 412.100 Anhang 2 : Hinweis zum Budget des Erziehungsdepartements für die Primarschulen von Bettingen und Riehen vom 19. Dezember 2006 Anhang BeE 412.100 Anhang 3 : Hinweis zur Kostenschätzung des Erziehungsdepartements vom 25. April 2012 zur Kostenverschiebung vom Kanton zu den Gemeinden im Zuge der Verlängerung der Primarschule 5. und 6. Jahr.
