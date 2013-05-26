@@ -1,0 +1,6 @@
+# § 5a Jugendgericht
+1 Das Jugendgericht besteht aus fünf Mitgliedern.
+2 Die Präsidentin bzw. der Präsident wird durch die stimmberechtigte Bevölkerung nach den Vorschriften des Gesetzes über Wahlen und Abstimmungen auf die Dauer von sechs Jahren gewählt. Sie bzw. er hat für die Wählbarkeit die Erfordernisse gemäss § 7 zu erfüllen und soll womöglich über Erfahrung in Jugendschutz- oder Jugendstrafsachen verfügen.
+3 Drei Richterinnen bzw. Richter wählt der Regierungsrat auf seine eigene Amtsdauer. Als weitere Richterin bzw. weiteren Richter wählt das Strafgericht auf eine Amtsdauer von zwei Jahren eine Strafrichterin bzw. einen Strafrichter. Unter den Mitgliedern des Jugendgerichts sollen sich womöglich Fachleute aus dem medizinischen, psychosozialen und pädagogischen Bereich befinden; zudem sollen soweit möglich beide Geschlechter vertreten sein.
+4 Nach denselben Vorschriften bestellt der Regierungsrat für jede Amtsdauer drei Ersatzrichterinnen bzw. Ersatzrichter, das Strafgericht eine Ersatzrichterin bzw. einen Ersatzrichter.
+5 Die Präsidentin oder der Präsident wird im Falle der Abwesenheit durch eine Stellvertreterin oder einen Stellvertreter vertreten. Der Regierungsrat bestimmt aus den Reihen der Richterinnen bzw. Richter oder Ersatzrichterinnen bzw. Ersatzrichter zwei stellvertretende Personen mit juristischer Ausbildung.
