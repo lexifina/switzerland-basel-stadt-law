@@ -1,0 +1,1 @@
+Dieses Gesetz ist zu publizieren; es unterliegt dem Referendum und wird mit Eintritt der Rechtskraft wirksam.
