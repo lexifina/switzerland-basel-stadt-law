@@ -1,0 +1,1 @@
+Diese Verordnung ist zu publizieren; sie wird auf den Beginn des Schuljahres 2013/14 am 12. August 2013 wirksam. Auf den gleichen Zeitpunkt wird die Verordnung über den Bildungsgang zur diplomierten Pflegefachfrau HF oder zum diplomierten Pflegefachmann HF vom 11. Dezember 2007 aufgehoben.
