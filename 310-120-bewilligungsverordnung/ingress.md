@@ -1,4 +1,4 @@
-Bewillligungsverordnung | Medizinalpersonen / Komplementärmedizin
+Bewilligungsverordnung | Medizinalpersonen / Komplementärmedizin
 # Verordnung über die Fachpersonen und Betriebe im Gesundheitswesen
 (Bewilligungsverordnung)
 Vom 6. Dezember 2011
