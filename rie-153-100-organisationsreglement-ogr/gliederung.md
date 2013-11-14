@@ -6,7 +6,7 @@
 ## 3. Verwaltungsorganisation
 ### 3.1 Allgemeines
 ### 3.2 Zuständigkeiten
-## 4. Information und Öffentlichkeit
+## 4. Information und Zugang zu Informationen
 ## 5. Führungsinstrumente
 ### 5.1 Leistungsvereinbarungen
 ### 5.2 Berichtswesen

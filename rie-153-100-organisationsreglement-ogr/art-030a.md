@@ -1,0 +1,4 @@
+# § 30a Veröffentlichungen des Gemeinderats
+1 Der Gemeinderat informiert regelmässig aus seinen Sitzungen.
+2 Er publiziert seine beschlossenen Reglemente und weitere zur Publikation bestimmte Beschlüsse im Kantonsblatt, in der Riehener Zeitung und im Internet.
+3 Im Internet veröffentlicht werden zudem die an den Einwohnerrat verabschiedeten Vorlagen und Berichte.
