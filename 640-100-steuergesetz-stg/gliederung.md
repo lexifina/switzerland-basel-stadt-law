@@ -271,6 +271,7 @@
 #### (5. Teil/III.) 5. Berufliche Vorsorge
 #### (5. Teil/III.) 6. Steuerfuss
 #### (5. Teil/III.) 6a. Einkommenssteuersatz
+#### (5.Teil/III.) 6b. Ausgleich der kalten Progression
 #### (5. Teil/III.) 7. Steuerermässigungen
 #### (5. Teil/III.) 7a. Rentenversicherungen
 #### (5. Teil/III.) 8. Gewinnsteuersatz
