@@ -1,2 +1,2 @@
 Anhänge
-Anhang BeE 640.100 : Vergütungs- und Verzugszins für Steuerzalungen 2013
+Anhang BeE 640.100 : Ausser Kraft Anhang BeE_640.100_Anhang : Vergütungs- und Verzugszins für Steuerzahlungen
