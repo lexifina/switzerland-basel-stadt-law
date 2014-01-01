@@ -1,0 +1,1 @@
+Diese Verordnung ist zu publizieren; sie wird am 1. September 2009 wirksam. Auf den gleichen Zeitpunkt wird die Verordnung über die Inanspruchnahme der Allmend (Allmendverordnung) vom 5. November 1974 aufgehoben.
