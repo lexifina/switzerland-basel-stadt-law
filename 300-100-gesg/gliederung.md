@@ -16,7 +16,7 @@
 ### IV.2. Palliative Behandlung
 ### IV.3. Besonderheiten bei Urteilsunfähigkeit
 ### IV.4. Behandlungsabbruch und -verzicht
-### IV.5. Einwilligung bei Einbezug in die Ausbildung und Forschung
+### IV.5. Einwilligung bei Einbezug in die Ausbildung
 ### IV.6. Obduktion
 ## V. Fachpersonen im Gesundheitswesen
 ### V.1. Grundsatz
