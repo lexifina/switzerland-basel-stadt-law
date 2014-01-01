@@ -9,5 +9,5 @@ Der Regierungsrat des Kantons Basel-Stadt erlässt,
 – Pläne und Beschriebe über den Bau und die Ausrüstung der Institution;
 – Stellenpläne und Qualifikationsanforderungen an das Personal;
 – Befugnisse und Zuständigkeiten in ärztlicher, pflegerischer, pharmazeutischer und administrativer Hinsicht;
-– kantonale Bewilligung zur Führung und zum Betrieb eines Alters -und Pflegeheims gemäss Alters- und Pflegeheimverordnung vom11. Dezember 1990.
+– kantonale Bewilligung zur Führung und zum Betrieb eines Alters- und Pflegeheims gemäss Alters- und Pflegeheimverordnung vom 11. Dezember 1990.
 Dieser Beschluss ist samt Anhang zu publizieren und den betroffenen Institutionen zuzustellen. Der Beschluss wird am 1. Januar 1996 wirksam.
