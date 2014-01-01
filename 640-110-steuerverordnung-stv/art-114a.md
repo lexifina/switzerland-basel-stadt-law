@@ -1,2 +1,2 @@
 # § 114a
-1 Arbeitgeberinnen und Arbeitgeber haben die Beschäftigung von Personen, die nach §§ 90 oder 95 des Steuergesetzes quellensteuerpflichtig sind, der Steuerverwaltung innert acht Tagen ab Stellenantritt auf dem hiefür vorgesehenen Formular zu melden.
+1 Arbeitgeberinnen und Arbeitgeber haben die Beschäftigung von Personen, die nach den §§ 90, 95 oder 96 des Steuergesetzes quellensteuerpflichtig sind, der Steuerverwaltung innert acht Tagen ab Stellenantritt auf dem hierfür vorgesehenen Formular zu melden. Bei Abrechnung der Quellensteuer mittels elektronischem Lohnmeldeverfahren kann die Meldung mit der ersten monatlichen Abrechnung erfolgen.

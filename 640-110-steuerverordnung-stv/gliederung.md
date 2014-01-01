@@ -82,6 +82,8 @@
 #### 4.IV.4. Teilveräusserung
 #### 4.IV.5. Berechnung der Besitzesdauer
 ### 4.V. Verlustverrechnung
+## 4a. Teil: Die Grundstücksteuer
+### 4a.I. Bestimmung des Ertragswerts für Wohngenossenschaften
 ## 5. Teil: Organisation und Verfahren
 ### 5.I. Amtsgeheimnis und Amtshilfe
 #### 5.I.1. Grundsatz
