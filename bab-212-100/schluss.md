@@ -1,0 +1,2 @@
+Schlussbestimmung
+Dieses Reglement ist zu publizieren; es wird sofort wirksam.
