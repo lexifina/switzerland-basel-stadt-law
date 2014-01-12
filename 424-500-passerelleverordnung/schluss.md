@@ -1,0 +1,1 @@
+Diese Verordnung ist zu publizieren; sie wird am 1. August 2011 wirksam. Auf den gleichen Zeitpunkt wird die Verordnung betreffend den Passerellen-Lehrgang und die Ergänzungsprüfungen für die Anerkennung von Berufsmaturitätsausweisen für die Zulassung zu den universitären Hochschulen (Passerellenverordnung) vom 18. Oktober 2005 aufgehoben.
