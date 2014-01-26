@@ -2,7 +2,7 @@
 ## II. Förderung durch finanzielle Mittel
 ### 1. Finanzierung durch Kanton und Landgemeinden
 #### a) Allgemeine Voraussetzungen
-#### b) Subventionen an Trägerschaften
+#### b) Staatsbeiträge an Trägerschaften mit Leistungsvereinbarungen
 ### 2. Finanzierung durch die Eltern
 ## III. Förderung auf andere Art
 ## IV. Bewilligung und Aufsicht

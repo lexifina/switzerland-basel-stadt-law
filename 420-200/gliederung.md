@@ -12,7 +12,7 @@
 ### 6. Lehrstellenförderung
 ## VII. Nachholbildung, berufsorientierte Weiterbildung und höhere Berufsbildung
 ## VIII. Entwicklung der Berufsbildung
-## IX. Beiträge und Subventionen
+## IX. Ausbildungs- und Staatsbeiträge
 ## X. Rechtspflege
 ## XI. Interkantonale und regionale Zusammenarbeit
 ## XII. Schlussbestimmungen
