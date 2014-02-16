@@ -1,4 +1,4 @@
-Informations- und Datenschutzverordnung | Regierung und Verwaltung / Verwaltungsgebühren
+Informations- und Datenschutzverordnung | Regierung und Verwaltung
 # Verordnung über die Information und den Datenschutz (Informations- und Datenschutzverordnung, IDV)
 Vom 9. August 2011
 Der Regierungsrat des Kantons Basel-Stadt,
