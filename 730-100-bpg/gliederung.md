@@ -55,10 +55,10 @@
 ##### 2.III. Stadt- und Dorfbild-Schutzzone
 ##### 2.IV. Stadt- und Dorfbild-Schonzone
 ##### 2.V. Zone für Nutzungen im öffentlichen Interesse
-##### 2.VI. Grünzone
-###### 2.VI.1. Grünanlagen
-###### 2.VI.2. Landwirtschaftsgebiete
-###### 2.VI.3. Übrige Gebiete in der Grünzone
+##### 2.VI. Zonen für Freiraumnutzungen
+###### 2.VI.1. Grünzonen und Grünanlagenzonen
+###### 2.VI.2. Landwirtschaftszonen
+###### 2.VI.3. Zonen des Natur- und Landschaftsschutzes
 #### 3. Abschnitt: Keiner Zone zugewiesene Gebiete
 #### 4. Abschnitt: Besondere Verhältnisse
 ##### 4.1. Zonengrenzen
