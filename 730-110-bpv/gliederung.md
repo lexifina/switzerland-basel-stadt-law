@@ -89,7 +89,7 @@
 ###### (5.B.II.)3. Freigabe
 ##### (5.B.)III. Abwehrmassnahmen
 ###### (5.B.III.)1. Gefahr
-###### (5.B.III.)2. Bauausführung ohne Bewilligung
+###### (5.B.III.)2. Ausführung bewilligungspflichtiger Vorhaben ohne Bewilligung oder in Abweichung der Bewilligung
 ###### (5.B.III.)3. Zwangsmittel
 #### (5.)C. Ausführungsbestimmungen
 #### (5.)D. Anmerkungen und Eintragungen im Grundbuch
