@@ -1,2 +1,4 @@
 # § 26a Meldungen der Krankenversicherer
-1 Einmal jährlich, jeweils per 31. März, melden die Krankenversicherer dem Amt für Sozialbeiträge die Personendaten nach Art. 105g KVV aller ihrer im Kanton Basel-Stadt versicherten Personen. Die Meldungen haben gemäss dem einheitlichen Datenaustausch nach Bundesrecht zu erfolgen.
+1 Die im Kanton Basel-Stadt tätigen Krankenversicherer erteilen dem Amt für Sozialbeiträge auf Anfrage Auskunft über das Versicherungsverhältnis nach KVG einzelner Personen zwecks Kontrolle der Krankenversicherungsbeiträge und Nachweis des Versicherungsverhältnisses.
+2 Einmal jährlich, jeweils per 31. März melden die Krankenversicherer dem Amt für Sozialbeiträge auf Anfrage die Personendaten nach Art. 105g KVV aller ihrer im Kanton Basel-Stadt versicherten Personen. Die Meldungen dienen dem Abgleich der Datenbestände und der Überprüfung der Einhaltung der Versicherungspflicht.
+3 Die Meldungen gemäss Abs. 1 und Abs. 2 erfolgen mittels einheitlichem Datenaustausch gemäss Verordnung des EDI über den Datenaustausch für die Prämienverbilligung (VDPV-EDI).
