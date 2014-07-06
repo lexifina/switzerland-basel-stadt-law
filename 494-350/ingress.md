@@ -1,4 +1,4 @@
-Kulturpreisverleihung. V
+Kulturpreisverleihung. Verordnung
 # Verordnung für die Verleihung des Kulturpreises des Kantons Basel-Stadt
 Vom 17. August 2010
 Der Regierungsrat des Kantons Basel-Stadt,
