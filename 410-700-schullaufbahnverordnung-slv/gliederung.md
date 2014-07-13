@@ -17,7 +17,7 @@
 ## V. Übertritt von der Primarschule in die Sekundarschule
 ## VI. Wechsel der Leistungszüge und individuelle Intensivförderung in der Sekundarschule
 ## VII. Übertritt von der Sekundarschule in die weiterführenden Schulen
-## VIII. Schülerinnen und Schüler mit individuellen Lernzielen
+## VIII. Schülerinnen und Schüler mit individuellen Lernzielen in der Volksschule
 ## IX. Abschlüsse
 ### 13. Volksschule
 ### 14. Weiterführende Schulen

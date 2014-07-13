@@ -1,6 +1,6 @@
 Schlussbestimmung
 Diese Verordnung ist zu publizieren. Sie wird, abgesehen von § 4 Abs. 2, wirksam
-a) für die Primarstufe auf Beginn des Schuljahres 2013/14 am 12. August 2013. Die Leistungen in den Kompetenzbereichen der Fachbereiche oder Fächer (§ 27) werden ab dem Schuljahr 2015/16 eingeschätzt;
+a) für die Primarstufe auf Beginn des Schuljahres 2013/14 am 12. August 2013;
 b) für die Sekundarschule auf Beginn des Schuljahres 2015/16 am 17. August 2015;
 c) für die weiterführenden Schulen auf Beginn des Schuljahres 2018/19 am 13. August 2018.
 § 4 Abs. 2 wird am 1. Januar 2016 wirksam. Den Zeitpunkt der Wirksamkeit der Änderungen und Aufhebungen anderer Erlasse bestimmen §§ 98 und 99.
