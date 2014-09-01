@@ -3,7 +3,6 @@ Im Namen der Schweizerischen Konferenz
 der kantonalen Erziehungsdirektoren
 Der Präsident: Peter Schmid
 Der Generalsekretär: Moritz Arnet
-Von der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren im Einvernehmen mit der Schweizerischen Konferenz der kantonalen Gesundheitsdirektorinnen und -direktoren und der Konferenz der kantonalen Sozialdirektoren beschlossen.
 Die Genehmigung des Bundes (Eidgenössisches Departement des Innern) erfolgte am 24. November 1994.
 Die Vereinbarung ist am 1. Januar 1995 in Kraft getreten.
 Der Vereinbarung gehören alle Kantone an (Stand August 1997).
@@ -15,5 +14,6 @@ Im Namen der Schweizerischen Konferenz
 der kantonalen Erziehungsdirektoren
 Der Präsident: Hans Ulrich Stöckling
 Der Generalsekretär: Hans Ambühl
+Die Änderungen vom 16. Juni 2005 sind am 1. Januar 2008 in Kraft getreten.
 Anhänge
-Anhang 419.900 Anhang: Register der Ausbildungsabschlüsse
+Anhang 419.900 : Register der Ausbildungsabschlüsse Anhang 419.900 Anhang : Ausser Kraft
