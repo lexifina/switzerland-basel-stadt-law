@@ -1,4 +1,4 @@
-Kindes- und Erwachsenenschutz. V | Personen- und Familienrecht
+Kindes- und Erwachsenenschutz: Verordnung | Personen- und Familienrecht
 # Verordnung zum kantonalen Kindes- und Erwachsenenschutzgesetz
 (VoKESG)
 Vom 16. April 2013
