@@ -1,0 +1,5 @@
+# § 20a Stadtsauberkeit und Abfallvermeidung
+1 An öffentlichen Veranstaltungen auf öffentlichem Grund dürfen für Getränke und Esswaren nur bepfandetes Mehrweggeschirr sowie bepfandete PET-Flaschen verwendet werden. Dies gilt auch für öffentliche Veranstaltungen auf privatem Grund mit mehr als 500 Personen. Für Gebäude und Grundstücke des Kantons, die ausserhalb des Kantonsgebiets liegen, verpflichtet die zuständige Behörde die Nutzer auf die gleichen Regeln.
+2 Von dieser Regelung ausgenommen ist die Fasnacht. Der Regierungsrat kann Ausnahmen für weitere öffentliche Veranstaltungen vorsehen, wenn der Einsatz von bepfandetem Mehrweggeschirr und bepfandeten PET-Flaschen nicht sinnvoll erscheint.
+3 Der Regierungsrat kann für öffentliche Grossveranstaltungen einen zeitlich befristeten Rayon bestimmen, in dem Getränke und Esswaren, die zum unmittelbaren Verzehr bestimmt sind, nur in bepfandetem Mehrweggeschirr und bepfandeten PET-Flaschen abgegeben werden dürfen.
+4 Wer Getränke oder Nahrungsmittel zum unmittelbaren Verzehr verkauft (Take-away), muss während der Öffnungszeiten vor dem Verkaufslokal Abfalleimer aufstellen und die Abfälle auf eigene Kosten entsorgen.
