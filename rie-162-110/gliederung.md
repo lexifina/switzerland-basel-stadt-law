@@ -1,4 +1,4 @@
-## I. Allgemeinese
+## I. Allgemeines
 ## II. Anstellung, Stellenwechsel und Beförderung
 ## III. Arbeitszeit
 ## IV. Ferien
@@ -8,4 +8,4 @@
 ## VIII. Weitere Rechte und Pflichten der Mitarbeiterinnen und Mitarbeiter
 ## IX. Konfliktlösung, Beratung und Massnahmen
 ## X. Orientierung und Mitwirkung
-## XI. Ausführungs- und Schlussbestimmungen
+## XI. Ausführungs-, Übergangs- und Schlussbestimmungen
