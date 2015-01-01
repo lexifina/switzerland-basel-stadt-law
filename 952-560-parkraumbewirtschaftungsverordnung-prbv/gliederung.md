@@ -5,7 +5,8 @@
 ### III. Bezugsverfahren
 ### IV. Gültigkeit
 ### V. Gebühren für Parkkarten
-### VI. Rechtsmittel
+### VI. Gewerbeparkkarten im Paket
+### VII. Rechtsmittel
 ## C. Parkieren gegen Gebühr
 ## D. Strafbestimmung
 ## E. Übergangs- und Schlussbestimmungen

@@ -1,2 +1,2 @@
 Schlussbestimmung
-Diese Verordnung ist zu publizieren. Sie wird am 1. August 2012 wirksam. Auf den gleichen Zeitpunkt werden die Verordnung über das unbeschränkte Parkieren in Blauen Zonen (Parkkartenverordnung) vom 8. April 1986 sowie § 24 Ziff. 1 bis 4 der Verordnung über den Strassenverkehr (Strassenverkehrsverordnung, StVO) vom 17. Mai 2011 aufgehoben.
+Diese Verordnung ist zu publizieren. Sie wird am 1. Januar 2015 wirksam. Auf den gleichen Zeitpunkt wird die Verordnung über die Parkraumbewirtschaftung (Parkraumbewirtschaftsungsverordnung, PRBV) vom 12. Juni 2012 aufgehoben.
