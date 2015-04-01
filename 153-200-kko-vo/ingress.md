@@ -1,6 +1,7 @@
-Besondere und ausserordentliche Lagen: Verordnung | Regierung und Verwaltung
-# Verordnung über die Sicherstellung der Regierungs- und Verwaltungstätigkeit in besonderen und ausserordentlichen Lagen
-Vom 27. Juni 2006
+Kantonale Krisenorganisation: Verordnung | Regierung und Verwaltung/Verwaltungsgebühren
+# Verordnung über die Kantonale Krisenorganisation
+(KKO VO)
+Vom 24. März 2015
 Der Regierungsrat des Kantons Basel-Stadt,
-gestützt auf §§ 3 und 34 des Gesetzes betreffend die Organisation des Regierungsrates und der Verwaltung des Kantons Basel-Stadt (Organisationsgesetz) vom 22. April 1976, § 12 des Personalgesetzes vom 17. November 1999 und § 3 des Gesetzes betreffend die Kantonspolizei des Kantons Basel-Stadt (Polizeigesetz, PolG) vom 13. November 1996,
+gestützt auf Art. 6 Abs. 1 und 2 und Art. 9 Abs. 1 des Bundesgesetzes über den Bevölkerungs- und den Zivilschutz (Bevölkerungs- und Zivilschutzgesetz, BZG) vom 4. Oktober 2002, den § 24 Abs. 2 der Verfassung des Kantons Basel-Stadt und § 3 des Gesetzes betreffend die Kantonspolizei des Kantons Basel-Stadt (Polizeigesetz, PolG) vom 13. November 1996,
 beschliesst:
