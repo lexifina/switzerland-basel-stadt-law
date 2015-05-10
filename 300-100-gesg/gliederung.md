@@ -49,9 +49,9 @@
 ### VIII.1. Disziplinarmassnahmen
 ### VIII.2. Strafbestimmungen
 ## IX. Vollzugsbestimmungen
-## X. Statistik und Bericht über die Gesundheit der Bevölkerung
+## X. Statistik und Bericht über die Gesundheit der Bevölkerung sowie die Prämienentwicklung
 ### X.1. Statistik
-### X.2. Bericht über die Gesundheit der Bevölkerung
+### X.2. Berichterstattung
 ## XI. Übergangs- und Schlussbestimmungen
 ### XI.1. Bestehende Erlasse
 ### XI.2. Bestehende Bewilligungen
