@@ -17,6 +17,6 @@
 ### (Kap.IV.)II. Rückerstattung unrechtmässig bezogener Leistungen
 ### (Kap.IV.)III. Akteneinsicht
 ### (Kap.IV.)IV. Aufbewahrung von Unterlagen
-## Kapitel V: Verwenden und Veröffentlichen der Daten für statistische Zwecke
+## Kapitel V: Bekanntgabe von Daten für nicht personenbezogene Zwecke
 ## Kapitel VI: Vollzug
 ## Kapitel VII: Übergangs- und Schlussbestimmungen
