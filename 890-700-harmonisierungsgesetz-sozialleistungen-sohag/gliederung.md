@@ -3,5 +3,5 @@
 ## III. Kapitel: Datenbank, Zugriffsrechte und Schweigepflicht
 ## IV. Kapitel: Allgemeine Verfahrensbestimmungen
 ## V. Kapitel: Datenschutz
-## VI. Kapitel: Verwenden und veröffentlichen der Daten für statistische Zwecke
+## VI. Kapitel: Bekanntgabe von Daten für nicht personenbezogene Zwecke
 ## VII. Kapitel: Übergangs- und Schlussbestimmungen

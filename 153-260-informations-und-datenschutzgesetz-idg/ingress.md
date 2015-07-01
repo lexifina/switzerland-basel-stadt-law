@@ -1,4 +1,4 @@
-Informations- und Datenschutzgesetz | Regierung und Verwaltung / Verwaltungsgebühren
+Informations- und Datenschutzgesetz | Regierung und Verwaltung
 # Gesetz über die Information und den Datenschutz
 (Informations- und Datenschutzgesetz, IDG)
 Vom 9. Juni 2010
