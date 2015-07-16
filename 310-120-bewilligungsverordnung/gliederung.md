@@ -6,7 +6,7 @@
 ## III. Bewilligungs- und Meldepflichten
 ### III.1. Bewilligungspflicht
 ### III.2. Bewilligung zur eingeschränkten Berufsausübung
-### III.3. Meldepflicht gemäss Art. 35 MedBG
+### III.3. Meldepflicht gemäss Art. 35 MedBG und Art. 23 PsyG
 ## IV. Bewilligungsverfahren
 ### IV.1. Bewilligungsgesuch
 ### IV.2. Urkunden und Angaben
