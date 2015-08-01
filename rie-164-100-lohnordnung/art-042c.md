@@ -1,0 +1,5 @@
+# § 42c Besitzstand bei Positionierung über der speziellen Lohnkurve
+1 Führt die Neueinreihung bei Mitarbeiterinnen und Mitarbeitern, welche am 31. Juli 2015 keinen Besitzstand gemäss den Regelungen der Schulordnung oder des Schulreglements haben, zu einer Positionierung ihres individuellen Gehalts über der zutreffenden speziellen Lohnkurve, ergibt sich per 1. August 2015 eine frankenmässige Besitzstandssituation.
+2 Führt die Neueinreihung bei Lehrpersonen und Fachpersonen Logopädie, welche am 31. Juli 2015 einen frankenmässigen Besitzstand gemäss den § 40 oder § 45n der Schulordnung bzw. § 55e des Schulreglements haben, zu einer Positionierung ihres individuellen Gehalts über der zutreffenden speziellen Lohnkurve, gilt der bisherige frankemässige Besitzstand weiter.
+3 In allen Fällen gemäss Abs. 1 und 2 haben die Mitarbeiterinnen und Mitarbeiter Anspruch auf eine Lohnzahlung gemäss bisheriger Entlöhnung (frankenmässiger Besitzstand) bis zum Zeitpunkt, in welchem ihre Entlöhnung derjenigen der zutreffenden speziellen Lohnkurve entspricht.
+4 Der Teuerungsausgleich richtet sich in diesem Fall nach § 37 Abs. 2 dieser Ordnung.
