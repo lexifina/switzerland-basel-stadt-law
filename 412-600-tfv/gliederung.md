@@ -1,10 +1,12 @@
 ## I. Allgemeines
-## II. Tagesstrukturangebote an Tagesschulen
-## III. Schulexterne Mittagstische und Tagesferien
-## IV. Nichtstaatliche Sonderschulen
-## V. Qualitätssicherung
-## VI. Beiträge der Erziehungsberechtigten
-## VII. Zulassung
-## VIII. Zuständigkeiten
-## IX. Rechtsmittel
-## X. Schlussbestimmungen
+## II. Tagesstrukturen der Primarstufe
+## III. Tagesstrukturen der Sekundarschulen
+## IV. Schulexterne Mittagstische und Tagesferien
+## V. Beiträge der Erziehungsberechtigten für die Tagesstrukturen der Primarstufe, für schulexterne Mittagstische und Tagesferien
+## VI. Kosten für die Tagesstrukturen der Sekundarschulen
+## VII. Gebühren
+## VIII. Zulassung von privaten Institutionen und Aufsicht
+## IX. Zuständigkeiten
+## X. Ausführungsbestimmungen
+## XI. Rechtsmittel
+## XII. Schlussbestimmung
