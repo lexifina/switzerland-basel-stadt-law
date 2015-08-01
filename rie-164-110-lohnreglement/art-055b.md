@@ -1,0 +1,3 @@
+# § 55b Befristete Anstellungen
+1 Lehr- und Fachpersonen, welche am 31. Juli 2015 befristet angestellt sind, werden in ein unbefristetes Arbeitsverhältnis überführt, wenn nach Ablauf der zweijährigen Befristung gemäss § 21 Abs. 2 des Schulreglements die Voraussetzungen für ein unbefristetes Arbeitsverhältnis per 1. August 2015 erfüllt sind. In diesem Fall werden die Arbeitsverhältnisse gemäss den §§ 42b bis 42g überführt.
+2 Sind sie zu diesem Zeitpunkt erst ein Jahr befristet angestellt, werden sie mit einem befristeten Arbeitsvertrag überführt. Für die Überführung gelten die Regelungen des Neueintritts. Erfolgt im Ausnahmefall bereits nach einem Jahr Befristung eine unbefristete Anstellung per 1. August 2015 gelten ebenfalls die Regelungen des Neueintritts.

@@ -15,6 +15,8 @@
 ## VI. Rechtsmittel und Verfahren
 ## VII. Übergangs- und Schlussbestimmungen
 ### VII. 1. Übergangsregelung
+#### a) Neue Lohnordnung per 1.1.2009
+#### b) Neueinreihung der pädagogischen Funktionen ohne Leistungslohnkomponente per 1.8.2015
 ### VII. 2. Änderungen anderer Erlasse
 ### VII. 3. Aufhebung bisherigen Rechts
 ### VII. 4. Publikation und Wirksamkeit
