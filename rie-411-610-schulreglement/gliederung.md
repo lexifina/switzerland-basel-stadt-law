@@ -17,4 +17,5 @@
 ### (VI.)1. Kommunalisierung der Primarschule
 ### (VI.)2. Schulharmonisierung
 ### (VI.)3. Übernahme von Fachpersonen Logopädie
+### (VI.)4. Übernahme der Lehrpersonen Musik und Bewegung
 ## VII. Schlussbestimmungen
