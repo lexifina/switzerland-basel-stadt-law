@@ -13,9 +13,9 @@
 ## IV. Beförderung und Nichtbeförderung, Wiederholen und Überspringen
 ### 10. Beförderung und Wiederholung in der Volksschule
 ### 11. Beförderung, Nichtbeförderung und Wiederholung in den weiterführenden Schulen
-### 12. Überspringen in den allgemeinbildenden Schulen
+### 12. Überspringen in den Volksschulen, Gymnasien und der FMS
 ## V. Übertritt von der Primarschule in die Sekundarschule
-## VI. Wechsel der Leistungszüge und individuelle Intensivförderung in der Sekundarschule
+## VI. Wechsel der Leistungszüge und zusätzliche individuelle Förderung im Leistungszug in der Sekundarschule
 ## VII. Übertritt von der Sekundarschule in die weiterführenden Schulen
 ## VIII. Schülerinnen und Schüler mit individuellen Lernzielen in der Volksschule
 ## IX. Abschlüsse
