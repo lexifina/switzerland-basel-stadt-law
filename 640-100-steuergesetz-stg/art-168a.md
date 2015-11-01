@@ -6,3 +6,4 @@ c) in Fällen, in denen ein Gesuch um Steuererlass oder Stundung Gegenstand des 
 d) bei offensichtlich abzuweisenden oder gutzuheissenden Rekursen.
 2 Die Präsidentin oder der Präsident kann eine Streitsache an die Steuerrekurskommission zur Entscheidung vorlegen, wenn die Bedeutung des Falles oder der zu entscheidenden Rechtsfragen dies als angezeigt erscheinen lässt.
 3 Der Vizepräsidentin oder dem Vizepräsidenten, gegebenenfalls einem anderen Mitglied der Steuerrekurskommission stehen die gleichen Befugnisse zu wie der Präsidentin oder dem Präsidenten der Steuerrekurskommission.
+4 Die Präsidentin oder der Präsident kann die Erledigung der Aufgaben gemäss Abs. 1 lit. a und b teilweise oder ganz an das juristische Sekretariat delegieren.
