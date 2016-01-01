@@ -1,0 +1,7 @@
+# § 24e Versicherung der Magistratspersonen bei der Pensionskasse des Kantons Basel-Stadt
+1 Magistratspersonen sind während ihre Amtsdauer und bis zur Beendigung des Anspruchs auf das Ruhegehalt gemäss § 24d hinsichtlich ihrer Versicherung im Rahmen des Pensionskassengesetzes den übrigen Versicherten gleichgestellt. Bei Ausscheiden aus dem Amt infolge Todes oder Invalidität werden die Leistungen gemäss dem Vorsorgeplan des Bereichs Staat erbracht.
+2 Scheidet eine Magistratsperson vor Erreichen des ordentlichen Rücktrittsalters durch Rücktritt oder Nichtwiederwahl aus dem Amt, ist sie in der Pensionskasse Basel-Stadt während der Dauer des Anspruchs auf das Ruhegehalt weiter zu versichern.
+3 Der versicherte Jahreslohn entspricht:
+a) für das Alterssparen dem gemäss § 24d Abs. 6 allfällig gekürzten Ruhegehalt;
+b) für das Risiko Tod und Invalidität dem gemäss § 24a zum Zeitpunkt des Ausscheidens aus dem Amt berechneten versicherten Lohnes.
+4 Die Höhe der ordentlichen Sparbeiträge nach Alter auf Basis des versicherten Lohnes gemäss Abs. 3 lit. a richtet sich nach § 24b Abs. 4, der Beitrag zur Finanzierung der Risikoleistungen und der übrigen Leistungen auf Basis des versicherten Lohnes gemäss Abs. 3 lit. b nach § 24b Abs. 6. Die gesamten Sparbeiträge werden im Folgejahr auf der Basis der Abrechnung gemäss § 24d Abs. 6 in einem Betrag vom Kanton geleistet und als Einmaleinlage gutgeschrieben.

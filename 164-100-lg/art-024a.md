@@ -1,7 +1,7 @@
-# § 24a Ruhegehalt für Magistratspersonen
-1 Scheidet eine Magistratsperson gemäss § 45 des Gesetzes betreffend die Pensionskasse Basel-Stadt (Pensionskassengesetz) aus dem Amt, ohne dass Vorsorgeleistungen der Pensionskasse fällig werden, so besteht Anspruch auf ein Ruhegehalt.
-2 Der Anspruch auf das Ruhegehalt beginnt ab dem Monat, der dem Ausscheiden aus dem Amt folgt, und besteht längstens bis zum Monat, in welchem das 63. Altersjahr erreicht wird. Bei vorzeitigem Tod oder mit Beginn des Anspruchs auf Vorsorgeleistungen der Pensionskasse erlischt das Ruhegehalt.
-3 Die Höhe des Ruhegehalts ist abhängig vom Alter zum Zeitpunkt des Ausscheidens aus dem Amt und den geleisteten Amtsjahren. Es entspricht dem Prozentsatz des in der Pensionskasse zu versichernden Lohnes (ohne Koordinationsabzug) gemäss den Tabellen 1 und 2 im Anhang zum Pensionskassengesetz. Vorbehalten bleibt Abs. 4.
-4 Für die zum Zeitpunkt des Wirksamwerdens dieses Paragraphen amtierenden Magistratspersonen entspricht das Ruhegehalt mindestens der Höhe der gemäss bisheriger Sonderregelung (§ 50 [alt]PKG/UePKG) versicherten Rente.
-5 Erzielt die ehemalige Magistratsperson ein Erwerbs- oder Renteneinkommen, das zusammen mit dem Ruhegehalt den früheren, als Magistratsperson erzielten Lohn übersteigt, so wird das Ruhegehalt um den Mehrbetrag gekürzt.
-6 Der Regierungsrat erlässt die erforderlichen Ausführungsbestimmungen.
+# § 24a Versicherter Jahreslohn
+1 Der versicherte Jahreslohn entspricht dem um einen Koordinationsabzug verminderten massgebenden Jahreslohn.
+2 Als massgebender Jahreslohn gilt der gesetzlich oder vertraglich festgelegte Lohn, zuzüglich allfälliger Schichtzulagen.
+3 Der Koordinationsabzug beträgt 3/8 des massgebenden Jahreslohns, höchstens aber den Betrag der jährlichen maximalen AHV-Altersrente.
+4 Bei Teilzeitbeschäftigten wird der Beschäftigungsgrad für die Ermittlung des versicherten Lohnes berücksichtigt.
+5 Der gemäss Anhang 1 dieses Gesetzes das Maximum von Lohnklasse 22 übersteigende Betrag wird nur zu 50% versichert und der das Maximum der Lohnklasse 28 übersteigende Betrag wird nicht berücksichtigt.
+6 …

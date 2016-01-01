@@ -1,7 +1,7 @@
 Pensionskassengesetz | Pensionsversicherung
 # Gesetz betreffend die Pensionskasse Basel-Stadt
-(Pensionskassengesetz)
-Vom 28. Juni 2007
+(Pensionskassengesetz, PKG)
+Vom 4. Juni 2014
 Der Grosse Rat des Kantons Basel-Stadt,
-nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. 05.1314.01 vom 30. August 2006 sowie in den Bericht der Spezialkommission Totalrevision Pensionskassengesetz Nr. 05.1314.02 vom 30. Mai 2007,
+nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. 12.1065.01 vom 27. August 2013 sowie in den Bericht der Wirtschafts- und Abgabekommission Nr. 12.1065.02 vom 28. April 2014,
 beschliesst:
