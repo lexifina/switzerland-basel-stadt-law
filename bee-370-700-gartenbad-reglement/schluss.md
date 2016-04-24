@@ -1,2 +1,4 @@
 Schlussbestimmung
-Dieses Reglement ist zu publizieren; es wird am 1. Mai 2012 wirksam. Auf den gleichen Zeitpunkt wird das Reglement für das Gartenbad vom 27. Januar 2004 aufgehoben.
+Dieses Reglement ist zu publizieren; es wird sofort wirksam.
+Anhänge
+Anhang BeE 370.700 Anhang 1: Gebührentarif Gartenbad Bettingen
