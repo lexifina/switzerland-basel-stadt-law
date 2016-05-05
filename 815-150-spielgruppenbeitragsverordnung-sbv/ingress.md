@@ -1,4 +1,4 @@
-Spielgruppenbeiträge. V | Kinderbetreuung
+Spielgruppenbeiträge: Verordnung | Kinderbetreuung
 # Verordnung betreffend ergänzende Beiträge für die Kinderbetreuung in Spielgruppen mit Deutschförderung
 (Spielgruppenbeitragsverordnung; SBV)
 Vom 3. August 2010
