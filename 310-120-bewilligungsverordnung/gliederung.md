@@ -44,6 +44,7 @@
 ### X.6. Psychotherapie
 ### X.7. Führen eines medizinischen Laboratoriums
 ### X.8. Nicht ärztliche alternativ- und komplementärmedizinische Berufe und Tätigkeiten
+### X.9. Krebsregister
 ## XI. Übergangs- und Schlussbestimmungen
 ### XI.1. Gebühren
 ### XI.2. Stellvertretung Drogerie
