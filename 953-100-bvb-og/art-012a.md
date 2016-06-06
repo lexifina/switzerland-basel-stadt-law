@@ -1,0 +1,3 @@
+# § 12a Verantwortlichkeiten
+1 Für die Verantwortlichkeit der Mitglieder des Verwaltungsrats, der Geschäftsleitung sowie der Revisionsstelle der BVB gelten sinngemäss die Bestimmungen des Aktienrechts über die Verantwortlichkeit (Art. 752-760 OR). Das Gesetz über die Haftung des Staates und seines Personals vom 17. November 1999 findet insoweit keine Anwendung.
+2 Streitigkeiten aus Verantwortlichkeitsansprüchen gemäss Abs. 1 werden durch die Zivilgerichte beurteilt. Der Kanton hat in einem solchen Verfahren die Stellung eines Aktionärs und eines Gesellschaftsgläubigers. Zuständig ist der Regierungsrat.
