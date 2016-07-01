@@ -3,5 +3,5 @@ Ordnungsbussenverordnung | Strafprozess / Rechtshilfe / Opferhilfe
 (Baselstädtische Ordnungsbussenverordnung)
 Vom 6. Dezember 2005
 Der Regierungsrat des Kantons Basel-Stadt,
-gestützt auf § 142 der Strafprozessordnung des Kantons Basel-Stadt vom 8. Januar 1997, nach Anhörung des Gerichts für Strafsachen,
+gestützt auf § 37 des Gesetzes über die Einführung der Schweizerischen Strafprozessordnung (EG StPO) vom 13. Oktober 2010 , nach Anhörung des Gerichts für Strafsachen,
 beschliesst:

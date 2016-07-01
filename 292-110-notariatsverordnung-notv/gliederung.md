@@ -1,4 +1,4 @@
-## I. Notariatsprüfung (§§ 3–5 Notariatsgesetz)
+## I. Notariatsprüfung (§§ 3–5a Notariatsgesetz)
 ## II. Unvereinbarkeit (§ 7 Notariatsgesetz)
 ## III. Notariatssiegel (§ 13 Notariatsgesetz)
 ## IV. Beurkundungsverfahren (§§ 23–46 Notariatsgesetz)
