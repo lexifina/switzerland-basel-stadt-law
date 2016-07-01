@@ -1,3 +1,3 @@
 # § 23a Barvergütung
 1 Können Mehrleistungen im Ausnahmefall in den nächsten 12 Monaten nicht kompensiert werden, kann die Gemeindeverwalterin oder der Gemeindeverwalter bzw. die Gemeindepräsidentin oder der Gemeindepräsident als Anstellungsinstanz auf schriftlichen Antrag der Vorgesetzten und nach Rücksprache mit der Leitung des Fachbereichs Personal eine Barvergütung bewilligen.
-2 Für Mehrleistungen der Gemeindeverwalterin oder des Gemeindeverwalters gewährt der Gemeinderat nur im Ausnahmefall eine Barvergütung gemäss Abs. 1.
+2 …
