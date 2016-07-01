@@ -1,3 +1,0 @@
-# § 53a Wiederwahl der vom Grossen Rat gewählten Staatsanwälte
-1 Alle vom Grossen Rat gewählten Staatsanwälte werden gleichzeitig auf den Beginn desselben Jahres wiedergewählt wie die vom Regierungsrat gewählten Staatsanwälte. Erreicht ein Staatsanwalt während der Amtsdauer die Altersgrenze, so gilt die Wiederwahl ohne gegenteiligen Beschluss nur bis zum Ende des der Erreichung der Altersgrenze nachfolgenden sechsten Monats. Die Wiederwahl wird vorbereitet durch die Wahlvorbereitungskommission des Grossen Rates.
-2 Scheidet ein vom Grossen Rat gewähltes Mitglied der Staatsanwaltschaft aus, so findet die Ersatzwahl für den Rest der Amtsperiode statt.

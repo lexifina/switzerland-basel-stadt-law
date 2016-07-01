@@ -38,7 +38,7 @@
 ### 6. Titel: Das Güterrecht der Ehegatten
 #### 6.I. Allgemeine Vorschriften
 #### 6.II. Errungenschaftsbeteiligung, Klage gegen Dritte (ZGB 208, 220)
-#### 6.III. Gütergemeinschaft, Ausschlagung und Annahm der Erbschaft (ZGB 230)
+#### 6.III. Gütergemeinschaft, Ausschlagung und Annahme der Erbschaft (ZGB 230)
 #### 6.IV. Gütertrennung, Zuweisung von Miteigentum (ZGB 251)
 #### 6.V. Güterrechtsregisterführung (ZGBSchlT 9e, 10b, 10e)
 ## Zweite Abteilung: Die Verwandtschaft

@@ -1,3 +1,0 @@
-# § 4a
-1 Ein Zivilgerichtspräsident oder Statthalter des Zivilgerichts führt den Vorsitz und bezeichnet jeweilen für den einzelnen Fall als Richter einen Arbeitgeber und einen Arbeitnehmer aus derjenigen Berufsgruppe, welcher die Parteien angehören, unter Berücksichtigung der Natur des Streitfalles und mit möglichst gleichmässiger Abwechslung unter den Richtern.
-2 Das Arbeitsgericht ist beschlussfähig bei Anwesenheit des Vorsitzenden und je eines Richters der Arbeitgeber und der Arbeitnehmer aus der zuständigen Gruppe. Hingegen kann der Vorsitzende, wenn die Besetzung nicht vollständig ist und wenn es die Parteien dennoch ausdrücklich verlangen, das Urteil ohne Mitwirkung der Richter sprechen.

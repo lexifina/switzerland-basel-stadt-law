@@ -33,7 +33,7 @@
 ## IV. Strafbestimmungen
 ### (IV.)I. Ordnungsbussen
 #### (IV.I.)A. Bussenkompetenz
-### (IV.)II. Verzeigung wegen Ungehorsams gegen amtliche Verfügungen
+### (IV.)II. Überweisung mit Antrag wegen Ungehorsams gegen amtliche Verfügungen
 ### (IV.)III. Beschwerde gegen Strafverfügungen
 ## V. Vollziehungs- und Schlussbestimmungen
 ### (V.)I. Vollziehungsverordnung
