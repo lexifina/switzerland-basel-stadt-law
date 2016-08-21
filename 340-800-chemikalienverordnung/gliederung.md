@@ -1,3 +1,3 @@
 ## I. Allgemeines
-## II. Organisation und Zuständigkeiten
+## II. Organisation und Zuständigkeit
 ## III. Vollzugsbestimmungen
