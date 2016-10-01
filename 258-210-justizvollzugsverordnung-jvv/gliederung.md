@@ -2,7 +2,7 @@
 ### 1.1. Geltungsbereich
 ### 1.2. Organisation und Zuständigkeiten
 #### 1.2.1. Organisation des Amtes für Justizvollzug
-#### 1.2.2. Zuständigkeiten der einzelnen Abteilungen
+#### 1.2.2. Zuständigkeit
 ## 2. Teil: Straf- und Massnahmenvollzug
 ### 2.1. Vollzug von Freiheitsstrafen
 #### 2.1.1. Grundlagen
@@ -21,7 +21,7 @@
 #### 2.2.2. Stationäre Massnahmen
 #### 2.2.3. Ambulante Massnahmen
 ### 2.3. Besondere Vollzugsformen und –verfahren
-#### 2.3.1. Wohn- und Arbeitsexternat
+#### 2.3.1. Arbeitsexternat
 #### 2.3.2. Halbgefangenschaft
 #### 2.3.3. Electronic Monitoring
 #### 2.3.4. Gemeinnützige Arbeit
