@@ -21,8 +21,8 @@
 ###### (IV.1.)c) Abweichungen
 ##### (IV.)2. Organisation des Stadt- und Ortsbildschutzes
 ##### (IV.)3. Entscheide
-###### (IV.3.)a) Antragstellung
-###### (IV.3.)b) Wirkungen
+###### (IV.3.)a) …
+###### (IV.3.)b) …
 ##### (IV.)4. Beschränkung von Fremdreklamen
 ### 3. Kapitel: Bauweise und Ausstattung
 #### (3.)I. Technische Normen
