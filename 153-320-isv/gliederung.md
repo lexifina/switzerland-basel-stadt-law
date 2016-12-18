@@ -1,4 +1,5 @@
-## I. Abschnitt: Zweck, Definitionen und Sicherheitsziele
-## II. Abschnitt: Aufgaben, Kompetenzen und Verantwortlichkeiten
-## III. Abschnitt: Umsetzung und Kontrolle
-## IV. Abschnitt: Schlussbestimmungen
+## Kapitel I: Allgemeine Bestimmungen
+## Kapitel II: Zuständigkeiten und Aufgaben
+### 1. Strategische Ebene
+### 2. Taktische Ebene
+### 3. Operative Ebene
