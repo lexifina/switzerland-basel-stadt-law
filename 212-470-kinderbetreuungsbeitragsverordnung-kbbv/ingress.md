@@ -1,7 +1,7 @@
-Kinderbetreuung: Verordnung | Personen- und Familienrecht
-# Verordnung über Beiträge an die Betreuung von Kindern und Jugendlichen in Heimen und Pflegefamilien
-(Kinderbetreuungsverordnung, VKB)
-Vom 25. November 2008
+Kinderbetreuung: Beitragsverordnung | Personen- und Familienrecht: Spezielle Erlasse
+# Verordnung über die Beiträge der Kinder, Jugendlichen und Eltern an die Kosten der Unterbringung von Kindern und Jugendlichen in Heimen und in Pflegefamilien
+(Kinderbetreuungsbeitragsverordnung, KBBV)
+Vom 6. Dezember 2016
 Der Regierungsrat des Kantons Basel-Stadt,
-gestützt auf die §§ 8 und 11 des Subventionsgesetzes vom 18. Oktober 1984, auf die §§ 19 und 22 des Gesetzes über den Vollzug von jugendstrafrechtlichen Sanktionen vom 15. Oktober 2010, das Gesetz betreffend kantonale Jugendhilfe vom 17. Oktober 1984 sowie das Gesetz über die Harmonisierung und Koordination von bedarfsabhängigen Sozialleistungen (Harmonisierungsgesetz Sozialleistungen, SoHaG) vom 25. Juni 2008,
+gestützt auf die Interkantonale Vereinbarung für Soziale Einrichtungen (IVSE) vom 13. Dezember 2002, das Gesetz betreffend Förder- und Hilfeleistungen für Kinder und Jugendliche (Kinder- und Jugendgesetz, KJG) vom 10. Dezember 2014, das Gesetz über die Harmonisierung und Koordination von bedarfsabhängigen Sozialleistungen (Harmonisierungsgesetz Sozialleistungen, SoHaG) vom 25. Juni 2008 sowie das Gesetz über den Vollzug von jugendstrafrechtlichen Sanktionen (Jugendstrafvollzugsgesetz, JStVG) vom 13. Oktober 2010, unter Verweis auf seine Erläuterungen Nr. P161907,
 beschliesst:

@@ -1,6 +1,6 @@
-## I. Allgemeines
-## II. Betreuung in subventionierten Heimen
-## III. Betreuung durch Pflegeeltern
-## IV. Kostenbeiträge der Kinder und der Eltern
-## V. Gemeinsame Bestimmungen
-## VI. Schlussbestimmungen
+## I. Allgemeine Bestimmungen
+## II. Beiträge der Kinder und Jugendlichen sowie der Eltern an die Unterbringungskosten
+## III. Aufgaben des zuständigen Departements
+## IV. Gebühren
+## V. Rechtsmittel
+## VI. Übergangs- und Schlussbestimmungen

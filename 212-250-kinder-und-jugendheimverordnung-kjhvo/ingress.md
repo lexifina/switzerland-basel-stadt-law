@@ -1,5 +1,7 @@
-Aufnahme von Pflegekindern: Verordnung | Personen- und Familienrecht
-# Verordnung über die Aufnahme von Kindern in Heimen und Pflegefamilien
-Vom 9. September 1997
+Kinder und Jugendliche in Heimen: Verordnung | Personen- und Familienrecht: Spezielle Erlasse
+# Verordnung über die Aufnahme, Betreuung und Förderung von Kindern und Jugendlichen in Heimen
+(Kinder- und Jugendheimverordnung, KJHVO)
+Vom 6. Dezember 2016
 Der Regierungsrat des Kantons Basel-Stadt,
-gestützt auf § 54 des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch vom 27. April 1911, erlässt in Ausführung der Bundesverordnung über die Aufnahme von Pflegekindern vom 19. Oktober 1977 folgende Verordnung:
+gestützt auf die Verordnung über die Aufnahme von Pflegekindern (Pflegekinderverordnung, PAVO) vom 19. Oktober 1977, die Interkantonale Vereinbarung für Soziale Einrichtungen (IVSE) vom 13. Dezember 2002 sowie auf das Gesetz betreffend Förder- und Hilfeleistungen für Kinder und Jugendliche (Kinder- und Jugendgesetz, KJG) vom 10. Dezember 2014, unter Verweis auf seine Erläuterungen Nr. P161905,
+beschliesst:

@@ -1,10 +1,9 @@
-## 1. Allgemeine Bestimmungen
-## 2. Familienpflege
-### 2.1. …
-### 2.2. Tagesbetreuung
-### 2.3. …
-### 3. Heimpflege
-## 4. Gebühren
-## 5. Rekurs
-## 6. Widerhandlungen
-## 7. Schlussbestimmungen
+## I. Allgemeine Bestimmungen
+## II. Bewilligung und Aufsicht
+## III. Anerkennung
+## IV. Beiträge des Kantons
+## V. Planung und Datenbearbeitung
+## VI. Gebühren
+## VII. Sanktionen
+## VIII. Rechtsmittel
+## IX. Übergangs- und Schlussbestimmungen
