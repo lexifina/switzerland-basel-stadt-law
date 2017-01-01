@@ -15,5 +15,13 @@ der kantonalen Erziehungsdirektoren
 Der Präsident: Hans Ulrich Stöckling
 Der Generalsekretär: Hans Ambühl
 Die Änderungen vom 16. Juni 2005 sind am 1. Januar 2008 in Kraft getreten.
+Änderungen vom 24. Oktober/21. November 2013
+Die Änderungen wurden von der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (24. Oktober 2013) und der Schweizerischen Konferenz der kantonalen Gesundheitsdirektorinnen und -direktoren (21. November 2013) beschlossen.
+Der Vorstand der EDK setzt die Änderung der Vereinbarung in Kraft, wenn ihr sämtliche Vereinbarungskantone beigetreten sind. Sie ist dem Bund zur Kenntnis zu geben.
+Braunwald, 24. Oktober 2013
+Im Namen der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren
+Die Präsidentin: Isabelle Chassot
+Der Generalsekretär: Hans Ambühl
+Die Änderungen vom 24. Oktober/21. November 2013 sind am 1. Januar 2017 in Kraft getreten.
 Anhänge
-Anhang 419.900 : Register der Ausbildungsabschlüsse Anhang 419.900 Anhang : Ausser Kraft
+Anhang 419.900 : Register der Ausbildungsabschlüsse Anhang 419.900 Anhang: Ausser Kraft
