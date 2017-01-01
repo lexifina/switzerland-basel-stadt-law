@@ -12,4 +12,4 @@
 ## 3. Ausrichtung von Zulagen bei Krankheit, Berufs- und Nichtberufsunfall
 ### 4. Ausrichtung von Geldzulagen während Ferien, Schwangerschafts- und Mutterschaftsurlaub und obligatorischen Dienstleistungen
 ## VIII. Überstunden
-## IX. Schlussbestimmungen
+## IX. Übergangs- und Schlussbestimmungen
