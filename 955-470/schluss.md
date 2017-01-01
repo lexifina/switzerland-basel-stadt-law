@@ -1,0 +1,1 @@
+Der Gebührentarif ist zu publizieren. Er bedarf der Genehmigung durch die Regierungen der Vertragskantone Basel-Landschaft und Basel-Stadt. Er wird am 1. Januar 2017 wirksam. Auf den gleichen Zeitpunkt wird der Gebührentarif der Schweizerischen Rheinhäfen vom 4. Dezember 2008 aufgehoben.
