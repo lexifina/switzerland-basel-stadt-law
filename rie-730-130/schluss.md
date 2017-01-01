@@ -1,0 +1,2 @@
+Schlussbestimmung
+Diese Ordnung wird publiziert, sie unterliegt dem Referendum. Der Gemeinderat bestimmt nach Eintritt der Rechtskraft den Zeitpunkt der Wirksamkeit.
