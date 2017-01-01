@@ -1,0 +1,4 @@
+# § 20a
+1 Die Gemeinde Bettingen trägt bis zum Übergang des Eigentums an der Schulliegenschaft die vom Kanton in Rechnung gestellten Mietkosten sowie die Kosten für den betrieblichen Unterhalt. Die Kosten für den betrieblichen Unterhalt werden der Schulrechnung direkt belastet. Die Mietkosten fliessen via interne Mieten in die Schulrechnung.
+2 Die Gemeinde Riehen trägt die vom Kanton in Rechnung gestellten Kosten für den baulichen und betrieblichen Unterhalt der Schulliegenschaften in den Jahren 2017 und 2018. Die entsprechenden Kosten für den baulichen Unterhalt werden direkt der Gemeinde Riehen, die Kosten für den betrieblichen Unterhalt der Schulrechnung belastet.
+3 Die Kosten, welche für die Jahre 2017 und 2018 für die Hauswartung der Schulliegenschaften den beiden Gemeinden vom Kanton in Rechnung gestellt werden, werden der Schulrechnung belastet.
