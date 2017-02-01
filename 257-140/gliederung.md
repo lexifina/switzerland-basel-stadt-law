@@ -1,5 +1,5 @@
 ## I. Allgemeine Bestimmungen
 ## II. Gespeicherte Daten
-## III. Datensicherheits und Zugriffsberechtigung
+## III. Datenbearbeitung
 ## IV. Rechte der betroffenen Personen
 ## V. Aufbewahrung und Löschung von Daten
