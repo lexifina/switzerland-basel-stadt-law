@@ -1,4 +1,4 @@
-Strassenmusik und -kunst: Verordnung
+Strassenmusik und -kunst: Verordnung | Lärmschutz
 # Verordnung betreffend Strassenmusik und Strassenkunst
 Vom 10. Januar 2012
 Der Regierungsrat des Kantons Basel-Stadt,

@@ -1,13 +1,13 @@
-## I. Organisation und Kompetenzen
-## (I.)1. Denkmalrat
-## (I.)2. Denkmalpflege
-### (I.)3. Abgrenzung der Bereiche Denkmalpflege und kantonale Archäologie
-## II. Denkmäler
-## (II.)1. Denkmalverzeichnis, eingetragene Denkmäler
-### Veränderungen an einem eingetragenen Denkmal
-## (II.)2. Inventar, nicht eingetragene Denkmäler
-## (II.)3. Funde
-## III. Subventionsbegehren
-## IV. Rechte und Pflichten der Gemeinden
-## V. Rekursberechtigte Organisationen
-## VI. Schlussbestimmungen
+## 1. Allgemeine Bestimmungen
+## 2. Eintragung ins Denkmalverzeichnis
+### 2.1 Eintragung durch öffentlich-rechtlichen Vertrag
+### 2.2 Eintragung durch Bebauungsplan
+### 2.3 Eintragung durch Verfügung
+### 2.4 Gemeinsame Bestimmungen
+## 3. Veränderungen an eingetragenen Denkmälern
+## 4. Inventar
+## 5. Funde
+## 6. Gewährung von Finanzhilfen
+## 7. Vollzug und Abwehrmassnahmen
+## 8. Rekursberechtigte Organisationen
+## 9. Übergangs- und Schlussbestimmungen
