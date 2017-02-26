@@ -28,7 +28,7 @@
 ## VI. Verhältnis zum Kanton
 ### VI. 1. Leistungsauftrag und Bewilligung von Einzelinvestitionen
 ### VI. 2. Aufsicht und Genehmigung von Gebührentarifen
-### VI. 3. Genehmigung der Jahresrechnung und Gewinnverwendung
+### VI. 3. Genehmigung der Jahresrechnung und Gewinnverwendung, Entlastung des Verwaltungsrats
 ### VI. 4. Konzession zur Nutzung von Allmend und Wasserentnahmen aus öffentlichen Gewässern
 ### VI. 5. Koordination
 ## VII. Verhältnis zu Dritten
