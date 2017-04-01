@@ -1,2 +1,3 @@
 # § 13a Kosten für Pflege in einem Heim durch Anbieter mit einer kantonalen Spitexbewilligung
-1 Kosten für Pflege in einem anerkannten Heim werden vergütet, wenn die Pflege nicht Aufgabe des Heimes ist und wenn sie infolge Alter, Invalidität, Unfall oder Krankheit notwendig ist.
+1 Kosten für Pflege in einer anerkannten Institution gemäss dem Bundesgesetz über die Institutionen zur Förderung der Eingliederung von invaliden Personen (IFEG) vom 6. Oktober 2006 werden vergütet, wenn die Pflegeleistungen durch eine Organisation oder eine Fachperson mit einer kantonalen Spitexbewilligung erbracht werden, die Kosten aus der Behindertenhilfe ausgeschieden sind und die Pflege in Folge Alter, Invalidität, Unfall oder Krankheit notwendig ist.
+2 Der Höchstbetrag gemäss Art. 14 Abs. 3 lit. b ELG wird in Fällen nach Abs. 1 auf 9’000 Franken erhöht.
