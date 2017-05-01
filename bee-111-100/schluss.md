@@ -1,0 +1,1 @@
+Vorstehende Gemeindeordnung ist zu publizieren. Sie wird am 1. Mai 2017 wirksam. Vorbehalten bleibt die Genehmigung durch den Regierungsrat. Mit Wirksamwerden der vorstehenden Gemeindeordnung ist die Gemeindeordnung der Einwohnergemeinde Bettingen vom 12. November 1985 aufgehoben.
