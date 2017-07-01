@@ -1,0 +1,1 @@
+Dieses Gesetz ist zu publizieren. Es unterliegt dem Referendum. Nach Eintritt der Rechtskraft bestimmt der Regierungsrat den Zeitpunkt der Wirksamkeit. Auf den gleichen Zeitpunkt wird das Gesetz über das Aufenthaltswesen vom 16. September 1998 aufgehoben.
