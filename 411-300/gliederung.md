@@ -1,5 +1,6 @@
 ## I. Allgemeines
 ## II. Leitung Volksschulen
-## III. Leitung Dienste (Stellvertretende Leitung Volksschulen)
-## IV. Schulkreisleitungen und zuständige Stelle der Gemeinden
+## IIbis. Volksschulleitungsmitglieder
+## III. Die Volksschulleitungsmitglieder mit der Verantwortung für die Primarstufe und die Sekundarschule
+## IV. Die Volksschulleitungsmitglieder mit Personalverantwortung für Schulleitungen und die zuständige Stelle der Gemeinden
 ## V. Gemeinsame Bestimmung
