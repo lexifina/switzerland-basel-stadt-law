@@ -1,0 +1,2 @@
+# § 21a Dispensation aufgrund des Besuchs von Förderangeboten für besonders leistungsfähige Schülerinnen, Schüler und Lernende
+1 Schülerinnen, Schüler und Lernende können von einzelnen Unterrichtsstunden dispensiert werden, damit sie ein Förderangebot für besonders leistungsfähige Schülerinnen, Schüler und Lernende besuchen können. Die Erreichung der Lernziele und die Teilnahme an den Leistungserhebungen müssen gewährleistet sein.
