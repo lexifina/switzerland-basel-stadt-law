@@ -1,9 +1,9 @@
-# § 12a Integrative Schulung von Schülerinnen und Schülern einer Privatschule
-1 Schülerinnen und Schüler einer Privatschule können integrativ in der Privatschule geschult werden, wenn:
-a) sie in einer Regelklasse mit regulären Lernzielen, regulären Lehrpersonen und einer adäquaten Klassengrösse unterrichtet werden;
-b) das Angebot und der Umfang des Grund- und Förderangebots der Privatschule denjenigen der staatlichen Schulen entsprechen;
-c) die Kooperation zwischen den Lehr- und Fachpersonen derjenigen der staatlichen Schulen entspricht;
-d) die Differenzierung im Unterricht derjenigen der staatlichen Schulen entspricht.
-2 Die Erfüllung der Voraussetzungen nach Abs. 1 lit. a–d hat die Privatschule mit Konzepten, die die gesamte Privatschule umfassen, und einem Bericht über die Umsetzung der Konzepte nachzuweisen.
-3 Der Staat übernimmt nur die Kosten, die zusätzlich zum Grund- und Förderangebot der Privatschule für die verstärkte Massnahme anfallen. Es werden höchstens die Kosten übernommen, die bei einer integrativen Schulung in einer staatlichen Schule anfallen würden.
-4 Kosten für Fahrten werden übernommen, wenn ein gleichaltriges Kind ohne Behinderung den Weg selbstständig zu Fuss oder mit den öffentlichen Verkehrsmitteln bewältigen könnte.
+# § 12a Integrative Schulung von Schülerinnen und Schülern einer Privatschule mit verstärkten Massnahmen
+1 Schülerinnen und Schüler einer Privatschule können integrativ mit verstärkten Massnahmen in der Privatschule geschult werden, wenn ihnen im Rahmen des Grund- und des ihrem Bedarf entsprechenden Förderangebots keine wirksamen Massnahmen zur Verfügung stehen.
+a) …
+b) …
+c) …
+d) …
+2 Das Förderangebot und die verstärkte Massnahme an der Privatschule müssen in Art und Umfang dem Angebot der Volksschulen entsprechen. Sie sind durch Lehr- und Fachpersonen durchzuführen, die über eine entsprechende von der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren EDK anerkannte Qualifikation verfügen.
+3 Der Staat übernimmt als verstärkte Massnahme nur die Kosten, die zusätzlich zum Grund- und Förderangebot anfallen. Es werden höchstens die Kosten übernommen, die bei einer integrativen Schulung in einer staatlichen Schule anfallen würden.
+4 Kosten für Fahrten werden übernommen, wenn die Schülerinnen und Schüler den Weg aufgrund ihres besonderen Bildungsbedarfs nicht selbständig zu Fuss oder mit den öffentlichen Verkehrsmitteln bewältigen können.
