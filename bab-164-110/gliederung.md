@@ -3,7 +3,7 @@
 ## 3. Festlegung des Anfangslohnes (§ 4 LO)
 ## 4. Lohnanpassungen (§ 6 LO)
 ### 4. 1. Generelle und individuelle Lohnanpassungen (§ 6 Abs. 1 und 2 LO)
-### 4. 2. Verzicht auf die Zusprechung individueller Lohnanpassung (§ 6 Abs. 3 LO)
+### 4. 2. …
 ## 5. Einmalige Anerkennungsprämien (§ 7 LO)
 ## 6. Zulagen (§ 8 ff. LO)
 ## 7. Familienzulagen (§ 8 LO)
