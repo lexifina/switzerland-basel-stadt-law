@@ -1,3 +1,4 @@
-Diese Verordnung ist zu publizieren. Sie wird rückwirkend auf den 1. Januar 2010 wirksam. Auf den gleichen Zeitpunkt wird die Verordnung zum Energiegesetz vom 11. Mai 1999 aufgehoben.
+Schlussbestimmung
+Diese Verordnung ist zu publizieren; sie tritt am 1. Oktober 2017 in Kraft. Auf den gleichen Zeitpunkt wird die Verordnung zum Energiegesetz (Energieverordnung, EnV) vom 9. Februar 2010 aufgehoben.
 Anhänge
-Anhang 772.110: Anhang 1 Anhang 772.110.2: Anhang 2 Anhang 772.110.3: Anhang 3 Anhang 772.110.4 : Anhang 4 Anhang 772.110.5: Anhang 5
+Anhang 01: Einzelanforderungen an den winterlichen Wärmeschutz Anhang 02: Systemanforderungen an den winterlichen Wärmeschutz Anhang 03: Anforderungen an die Deckung des Wärmebedarfs bei Neubauten Anhang 04: Standardlösungen zur Deckung des Wärmebedarfs bei Neubauten Anhang 05: Ersatzabgabe Eigenstromerzeugung Anhang 06: Ersatz Wärmeerzeuger und Wassererwärmer Anhang 07: Standardlösungen für den Ersatz von Wärmeerzeugern gemäss § 19 Abs. 2 lit. a EnV Anhang 08: Anforderungen an die Wärmedämmung von Wärmetauschern, Warmwasser- und Wärmespeichern Anhang 09: Anforderungen an die Wärmedämmung von Wärme- und Kälteverteilleitungen, Rohrleitungsverbindungen, Armaturen und Aufhängungen Anhang 10: Anforderungen an kantonale Gebäude Anhang 11: Pauschalbeitragssätze
