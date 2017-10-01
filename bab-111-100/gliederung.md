@@ -11,10 +11,10 @@
 ### (III.) 3. Der Bürgerrat
 ### (III.) 4. Einbürgerungskommission
 ### (III.) 5. Die Departemente
-### (III.)5A. Die Kommission der Christoph Merian Stiftung
+### (III.)5A. …
 ### (III.)5B. Die Leitungsausschüsse
 ### (III.)5C. Die Direktionen
-### (III.)6. Partnerschaftssystem
+### (III.)6. …
 ## IV. Gemeindeverwaltung
 ### (IV.)1. Zentralverwaltung
 ### (IV.)2. Bürgerspital
