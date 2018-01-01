@@ -1,9 +1,10 @@
-## A. Gebühren der Schlichtungsbehörden
-## B. Gebühren der Gerichte Erster Instanz in Zivilsachen und der Zivilgerichtsschreiberei
-### 1. Gebühren
-### 2. Andere Gebühren
-## C. Gebühren des Erbschaftsamtes
-## D. Gebühren des Strafgerichts und des Jugendgerichts
-## E. Gebühren des Appellationsgerichts
-## F. Gebühr der Aufsichtskommission über die Anwältinnen und Anwälte
-## G. Übergangsbestimmung
+## I. Allgemein
+## II. Schlichtungsverfahren
+## III. Verfahren in Zivilsachen
+## IV. Verfahren in Strafsachen
+## V. Verfahren des Verwaltungs- und des Verfassungsgerichts
+## VI. Sozialversicherungsgericht
+## VII. Gericht für fürsorgerische Unterbringung
+## VIII. Aufsichtskommission über die Anwältinnen und Anwälte
+## IX. Erbschaftsamt
+## X. Gemeinsame Bestimmungen
