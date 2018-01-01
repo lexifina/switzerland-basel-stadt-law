@@ -1,6 +1,7 @@
-Gasttaxe: Vollziehungsverordnung | Spezielle Steuern und Abgaben
-# Vollziehungsverordnung zum Gesetz betreffend die Erhebung einer Gasttaxe
-Vom 22. November 1994
+Gasttaxe: Verordnung | Spezielle Steuern und Abgaben
+# Verordnung zum Gesetz betreffend die Erhebung einer Gasttaxe
+(Gasttaxenverordnung)
+Vom 12. Dezember 2017
 Der Regierungsrat des Kantons Basel-Stadt,
-in Ausführung des Gesetzes betreffend die Erhebung einer Gasttaxe vom 9. April 1942,
-erlässt nachstehende Vollziehungsverordnung:
+gestützt auf § 17 des Gesetzes betreffend die Erhebung einer Gasttaxe vom 18. Oktober 2017, unter Verweis auf seine Erläuterungen P171872,
+beschliesst:
