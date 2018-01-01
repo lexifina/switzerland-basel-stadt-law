@@ -5,7 +5,7 @@ Reduziert ein Krankenversicherer seine Leistungen pro Spitaltag in Anwendung von
 Bei Aufenthalt der versicherten Person, welche weder eine Rente der AHV oder IV noch ein Taggeld der IV oder Sozialhilfe bezieht, in einem Pflegeheim oder in einer Pflegeabteilung eines Spitals, welche auf der Pflegeheimliste des Kantons aufgeführt ist, richtet der Kanton bis zum 360. Pflegetag auf Gesuch hin Beiträge aus.
 3 c) Beitragshöhe
 1. Die Höhe der Beiträge richtet sich nach den für die individuelle Prämienverbilligung (IPV) geltenden Einkommensgruppen und entspricht der Differenz zwischen den vom Regierungsrat festgelegten oder in Verträgen zwischen dem Regierungsrat und den Leistungserbringern vereinbarten Spital- und Pflegeheimtaxen und der nachfolgend aufgeführten maximalen Eigenleistung der versicherten Person.
-IPV-Einkommensgruppe Max. Eigenleistungen Patient/-in CHF pro Tag
+IPV-Einkommensgruppe Max. Eigenleistungen Patient/-in Fr. pro Tag
 1 10
 2 10
 3 10
@@ -25,4 +25,4 @@ IPV-Einkommensgruppe Max. Eigenleistungen Patient/-in CHF pro Tag
 17 42
 18 46
 keine IPV-Anspruch 50
-2. Die Beiträge sind zu Leistungen Dritter subsidiär. 3. Die Beiträge werden nur an Personen mit Wohnsitz im Kanton ausgerichtet. 4. Keinen Anspruch auf Beiträge gemäss § 8 lit. a und b haben Personen mit einem steuerbaren Vermögen von mehr als CHF 1'000'000. 5. Das Gesundheitsdepartement kann die Beitragsgewährung über die genannten 360 Pflegetage hinaus verlängern. 6. Der Kanton kann die Beiträge auch bei Aufenthalten der versicherten Person in ausserkantonalen Spitälern und Pflegeheimen ausrichten.
+2. Die Beiträge sind zu Leistungen Dritter subsidiär. 3. Die Beiträge werden nur an Personen mit Wohnsitz im Kanton ausgerichtet. 4. Keinen Anspruch auf Beiträge gemäss § 8 lit. a und b haben Personen mit einem steuerbaren Vermögen von mehr als Fr. 1'000'000. 5. Das Gesundheitsdepartement kann die Beitragsgewährung über die genannten 360 Pflegetage hinaus verlängern. 6. Der Kanton kann die Beiträge auch bei Aufenthalten der versicherten Person in ausserkantonalen Spitälern und Pflegeheimen ausrichten.
