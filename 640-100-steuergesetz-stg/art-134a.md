@@ -1,0 +1,6 @@
+# § 134a
+1 Unternehmen im Sinne von Art. 5 Ziff. 1 des Abkommens zwischen dem Schweizerischen Bundesrat und der Regierung der Französischen Republik über das am Flughafen Basel-Mülhausen anwendbare Steuerrecht vom 23. März 2017 entrichten für ihre im Schweizer Sektor des Flughafens befindlichen Betriebsstätten eine Kapitaltaxe.
+2 Gegenstand der Kapitaltaxe ist das auf diese Betriebsstätten entfallende Eigenkapital. Dieses wird in sinngemässer Anwendung der Grundsätze des Bundessrechts über das Verbot der interkantonalen Doppelbesteuerung ausgeschieden.
+3 Als Eigenkapital steuerbar ist das Eigenkapital im Sinne von § 85 für die Kapitalgesellschaften und Genossenschaften, das Eigenkapital im Sinne von § 86 für die übrigen juristischen Personen und das Reinvermögen gemäss Jahresrechnung für die Personenunternehmen (Einzelunternehmen, Personengesellschaften).
+4 Die Kapitaltaxe beträgt 1 Prozent des steuerbaren Eigenkapitals.
+5 Die Kapitaltaxe wird für jede Steuerperiode festgesetzt und erhoben. Die Bestimmungen über Beginn und Ende der Steuerpflicht und über die zeitlichen Grundlagen bei der Vermögens- bzw. bei der Kapitalsteuer (§§ 8, 53, 54 bzw. §§ 63, 88, 89) gelten sinngemäss.

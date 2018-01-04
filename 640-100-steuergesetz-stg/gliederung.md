@@ -148,6 +148,7 @@
 ###### (1. Teil/7. Abschn./V.) 3. Berechnungsregeln
 ###### (1. Teil/7. Abschn./IV.) 4. Periodische Erbschafts- und Schenkungssteuer
 ##### (1. Teil/7. Abschn.) V. Zeitliche Grundlagen
+#### (1. Teil) 8. Abschnitt: Die Kapitaltaxe von Unternehmen im Schweizer Sektor des Flughafens Basel-Mulhouse
 ## 2. Teil: Organisation, Verfahren und Steuerbezug
 ### (2. Teil)1. Abschnitt: Steuerbehörden
 #### (2. Teil/1. Abschn.) I. Steuerverwaltung
