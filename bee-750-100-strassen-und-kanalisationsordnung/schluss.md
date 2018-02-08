@@ -1,0 +1,2 @@
+Schlussbestimmung
+Diese Ordnung ist zu publizieren; sie unterliegt der Genehmigung durch den Regierungsrat. Sie wird am 1. Januar 2015 wirksam. Auf den gleichen Zeitpunkt werden die Ordnung über die Beiträge an die Erstellungskosten von Gemeindestrassen vom 23. September 1986 sowie das Reglement über die Ausführung des Gesetzes betreffend die Kanalisation im Kantonsgebiet vom 28. März 1912 in der Gemeinde Bettingen vom 18. August 1955 aufgehoben.
