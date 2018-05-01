@@ -23,14 +23,14 @@
 ### VI.3. Beizug anderer Fachpersonen
 ### VI.4. Räumlichkeiten, Einrichtungen und Ausrüstungen
 ### VI.5. Qualitätssicherung
-## VII. Stellvertretung, Assistenz, Praktikum und unselbstständige Tätigkeit
+## VII. Stellvertretung, Assistenz, Praktikum und privatwirtschaftlich unter fachlicher Aufsicht ausgeübte oder unselbstständige Tätigkeit
 ### VII.1. Allgemeines
 ### VII.2. Stellvertretung
 ### VII.3. Assistenz
 ### VII.4. Praktikum
-## VIII. Anforderungen an die Aus- und Weiterbildung und an die praktische unselbstständige Tätigkeit
+## VIII. Anforderungen an die Aus- und Weiterbildung und an die praktische Tätigkeit
 ### VIII.1. Zertifikate der absolvierten Aus- und Weiterbildungen
-### VIII.2. Nachweis der praktischen unselbstständigen Tätigkeit
+### VIII.2. Nachweis der praktischen Weiterbildung und Tätigkeit
 ## IX. Bestimmungen zu den Betrieben
 ### IX.1. Medizinische oder fachliche Leitung
 ### IX.2. Betriebskonzept und Stellenplan
@@ -44,7 +44,7 @@
 ### X.6. Psychotherapie
 ### X.7. Führen eines medizinischen Laboratoriums
 ### X.8. Nicht ärztliche alternativ- und komplementärmedizinische Berufe und Tätigkeiten
-### X.9. Krebsregister
+### X.9. …
 ## XI. Übergangs- und Schlussbestimmungen
 ### XI.1. Gebühren
 ### XI.2. Stellvertretung Drogerie
