@@ -21,21 +21,21 @@
 ## V. Fachpersonen im Gesundheitswesen
 ### V.1. Grundsatz
 ### V.2. Berufsausübung
-### V.3. Fachpersonen mit Bewilligung zur selbstständigen Berufsausübung
-### V.4. Unselbstständig tätige universitäre Medizinalpersonen
+### V.3. Fachpersonen mit Bewilligung zur Berufsausübung
+### V.4. Berufspflichten für universitäre Medizinalpersonen und Psychotherapeutinnen und Psychotherapeuten
 ### V.5. Notfalldienst
 ### V.6. Schweigepflicht
 ### V.7. Meldepflicht
 ### V.8. Dokumentation
 ## VI. Bewilligungspflichten
-### VI.1. Bewilligung zur selbständigen Berufsausübung
+### VI.1. Bewilligung zur Berufsausübung
 ### VI.2. Betriebe
 ### VI.3. Einschränkungen
 ### VI.4. Nicht bewilligungspflichtige Tätigkeiten
 ### VI.5. Publikation
 ## VII. Weitere Vorschriften
 ### VII.1. Generalklausel
-### VII.2. Bekämpfung übertragbarer Krankheiten
+### VII.2. Bekämpfung übertragbarer Krankheiten und Hygiene
 ### VII.3. Inkonvenienzentschädigungen für Geburtshilfe und Wochenbettbetreuung
 ### VII.4. Werbung
 ### VII.5. Verbot der Selbstdispensation
