@@ -1,0 +1,2 @@
+# § 8a
+1 Die Präsidentinnen und Präsidenten, die Richterinnen und Richter, Gerichtsschreiberinnen und Gerichtsschreiber sowie weitere an der Beratung des Gerichts beteiligte Personen wie insbesondere Volontärinnen und Volontäre haben sich in Verhandlungen und bei der Eröffnung von Entscheiden in Anwesenheit der Parteien oder der Öffentlichkeit dem Tragen sichtbarer religiöser Symbole zu enthalten.
