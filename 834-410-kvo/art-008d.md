@@ -2,6 +2,7 @@
 1 a) Pflegeheime
 1. Die kantonalen Pflegenormkosten ergeben sich aus der Multiplikation der Indexwerte pro Pflegestufe (§ 2 Anhang 1) mit dem Punktwert in Franken (§ 3 Anhang 1).
 Für Nichtvertragsheime reduzieren sich die Normkosten um 10 Prozent.
+Zusätzlich zum Wert gemäss Ziff. 1 erster Satz werden 35 Rappen pro Pflegestufe als Pflegenormkosten anerkannt.
 Pflegestufe Pflegeaufwand in Minuten pro Tag Pflegekosten pro Tag in Fr.
 … …
 1 … …
