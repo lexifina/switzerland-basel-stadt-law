@@ -20,10 +20,10 @@
 ### 16. Pflichten der Studierenden
 ### 17. Disziplinarmassnahmen
 ## V. Gebühren
-### 18. Studiengebühren
-### 19. Entgeltliche Ausbildungsgänge, Nachdiplomstudien und Weiterbildungskurse
+### 18. …
+### 19. …
 ### 20. Unterrichtsmaterial
-### 21. Rückerstattung von Studiengebühren und Unterrichtsmaterialbeiträgen
+### 21. …
 ### 22. Bearbeitungsgebühren
 ## VI. Rechtsmittel
 ### 23. Rekurs
