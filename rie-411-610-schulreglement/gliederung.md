@@ -18,4 +18,5 @@
 ### (VI.)2. Schulharmonisierung
 ### (VI.)3. Übernahme von Fachpersonen Logopädie
 ### (VI.)4. Übernahme der Lehrpersonen Musik und Bewegung
+#### (VI.) 5. Weitere Bestimmungen
 ## VII. Schlussbestimmungen
