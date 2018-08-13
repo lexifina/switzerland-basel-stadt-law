@@ -1,3 +1,2 @@
-Diese Verordnung ist zu publizieren. Sie wird rückwirkend auf Beginn des Schuljahres 2010/11 am 9. August 2010 wirksam.
-Anhänge
-Anhang 424.100: Übergangsbestimmung
+Schlussbestimmung
+Diese Verordnung ist zu publizieren; sie tritt auf Beginn des Schuljahres am 13. August 2018 in Kraft. Auf den gleichen Zeitpunkt wird die Verordnung über die Berufsmaturität (Berufsmaturitätsverordnung) vom 1. Februar 2011 aufgehoben.
