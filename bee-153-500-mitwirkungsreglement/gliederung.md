@@ -1,1 +1,0 @@
-## I. Allgemeine Bestimmungen
