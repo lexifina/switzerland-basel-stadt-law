@@ -34,7 +34,7 @@
 ## VII. Verhältnis zu Dritten
 ### VII. 1. Enteignungsrecht und Duldungspflichten
 ### VII. 2. Haftung der IWB gegenüber Grundeigentümerinnen und Grundeigentümern
-### VII. 3. Videoüberwachung
+### VII. 3. Videoüberwachung und Einsatz von intelligenten, fernauslesbaren Messeinrichtungen
 ## VIII. Haftung und Rechtspflege
 ### VIII. 1. Haftung
 ### VIII. 2. Rechtspflege
