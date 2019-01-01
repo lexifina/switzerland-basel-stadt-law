@@ -1,4 +1,4 @@
-Natur- und Landschaftsschutz: V | Natur- und Landschaftsschutz
+Natur- und Landschaftsschutz: Verordnung | Natur- und Landschaftsschutz
 # Verordnung über den Natur- und Landschaftsschutz
 Vom 8. September 1998
 Der Regierungsrat des Kantons Basel-Stadt,
