@@ -7,7 +7,7 @@
 ## III. Besondere Bestimmungen zum Arbeitsverhältnis im Schulbereich
 ### (III.)1. Personalrechtliche Regelungen
 ### (III.)2. Besondere personalrechtliche Regelungen für die Lehrpersonen
-### (III.)3. Besondere lohnrechtliche Regelungen für Lehrpersonen
+### (III.)3. Besondere lohnrechtliche Regelungen
 ### (III.)4. Besondere personal- und lohnrechtliche Regelungen für Fachpersonen Logopädie und Psychomotorik
 ## IV. Verschiedene Bestimmungen
 ### (IV.)1. Bearbeitung von Personendaten
@@ -19,4 +19,5 @@
 ### (VI.)3. Übernahme von Fachpersonen Logopädie
 ### (VI.)4. Übernahme der Lehrpersonen Musik und Bewegung
 #### (VI.) 5. Weitere Bestimmungen
+##### 6. Übernahme des Schulhauswartungspersonals
 ## VII. Schlussbestimmungen
