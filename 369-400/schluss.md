@@ -1,1 +1,2 @@
-Dieser Beschluss ist zu publizieren; er wird am 1. Mai 2008 wirksam und ersetzt den Beschluss des Regierungsrates betreffend die Gebühren für die Benützung der Tierkörpersammelstelle (TKS) des Veterinäramtes des Kantons Basel-Stadt vom 21. Juni 2005.
+Schlussbestimmung
+Diese Änderung ist zu publizieren; sie tritt am 1. Januar 2019 in Kraft.
