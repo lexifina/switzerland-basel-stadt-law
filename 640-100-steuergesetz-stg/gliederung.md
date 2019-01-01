@@ -1,7 +1,7 @@
 ## 1. Teil: Die einzelnen Steuern
 ### 1. Abschnitt: Allgemeines
 #### I. Steuerarten des Gesetzes
-#### II. Kommunale Steuern
+#### II. Kommunale Steuern und Kirchensteuern
 ### 2. Abschnitt: Die Einkommens- und die Vermögenssteuer der natürlichen Personen
 #### (1. Teil/2. Abschn.) A. Steuerpflicht
 ##### (1. Teil/2. Abschn./A.) I. Steuerliche Zugehörigkeit
@@ -81,7 +81,7 @@
 ##### (1. Teil/3. Abschn./B.) II. Steuerberechnung
 ###### (1. Teil/3. Abschn./B./II.) 1. Kapitalgesellschaften und Genossenschaften
 ###### (1. Teil/3. Abschn./B./II.) 2. Beteiligungs- und Domizilgesellschaften
-###### (1. Teil/3. Abschn./B./II.) 3. Vereine, Stiftungen, kollektive Kapitalanlagen und übrige juristische Personen
+###### (1. Teil/3. Abschn./B./II.) 3. …
 ##### (1. Teil/3. Abschn./B.) III. Zeitliche Grundlagen
 ###### (1. Teil/3. Abschn./B./III.) 1. Steuerperiode
 ###### (1. Teil/3. Abschn./B./III.) 2. Bemessung des Reingewinns
@@ -254,10 +254,11 @@
 ##### (3. Teil/B.) 3. Verhältnis zum allgemeinen Strafrecht
 ##### (3. Teil/B.) 4. Verfahren
 ##### (3. Teil/B.) 5. Verjährung
-## 4. Teil: Verhältnis zu den Einwohnergemeinden, Abgrenzung der Steuerhoheiten
+## 4. Teil: Verhältnis zu den Einwohnergemeinden sowie den öffentlich-rechtlich anerkannten Kirchen und Religionsgemeinschaften, Abgrenzung der Steuerhoheiten
 ### (4. Teil) 1. Einkommens- und Vermögenssteuer der natürlichen Personen
 ### (4. Teil) 2. Gewinn-, Kapital- und Grundstücksteuer der juristischen Personen
 ### (4. Teil) 3. Grundstückgewinnsteuer
+### (4. Teil) 4. Übertragung von Befugnissen
 ## 5. Teil: Schlussbestimmungen
 ### (5. Teil) I. Ausführungsbestimmungen
 ### (5. Teil) II. Aufhebung und Änderung geltenden Rechts
