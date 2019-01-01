@@ -92,9 +92,9 @@
 ###### (5.B.III.)2. Ausführung bewilligungspflichtiger Vorhaben ohne Bewilligung oder in Abweichung der Bewilligung
 ###### (5.B.III.)3. Zwangsmittel
 #### (5.)C. Ausführungsbestimmungen
-#### (5.)D. Anmerkungen und Eintragungen im Grundbuch
+#### (5.)D. Anmerkungen im Grundbuch und Führung im ÖREB-Kataster
 ##### (5.D.)1. Anmerkungen
-##### (5.D.)2. Eintragungen in die Grundbuchpläne (§ 119 BPG)
+##### (5.D.)2. Führung im ÖREB-Kataster (§ 119 BPG)
 ## 2. Teil: Planung, Bodenordnung, Erschliessung
 ### (2.)1. Kapitel: Planung
 #### (2.)A. Richtpläne (§ 94 BPG)
