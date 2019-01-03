@@ -1,4 +1,4 @@
-Elektron. Stimmabgabe für Auslandschweizer | Wahlen und Abstimmungen
+Testbetrieb für die elektronische Stimmabgabe: Verordnung | Wahlen und Abstimmungen
 # Verordnung über den Testbetrieb für die elektronische Stimmabgabe
 Vom 26. Mai 2009
 Der Regierungsrat des Kantons Basel-Stadt,
