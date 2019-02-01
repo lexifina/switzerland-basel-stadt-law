@@ -1,0 +1,2 @@
+Schlussbestimmung
+Dieses Reglement ist zu publizieren. Es tritt am 1. Januar 2018 in Kraft.
