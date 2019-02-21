@@ -1,6 +1,6 @@
-Einbürgerungen: Gebührenreglement | Riehen: Bürgergemeinde
+Einbürgerungsverfahren: Gebührenreglement | Riehen: Bürgergemeinde
 # Reglement über die Erhebung von Gebühren im Einbürgerungsverfahren
-Vom 14. Dezember 2005
+Vom 23. November 2018
 Der Bürgerrat Riehen,
-gestützt auf § 41 Abs. 2 des Bürgerrechtsgesetzes (BüRG) vom 29. April 1992,
-erlässt folgendes Gebührenreglement:
+gestützt auf § 26 Abs. 2 des Bürgerrechtsgesetzes (BüRG) vom 19. Oktober 2017,
+erlässt folgendes Reglement:
