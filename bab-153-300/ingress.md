@@ -1,4 +1,4 @@
-Einbürgerungskommission. R | Basel: Bürgergemeinde
+Einbürgerungskommission: Reglement | Basel: Bürgergemeinde
 # Reglement für die Einbürgerungskommission
 Vom 13. Mai 2014
 Der Bürgerrat der Stadt Basel
