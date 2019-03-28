@@ -7,5 +7,5 @@ d) Weitere Auslagen, wie insbesondere Reiseentschädigungen, Honorare für Dolme
 2 Als Handlung im Zusammenhang mit einer Betriebskontrolle gilt jede Verrichtung, die geeignet ist, einen Verstoss gegen die bundesrechtlichen Entsendebestimmungen festzustellen oder zu belegen, sowie die Behandlung des Verstosses an den Sitzungen der tripartiten Kommission.
 3 Das Amt für Wirtschaft und Arbeit (AWA) berechnet seinen Aufwand für die Tätigkeit als besonderes Kontrollorgan gemäss Art. 6 des Bundesgesetzes über die Allgemeinverbindlicherklärung von Gesamtarbeitsverträgen vom 28. September 1956 nach Zeitaufwand mit einem Stundenansatz von CHF 100.
 4 Das Amt für Wirtschaft und Arbeit (AWA) erhebt eine nach Aufwand berechnete Gebühr von
-a) maximal CHF 500 für die Anordnung oder das Androhen einer Verwaltungsbusse gemäss Art. 9 Abs. 2 lit. a EntsG;
-b) CHF 200 bis CHF 2'000 für die Auferlegung eines Dienstleistungsverbots gemäss Art. 9 Abs. 2 lit. b EntsG.
+a) maximal CHF 500 für die Anordnung oder das Androhen einer Verwaltungsbusse gemäss Art. 9 Abs. 2 lit. a, lit. b Ziff. 1, lit. d Ziff. 1 und lit. f EntsG;
+b) CHF 200 bis CHF 2'000 für die Auferlegung eines Dienstleistungsverbotes gemäss Art. 9 Abs. 2 lit. b Ziff. 2, lit. c, lit. d Ziff. 2 und lit. e EntsG.
