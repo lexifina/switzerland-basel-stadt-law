@@ -1,4 +1,4 @@
-Spitalliste Basel-Stadt: RRB
+Spitalliste Basel-Stadt: RRB | Spitäler
 # Regierungsratsbeschluss betreffend die Spitalliste des Kantons Basel-Stadt (somatische Akutmedizin, Rehabilitation, Psychiatrie)
 Vom 19. Dezember 2017
 Der Regierungsrat des Kantons Basel-Stadt,
