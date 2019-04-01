@@ -1,0 +1,2 @@
+# § 8c Protokollführende Personen an Sitzungen der Einzelrichterinnen oder Einzelrichter für Zwangsmassnahmen im Ausländerrecht
+1 Das Appellationsgericht legt die Entschädigung der protokollführenden Personen an den Sitzungen der Einzelrichterinnen oder Einzelrichter für Zwangsmassnahmen im Ausländerrecht sowie die Entschädigung für einen entsprechenden Bereitschaftsdienst mit einer vom Gerichtsrat zu genehmigenden Richtlinie fest.
