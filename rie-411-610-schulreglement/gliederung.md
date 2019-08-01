@@ -1,6 +1,6 @@
 ## I. Organisation der Gemeindeschulen
 ### 1. Zuständige Verwaltungsabteilung
-### 1bis. Leitung Gemeindeschulen
+### 1bis. …
 ### 2. Schulleitungen
 ### 3. Schulräte
 ## II. Betrieb der Gemeindeschulen

@@ -1,5 +1,5 @@
 # § 27b Leitungstreffen
-1 Am Leitungstreffen nehmen alle Kostenstellen- und Produktverantwortlichen der Gemeindeverwaltung inklusive die Leitung Gemeindeschulen und die Schulleitungen teil.
+1 Am Leitungstreffen nehmen alle Kostenstellen- und Produktverantwortlichen der Gemeindeverwaltung inklusive Schulleitungen teil.
 2 Das Leitungstreffen dient
 a) der Vermittlung von Informationen, welche die gesamte Organisation betreffen, und von Vorgaben und Anordnungen der Verwaltungsleitung,
 b) der Orientierung über bevorstehende Änderungen und Neuerungen sowie dem gegenseitigen Informationsaustausch, und
