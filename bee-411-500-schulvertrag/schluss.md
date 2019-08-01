@@ -10,4 +10,4 @@ Genehmigt durch die Gemeindeversammlung Bettingen am: 31. März 2009.
 Genehmigt durch den Einwohnerrat Riehen am: 18. Februar 2009.
 Genehmigt durch den Regierungsrat des Kantons Basel-Stadt am: 5. Mai 2009.
 Anhänge
-Anhang BeE 411.500 Anhang: Aufbauorganisation für die Primarstufe Bettingen / Riehen Anhang BeE 411.500 Anhang 2 : Berechnung der internen Schulhausmiete der beiden Gemeinden Bettingen und Riehen
+Anhang BeE 411.500 Anhang : Organigramm für die Gemeindeschulen Bettingen / Riehen Anhang BeE 411.500 Anhang 2 : Berechnung der internen Schulhausmiete der beiden Gemeinden Bettingen und Riehen
