@@ -1,5 +1,12 @@
-# § 20a Stadtsauberkeit und Abfallvermeidung
-1 An öffentlichen Veranstaltungen auf öffentlichem Grund dürfen für Getränke und Esswaren nur bepfandetes Mehrweggeschirr sowie bepfandete PET-Flaschen verwendet werden. Dies gilt auch für öffentliche Veranstaltungen auf privatem Grund mit mehr als 500 Personen. Für Gebäude und Grundstücke des Kantons, die ausserhalb des Kantonsgebiets liegen, verpflichtet die zuständige Behörde die Nutzer auf die gleichen Regeln.
-2 Von dieser Regelung ausgenommen ist die Fasnacht. Der Regierungsrat kann Ausnahmen für weitere öffentliche Veranstaltungen vorsehen, wenn der Einsatz von bepfandetem Mehrweggeschirr und bepfandeten PET-Flaschen nicht sinnvoll erscheint.
-3 Der Regierungsrat kann für öffentliche Grossveranstaltungen einen zeitlich befristeten Rayon bestimmen, in dem Getränke und Esswaren, die zum unmittelbaren Verzehr bestimmt sind, nur in bepfandetem Mehrweggeschirr und bepfandeten PET-Flaschen abgegeben werden dürfen.
-4 Wer Getränke oder Nahrungsmittel zum unmittelbaren Verzehr verkauft (Take-away), muss während der Öffnungszeiten vor dem Verkaufslokal Abfalleimer aufstellen und die Abfälle auf eigene Kosten entsorgen.
+# § 20a Sauberkeit und Abfallvermeidung
+1 Wer im öffentlichen Raum in der Stadt Basel Getränke und Esswaren zum unmittelbaren Verzehr verkauft, muss Mehrweggeschirr verwenden.
+1bis Wer auf privatem Grund im Rahmen einer öffentlichen Veranstaltung mit mehr als 500 Personen über die gesamte Veranstaltungsdauer Getränke und Esswaren zum unmittelbaren Verzehr verkauft, muss Mehrweggeschirr verwenden.
+1ter Für die Abgabe von Getränken und Esswaren zum unmittelbaren Verzehr in Gebäuden und auf Grundstücken, die im Eigentum des Kantons stehen oder vom Kanton genutzt werden, muss Mehrweggeschirr verwendet werden. Für Gebäude und Grundstücke, die vom Kanton an Private vermietet oder verpachtet wurden, gilt Abs. 1bis sinngemäss.
+2 Von der Regelung gemäss Abs. 1 ausgenommen sind die drei Fasnachtstage sowie der Verkauf von Esswaren an der Herbstmesse.
+2bis Der Regierungsrat kann insbesondere in folgenden Fällen Ausnahmen von der Mehrweggeschirrpflicht vorsehen:
+a) bei Verwendung von rezyklierbaren Einweggebinden (PET-und Glasflaschen, Alu-Dosen) für Getränke, wenn ein Abfallkonzept vorliegt und ein Pfandsystem oder ein geeignetes Sammelsystem den Rücklauf der Gebinde und die Rückführung der Wertstoffe in hohem Masse sicherstellt;
+b) bei Getränken oder Esswaren, bei denen eine Abgabe in Mehrweggeschirr unverhältnismässig erscheint;
+c) bei Verkäufen an Kleinstveranstaltungen wie z.B. an kleinen Strassenfesten.
+3 …
+4 Wer regelmässig Getränke oder Esswaren in Einwegverpackung zum unmittelbaren Verzehr verkauft, muss während der Öffnungszeiten vor der Verkaufsstelle Abfalleimer aufstellen und die Abfälle auf eigene Kosten entsorgen.
+5 Die Einwohnergemeinden erlassen für ihr Gebiet mit Abs. 1 bis Abs. 4 vergleichbare Bestimmungen.
