@@ -1,5 +1,6 @@
-Richterentschädigungen: Verordnung | Gerichte / Staatsanwaltschaft / Strafverfolgungsbehörden
-# Verordnung betreffend die Entschädigung für Richterinnen und Richter
-Vom 6. Februar 1973
-Der Regierungsrat des Kantons Basel-Stadt,
-gestützt auf § 82 Abs. 2 des Gesetzes betreffend Wahl und Organisation der Gerichte und der richterlichen Beamtungen vom 27. Juni 1895, in der Fassung vom 14. Dezember 1972, erlässt im Einvernehmen mit dem Appellationsgericht folgende Verordnung betreffend die Richterentschädigungen:
+Gerichte Basel: Entschädigungsreglement | Gerichte / Staatsanwaltschaft / Strafverfolgungsbehörden
+# Entschädigungsreglement der Gerichte Basel-Stadt
+Vom 24. Juni 2019
+Der Gerichtsrat des Kantons Basel-Stadt,
+gestützt auf § 9 Abs. 2 Ziff. 3 und 5 und § 61 Abs. 3 des Gesetzes betreffend die Organisation der Gerichte und der Staatsanwaltschaft (Gerichtsorganisationsgesetz, GOG) vom 3. Juni 2015,
+beschliesst:
