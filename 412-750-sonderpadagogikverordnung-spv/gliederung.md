@@ -7,6 +7,7 @@
 ## VIbis. Individuelle Lernziele
 ## VII. Übertragung von Aufgaben an Private
 ## VIII. Anerkennung und Liste gemäss der interkantonalen Vereinbarung für soziale Einrichtungen (IVSE)
+## VIIIbis. Spitalschulung
 ## IX. Zuständigkeiten
 ## X. Rechtsmittel
 ## XI. Übergangs- und Schlussbestimmungen
