@@ -1,4 +1,4 @@
-# § 37c Informations- und Meldepflicht
-1 Die Polizei informiert die Parteien über die Tragweite der angeordneten Massnahmen, die Folgen der Missachtung der amtlichen Verfügung, die Beratungsangebote sowie über die Möglichkeiten an das Einzelgericht des Zivilgerichts zu gelangen.
-2 Die Polizei übermittelt die Adresse der gefährdeten sowie der weggewiesenen Person umgehend von Amtes wegen an die zuständigen Beratungsstellen. Wünscht eine Person keine Beratung, werden die von der Polizei übermittelten Daten von den Beratungsstellen vernichtet.
-3 Erscheinen Kindes- oder Erwachsenenschutzmassnahmen angezeigt, so macht die Polizei Meldung an die zuständige Behörde.
+# § 37c Mitteilung bei Schutzmassnahmen
+1 Die Polizei teilt die angeordneten Schutzmassnahmen schriftlich mit. In der Regel händigt sie die Verfügung der gefährdenden und der gefährdeten Person zusammen mit einer Information über das weitere Verfahren persönlich aus.
+2 Ist die persönliche Aushändigung an die gefährdende Person trotz sachdienlicher Nachforschungen nicht möglich, wird sie durch geeignete Bekanntmachung am Ort, wo sie wohnt oder sich gewöhnlich aufhält, aufgefordert, sich sofort bei der Polizei zu melden.
+3 Eine im Sinne von § 37b Abs. 2 lit. a weggewiesene Person hat eine Zustelladresse zu bezeichnen. Unterlässt sie dies, können behördliche Zustellungen während der Dauer der Wegweisung durch Hinterlegung bei der Polizei erfolgen und gelten als zugestellt.

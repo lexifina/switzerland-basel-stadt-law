@@ -1,4 +1,7 @@
-# § 37a Wegweisung und Rückkehrverbot bei häuslicher Gewalt
-1 Gefährdet eine mündige Person eine andere mündige Person innerhalb einer bestehenden oder aufgelösten familiären oder partnerschaftlichen Beziehung oder droht sie mit einer ernsthaften Gefährdung, kann die Polizei sie aus dem gemeinsamen Wohnraum beziehungsweise dem Wohnraum der gefährdeten Person und der unmittelbaren Umgebung wegweisen und ihr die Rückkehr dahin sowie jegliche Form der Kontaktaufnahme für zwölf Tage verbieten.
-2 Die Wegweisung und das Rückkehrverbot erfolgen unter Strafandrohung gemäss Art. 292 des Schweizerischen Strafgesetzbuches.
-3 Mit der Wegweisung können weitere Massnahmen angeordnet werden.
+# § 37a Häusliche Gewalt
+1 Häusliche Gewalt liegt vor, wenn eine Person im Rahmen einer bestehenden oder aufgelösten familiären oder partnerschaftlichen Beziehung in ihrer körperlichen, sexuellen oder psychischen Integrität verletzt oder gefährdet wird,
+a) durch Ausübung oder Androhung von Gewalt oder
+b) durch mehrmaliges Belästigen, Auflauern oder Nachstellen,
+unabhängig davon, ob die gefährdende Person und die gefährdete Person den selben Wohnsitz haben oder hatten.
+2 …
+3 …
