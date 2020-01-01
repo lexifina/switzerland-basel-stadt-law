@@ -1,0 +1,1 @@
+Dieser Normalarbeitsvertrag ist zu publizieren; er tritt am 1. Januar 2020 in Kraft. Auf den gleichen Zeitpunkt wird der Normalarbeitsvertrag für landwirtschaftliche Arbeitsverhältnisse im Kanton Basel-Stadt vom 15. Juni 1993 aufgehoben.
