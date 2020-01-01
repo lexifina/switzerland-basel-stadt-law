@@ -46,6 +46,7 @@
 #### 2.I.3. Steuerbefreiung von Einrichtungen der beruflichen Vorsorge
 ### 2.II. Berechnung des Reingewinns
 #### 2.II.1. Gewinnausschüttungen
+#### 2.II.1bis Ermässigte Besteuerung von Gewinnen aus Patenten und vergleichbaren Rechten
 #### 2.II.2 Abschreibungen
 #### 2.II.3. Unternehmensumstrukturierungen
 #### 2.II.4. Mitgliederbeiträge
@@ -126,7 +127,7 @@
 #### 6.I.4. Quellensteuern
 ### 6.II. Steuerzahlung
 #### 6.II.1. Zahlstellen
-#### 6.II.2. Verrechnungssteuer, Steuerrückbehalt USA, pauschale Steueranrechnung
+#### 6.II.2. Verrechnungssteuer, Steuerrückbehalt USA, Anrechnung ausländischer Quellensteuern
 #### 6.II.3. Zahlungserleichterungen
 #### 6.II.4. Gebühren bei nicht rechtzeitiger Zahlung der Steuer
 ### 6.III. Steuererlass
