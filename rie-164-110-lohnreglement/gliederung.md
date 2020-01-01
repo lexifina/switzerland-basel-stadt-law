@@ -10,7 +10,7 @@
 #### III. 3. 2. Persönliche Zulage
 ## IV. Familien- und Unterhaltszulagen
 ### IV. 1. Familienzulage
-### IV. 2. Unterhaltszulage
+### IV. 2. Unterhaltszulagen
 ## V. Weitere Bestimmungen
 ## VI. Rechtsmittel und Verfahren
 ## VII. Übergangs- und Schlussbestimmungen
