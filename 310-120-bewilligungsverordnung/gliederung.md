@@ -47,7 +47,7 @@
 ### X.9. …
 ## XI. Übergangs- und Schlussbestimmungen
 ### XI.1. Gebühren
-### XI.2. Stellvertretung Drogerie
+### XI.2. …
 ### XI.3. Psychotherapie
 ## XI.4. Änderung und Aufhebung bisheriger Erlasse
 ## XI.5. Übergangsbestimmung zur Änderung vom 22.12.2015

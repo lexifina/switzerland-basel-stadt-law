@@ -1,0 +1,4 @@
+# § 29b Eingeschränkte Stellvertretung in Drogerien
+1 Stellvertretungen in Drogerien können während maximal zwanzig Stunden pro Woche sowie während maximal vier Wochen pro Jahr von Drogistinnen oder Drogisten mit eidgenössischem Fähigkeitszeugnis ausgeübt werden, wenn sie den Nachweis einer zweijährigen praktischen Tätigkeit erbringen und eine von der Kantonsapothekervereinigung Schweiz anerkannte Zusatzausbildung besucht haben, welche dazu befähigt, befristet die fachtechnische Verantwortung in einer Drogerie zu übernehmen.
+2 Die Stellvertretung gemäss Abs. 1 ist bewilligungspflichtig. Pro Drogerie wird in der Regel eine Vertretung bewilligt.
+3 Während der Vertretung muss die fachliche Rücksprache mit der Inhaberin oder dem Inhaber der Berufsausübungsbewilligung gemäss § 30 GesG gewährleistet werden.
