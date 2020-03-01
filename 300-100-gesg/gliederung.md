@@ -22,7 +22,7 @@
 ### V.1. Grundsatz
 ### V.2. Berufsausübung
 ### V.3. Fachpersonen mit Bewilligung zur Berufsausübung
-### V.4. Berufspflichten für universitäre Medizinalpersonen und Psychotherapeutinnen und Psychotherapeuten
+### V.4. Berufspflichten für universitäre Medizinalpersonen, Psychotherapeutinnen und Psychotherapeuten sowie Gesundheitsfachpersonen nach dem Bundesgesetz über die Gesundheitsberufe
 ### V.5. Notfalldienst
 ### V.6. Schweigepflicht
 ### V.7. Meldepflicht
