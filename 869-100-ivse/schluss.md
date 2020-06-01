@@ -2,4 +2,4 @@ Der vorliegende Text wurde von der Vereinbarungskonferenz am 14. September 2007 
 Die Präsidentin: Regierungsrätin Kathrin Hilber
 Die Generalsekretärin SODK: Margrith Hanselmann
 Anhänge
-Anhang 1: Inkrafttreten der IVSE Anhang 2: Abkürzungen Anhang 3: Liste der Vereinbarungskantone mit den Bereichen, für die der Beitritt gilt
+Anhang 1 : Inkrafttreten der IVSE Anhang 2: Abkürzungen Anhang 3: Liste der Vereinbarungskantone mit den Bereichen, für die der Beitritt gilt
