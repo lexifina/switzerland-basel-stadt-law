@@ -1,1 +1,2 @@
-Dieses Reglement ist zu publizieren; es wird sofort wirksam. Auf den gleichen Zeitpunkt wird das Reglement betreffend die Erhebung von Kanzleigebühren vom 26. September 1995 aufgehoben.
+Schlussbestimmung
+Dieses Reglement ist zu publizieren; es tritt am 1. Juli 2020 in Kraft. Auf den gleichen Zeitpunkt wird das Reglement betreffend die Erhebung von Verwaltungsgebühren vom 31. August 2010 aufgehoben.
