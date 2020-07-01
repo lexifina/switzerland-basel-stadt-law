@@ -9,4 +9,5 @@
 ## III. Netznutzungsentgelt Netzebene 5 (Mittelspannungsebene)
 ## IV. Netznutzungsentgelt Netzebene 3 (Hochspannungsebene)
 ## V. Netznutzungsentgelt Netzebene «öffentlicher Verkehr» (Gleichspannungsebene)
+## Vbis. Anschlussgebühren und Netzkostenbeiträge
 ## VI. Übergangs und Schlussbestimmungen
