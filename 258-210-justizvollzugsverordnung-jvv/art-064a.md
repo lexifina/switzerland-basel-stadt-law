@@ -1,2 +1,0 @@
-# § 64a Kostenbeteiligung
-1 Die verurteilte Person entrichtet einen Kostenbeitrag an die Vollzugskosten und stellt diesen mit regelmässigen Vorschüssen sicher. Die zuständige Behörde kann den Kostenbeitrag ganz oder teilweise erlassen, wenn die verurteilte Person darum ersucht und ihre Notlage nachweist.
