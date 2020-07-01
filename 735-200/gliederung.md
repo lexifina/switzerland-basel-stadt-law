@@ -10,5 +10,6 @@
 ### 6. Blitzschutz
 ### 7. Aus-, Weiter- und Fortbildung, Instruktion
 ## V. Rechtsmittel
+## V.bis Strafbestimmungen
 ## VI. Übergangsbestimmung
 ## VII. Schlussbestimmungen

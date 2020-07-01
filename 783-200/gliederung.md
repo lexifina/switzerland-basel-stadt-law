@@ -13,4 +13,5 @@
 ### H.I. Zuständige Stellen
 ### H.II. Verhinderung und Bekämpfung von Gewässerverunreinigungen
 ### H.III. Rechtsmittel
+## H.bis Strafbestimmungen
 ## I. Schlussbestimmungen

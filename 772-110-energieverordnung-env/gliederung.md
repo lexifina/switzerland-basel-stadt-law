@@ -15,4 +15,5 @@
 ### F. II. Vergütung für Elektrizität aus Kleinkraftwerken
 ## G. Fachkommission
 ## H. Rechtsschutz
+## H.bis Strafbestimmungen
 ## I. Übergangs- und Schlussbestimmungen
