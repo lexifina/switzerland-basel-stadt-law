@@ -1,7 +1,10 @@
-## 1. Geltung des Gesetzes
-## 2. Zuständige Behörden
-## 3. Vollzug von Strafen und Massnahmen
-## 4. Zusammenarbeit mit anderen Kantonen
-## 5. Soziale und psychosoziale Betreuung
-## 6. Kommission unabhängiger Sachverständiger
-## 7. Schlussbestimmungen
+## 1. Allgemeine Bestimmungen
+## 2. Rechtsstellung der eingewiesenen Personen
+## 3. Sicherheit und Ordnung
+## 4. Disziplinarrecht
+## 5. Verfahren des Straf- und Massnahmenvollzugs
+## 6. Beizug von Privaten
+## 7. Umgang mit Personendaten
+## 8. Übernahme der Vollzugskosten
+## 9. Beschwerderecht und Rechtsschutz
+## 10. Ausführungsbestimmungen
