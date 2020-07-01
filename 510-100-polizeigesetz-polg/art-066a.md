@@ -1,0 +1,3 @@
+# § 66a Bewilligung für Feuerwerk und Schiessen
+1 Das Abbrennen von pyrotechnischen Gegenständen, namentlich Feuerwerks-, oder Knallkörper, und das Schiessen mit Waffen im Sinne der eidgenössischen Waffengesetzgebung in bewohntem, öffentlichem oder bewohntem, allgemein zugänglichem Gebiet oder an Orten, wo Menschen, Tiere oder Sachen unmittelbar gefährdet sind, bedürfen einer Bewilligung der Kantonspolizei.
+2 Wer ohne die erforderliche Bewilligung pyrotechnische Gegenstände abbrennt oder mit Waffen im Sinne der eidgenössischen Waffengesetzgebung schiesst, wird mit Busse bestraft. Die pyrotechnischen Gegenstände und Waffen können sichergestellt und eingezogen werden.

@@ -6,4 +6,5 @@
 ## IV. Durchführung des Gesetzes
 ## V. Rechtsmittel
 ## VI. Rechte und Pflichten der Gemeinden
+## VIbis. Strafbestimmungen
 ## VII. Schlussbestimmungen

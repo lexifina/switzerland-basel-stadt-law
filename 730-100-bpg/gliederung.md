@@ -131,6 +131,7 @@
 #### 5.Kapitel.VI. Rechtspflege
 ##### 5.Kapitel.VI.1. Baueinsprache
 ##### 5.Kapitel.VI.2. Baurekurs
+#### 5.Kapitel.VII. Strafbestimmungen
 ## 2. Teil: Planung, Bodenordnung, Erschliessung
 ### 6. Kapitel: Planung
 #### 6.1. Abschnitt: Grundsätze

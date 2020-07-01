@@ -38,6 +38,7 @@
 ## VIII. Haftung und Rechtspflege
 ### VIII. 1. Haftung
 ### VIII. 2. Rechtspflege
+### VIII. 3. Strafbestimmungen
 ## IX. Übergangs- und Schlussbestimmungen
 ### IX. 1. Errichtung der IWB
 ### IX. 2. Eigentumsverhältnisse

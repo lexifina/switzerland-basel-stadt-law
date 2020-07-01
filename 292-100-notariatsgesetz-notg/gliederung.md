@@ -30,5 +30,6 @@
 ## VII. Registrierung und Aufbewahrung der Urkunden
 ## VIII. Honorar für die notariellen Verrichtungen
 ## IX. Vermögensrechtliche Verantwortlichkeit und Disziplinarwesen
+## IXbis. Strafbestimmungen
 ## X. Übergangsbestimmung zu § 8
 ## XI. Schlussbestimmungen
