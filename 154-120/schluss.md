@@ -1,2 +1,2 @@
 Schlussbestimmung
-Dieses Reglement ist zu publizieren. Es wird sofort wirksam.
+Diese Änderung ist zu publizieren; sie tritt am fünften Tag nach der Publikation in Kraft.
