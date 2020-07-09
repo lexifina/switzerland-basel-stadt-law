@@ -173,6 +173,7 @@
 #### 3.5. Abschnitt: Ausgleich, Entschädigung, Heimschlag
 ##### 5.Abschnitt: 1. Mehrwertabgaben
 ###### 3.5.1.a) Zweck
+###### 3.5.1.abis) Ausgangswert für die Berechnung
 ###### 3.5.1.b) Höhe
 ###### 3.5.1.c) Erhebung
 ###### 3.5.1.d) Haftung der Grundstücke
