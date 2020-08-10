@@ -1,0 +1,3 @@
+# § 145a Anmeldung zu Abklärungen, Beratungen und Behandlungen
+1 Die Erziehungsberechtigten können ihre Kinder bei den Angeboten nach §§ 140 - 145 direkt, die Lehr- und Fachpersonen die Schülerinnen und Schüler nur im Einverständnis mit den Erziehungsberechtigten anmelden.
+2 In der Volksschule können nach Anhörung der Erziehungsberechtigten die Schulleitung oder die Volksschulleitung bzw. die zuständige Stelle der Gemeinden Abklärungen, Beratungen und Behandlungen beim Kinder- und Jugendgesundheitsdienst (§ 140), der Schulpsychologie (§ 141) und den Angeboten für Krisensituationen in den Volksschulen (§ 142) und für abschlussgefährdete Jugendliche (§ 143) anordnen.

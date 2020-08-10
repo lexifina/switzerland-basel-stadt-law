@@ -1,0 +1,3 @@
+# § 88a Rechtsmittel
+1 Entscheide der Lehrpersonenteams und der Schulleitungen können in den vom Kanton geführten Schulen nach den Bestimmungen des Organisationsgesetzes bei der zuständigen Departementsvorsteherin bzw. dem zuständigen Departementsvorsteher angefochten werden, in den von den Gemeinden geführten Schulen bei der zuständigen Stelle der Gemeinden.
+2 Entscheide der Schulkommissionen, der Volksschulleitung und der Leitung der Mittelschulen und Berufsbildung können nach den Bestimmungen des Organisationsgesetzes bei der zuständigen Departementsvorsteherin bzw. dem zuständigen Departementsvorsteher angefochten werden.
