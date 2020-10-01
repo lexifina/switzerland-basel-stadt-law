@@ -1,7 +1,8 @@
-## I. Geltungsbereich und Begriffsdefinitionen
-## II. Allgemeine gegenseitige Pflichten
-## III. Arbeits- und Ruhezeit, Freizeit, Ferien
-## IV. Entlöhnung, Schadenersatz
-## V. Versicherungen
-## VI. Antritt und Beendigung des Arbeitsverhältnisses
-## VII. Schlussbestimmungen
+## I. Allgemeine Bestimmungen
+## II. Schutzbestimmungen
+## III. Probezeit und Beendigung des Arbeitsverhältnisses
+## IV. Arbeits- und Ruhezeit, Freie Tage und Ferien
+## V. Lohn
+## VI. Versicherungen, Berufliche Vorsorge
+## VII. Weisungsbefugnis und Haftung
+## VIII. Abweichungen, Streitigkeiten und Übergangsbestimmung

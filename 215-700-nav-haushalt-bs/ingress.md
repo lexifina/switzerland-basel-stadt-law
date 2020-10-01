@@ -1,6 +1,7 @@
-Normalarbeitsvertrag für Hauspersonal | Obligationenrecht
-# Normalarbeitsvertrag für Hauspersonal im Kanton Basel-Stadt
-Vom 20. November 1990
+Arbeitnehmende Haushalt/24-Stunden-Betreuung: Normalarbeitsvertrag | Obligationenrecht: Spezielle Erlasse
+# Normalarbeitsvertrag für Arbeitnehmende im Haushalt einschliesslich der 24-Stunden-Betreuung im Kanton Basel-Stadt
+(NAV Haushalt BS)
+Vom 25. August 2020
 Der Regierungsrat des Kantons Basel-Stadt,
-gestützt auf Art. 359 Abs. 2 des Schweizerischen Obligationenrechts vom 30. März 1911 und § 215 des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuchvom 27. April 1911,
-erlässt folgenden Normalarbeitsvertrag für Hauspersonal im Kanton Basel-Stadt:
+gestützt auf Art. 359 Abs. 2 des Schweizerischen Obligationenrechts (OR) vom 30. März 1911 und § 215 des Gesetzes betreffend die Einführung des Schweizerischen Zivilgesetzbuches vom 27. April 1911,
+beschliesst:
