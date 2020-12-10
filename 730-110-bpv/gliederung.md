@@ -20,7 +20,7 @@
 ###### (IV.1.)b) Denkmalschutz
 ###### (IV.1.)c) Abweichungen
 ##### (IV.)2. Organisation des Stadt- und Ortsbildschutzes
-##### (IV.)3. Entscheide
+##### (IV.)3. Entscheide und Stellungnahmen
 ###### (IV.3.)a) …
 ###### (IV.3.)b) …
 ##### (IV.)4. Beschränkung von Fremdreklamen
