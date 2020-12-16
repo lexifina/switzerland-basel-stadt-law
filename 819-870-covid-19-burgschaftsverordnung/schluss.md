@@ -1,1 +1,1 @@
-Diese Verordnung ist zu publizieren; sie tritt am 25. März 2020 in Kraft.
+Diese Verordnung ist zu publizieren; sie tritt am 16. Dezember 2020 in Kraft. Auf den gleichen Zeitpunkt wird die Verordnung betreffend Gewährung von Bürgschaften im Zusammenhang mit dem COVID-19-Virus (COVID-19 Bürgschaftsverordnung) vom 24. März 2020 aufgehoben.

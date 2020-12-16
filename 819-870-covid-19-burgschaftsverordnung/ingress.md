@@ -1,7 +1,7 @@
 Arbeitsmarkt und Arbeitsbeschaffung | COVID-19 Bürgschaftsverordnung
-# Verordnung betreffend Gewährung von Bürgschaften im Zusammenhang mit dem COVID-19-Virus
+# Verordnung betreffend Gewährung von Bürgschaften im Zusammenhang mit der COVID-19-Pandemie
 (COVID-19 Bürgschaftsverordnung)
-Vom 24. März 2020
+Vom 15. Dezember 2020
 Der Regierungsrat des Kantons Basel-Stadt,
-gestützt auf den Grossratsbeschluss betreffend Gewährung von Bürgschaften im Interesse der Schaffung oder Erhaltung produktiver, die Wohnlichkeit nicht beeinträchtigender Arbeitsplätze in Basel vom 19. November 1975, unter Verweis auf seine Erläuterungen Nr. P200398
+gestützt auf § 5b des Standortförderungsgesetzes vom 29. Juni 2006 , unter Verweis auf seine Erläuterungen Nr. P201785
 beschliesst:
