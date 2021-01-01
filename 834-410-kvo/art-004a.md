@@ -5,7 +5,7 @@ a) besonders schwer erkrankt ist;
 b) an schweren Begleiterkrankungen leidet;
 c) einer besonderen Behandlung oder Betreuung bedarf;
 d) unter besonderen sozialen Umständen lebt.
-2bis Besondere Umstände liegen aufgrund des Alters bei Patientinnen oder Patienten, die das 18. Lebensjahr noch nicht oder das 75. Lebensjahr bereits vollendet haben, bei folgenden Untersuchungen und Behandlungen vor:
+2bis Besondere Umstände liegen aufgrund des Alters bei Patientinnen oder Patienten, die das 16. Lebensjahr noch nicht oder das 75. Lebensjahr bereits vollendet haben, bei folgenden Untersuchungen und Behandlungen vor:
 a) Katarakt;
 b) Handchirurgie;
 c) Fusschirurgie (exkl. Hallux valgus);
