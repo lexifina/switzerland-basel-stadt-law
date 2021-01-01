@@ -3,5 +3,5 @@ Swisslos-Fonds: Verordnung | Lotterien / Kollekten
 (Swisslos-Fonds-Verordnung)
 Vom 19. August 2014
 Der Regierungsrat des Kantons Basel-Stadt,
-gestützt auf § 1 des Einführungsgesetzes vom 9. Oktober 1924 zum Bundesgesetz betreffend die Lotterien und die gewerbsmässigen Wetten vom 8. Juni 1932 sowie auf die Interkantonale Vereinbarung betreffend die gemeinsame Durchführung von Lotterien vom 26. Mai 1937 / 18. Januar 1944 / 4. September 1976,
+gestützt auf § 2 des Einführungsgesetzes zum Bundesgesetz über Geldspiele (EG BGS) vom 24. Juni 2020 sowie auf Art. 2 der Interkantonalen Vereinbarung betreffend die gemeinsame Durchführung von Geldspielen (IKV 2020),
 beschliesst:
