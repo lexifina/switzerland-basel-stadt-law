@@ -96,20 +96,22 @@
 ###### (1. Teil/3. Abschn./C./III) 2. Bemessung des Eigenkapitals
 #### (1. Teil) 4. Abschnitt: Die Quellensteuer
 ##### (1. Teil/4. Abschn.) I. Natürliche Personen mit steuerrechtlichem Wohnsitz oder Aufenthalt im Kanton
-###### (1. Teil/4. Abschn./I.) 1. Steuersubjekt
+###### (1. Teil/4. Abschn./I.) 1. Der Quellensteuer unterworfene Arbeitnehmerinnen und Arbeitnehmer
 ###### (1. Teil/4. Abschn./I.) 2. Steuerbare Leistungen
-###### (1. Teil/4. Abschn./I.) 3. Steuertarif
+###### (1. Teil/4. Abschn./I.) 3. Quellensteuerabzug
 ###### (1. Teil/4. Abschn./I.) 4. Abgegoltene Steuer
-###### (1. Teil/4. Abschn./I.) 5. Vorbehalt der ordentlichen Veranlagung
-##### (1. Teil/4. Abschn.) II. Natürliche und juristische Personen ohne steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz
-###### (1. Teil/4. Abschn./II.) 1. Arbeitnehmer und Arbeitnehmerinnen
-###### (1. Teil/4. Abschn./II.) 2. Arbeitnehmer und Arbeitnehmerinnen bei internationalen Transporten
+###### (1. Teil/4. Abschn./I.) 5. Obligatorische nachträgliche ordentliche Veranlagung
+###### (1. Teil/4. Abschn./I) 6. Nachträgliche ordentliche Veranlagung auf Antrag
+##### (1. Teil/4. Abschn.) II. Natürliche Personen ohne steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz sowie juristische Personen ohne Sitz oder tatsächliche Verwaltung in der Schweiz
+###### (1. Teil/4. Abschn./II.) 1. Der Quellensteuer unterworfene Arbeitnehmerinnen und Arbeitnehmer
+###### (1. Teil/4. Abschn./II.) 2. …
 ###### (1. Teil/4. Abschn./II.) 3. Künstler, Künstlerinnen, Sportler, Sportlerinnen, Referenten und Referentinnen
 ###### (1. Teil/4. Abschn./II.) 4. Mitglieder der Verwaltung oder Geschäftsführung juristischer Personen
 ###### (1. Teil/4. Abschn./II.) 5. Hypothekargläubiger und Hypothekargläubigerinnen
 ###### (1. Teil/4. Abschn./II.) 6. Empfänger und Empfängerinnen von Vorsorgeleistungen
 ##### (1. Teil/4. Abschn./II.) 6bis. Empfänger und Empfängerinnen von Mitarbeiterbeteiligungen
 ###### (1. Teil/4. Abschn./II.) 7. Abgegoltene Steuer
+###### (1. Teil/4. Abschn./II) 8. Nachträgliche ordentliche Veranlagung
 #### (1. Teil) 5. Abschnitt: Die Grundstückgewinnsteuer
 ##### (1. Teil/5. Abschn.) I. Steuerpflicht
 ###### (1. Teil/5. Abschn./I.) 1. Steuersubjekt
