@@ -1,0 +1,2 @@
+# § 5a Elektronische Unterzeichnung von Initiativen und Referenden
+1 Der Regierungsrat kann Versuche zur Unterzeichnung von Initiativen und Referenden auf elektronischem Wege fördern. Er genehmigt diese unter der Voraussetzung, dass alle wirksamen und angemessenen Massnahmen ergriffen werden, um die Kontrolle der Stimmberechtigung, das Stimmgeheimnis und die korrekte Zuordnung aller Unterschriften zu gewährleisten und um die Gefahr gezielten oder systematischen Missbrauchs ausschliessen zu können.

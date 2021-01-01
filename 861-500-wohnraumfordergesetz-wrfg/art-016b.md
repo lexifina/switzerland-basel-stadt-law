@@ -1,0 +1,3 @@
+# § 16b Beiträge für die Miete einer rollstuhlgängigen Wohnung
+1 Der Kanton gewährt auf Antrag Personen, die auf die Miete einer rollstuhlgängigen Wohnung angewiesen sind und im Kanton Wohnsitz haben, einkommensabhängige Beiträge an den monatlichen Mietzins.
+2 Der Regierungsrat legt die Höhe der Beiträge fest. Er berücksichtigt dabei die Einkommens- und Vermögensverhältnisse sowie die Mietzinsbelastung. Der höchste Beitrag darf den Betrag des Zuschlags für rollstuhlgängige Wohnungen gemäss dem Bundesgesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen und Invalidenversicherung (ELG) vom 6. Oktober 2006 nicht übersteigen.

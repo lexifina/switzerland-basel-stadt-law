@@ -1,0 +1,2 @@
+# § 7a
+1 Das Verwaltungsgericht verwendet eine für alle Parteien verständliche Sprache, insbesondere werden die besonderen Bedürfnisse von Personen mit einer Sinnesbeeinträchtigung sowie Personen mit kognitiven Beeinträchtigungen berücksichtigt. Soweit die schriftliche Eröffnung eines Urteils vorgesehen ist, können die Parteien mit Behinderungen bei Bedarf eine kurze mündliche Erklärung beantragen.
