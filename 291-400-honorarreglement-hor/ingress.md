@@ -1,6 +1,7 @@
-Honorarordnung für Anwältinnen und Anwälte | Advokatur
-# Honorarordnung für die Anwältinnen und Anwälte des Kantons Basel-Stadt
-Vom 29. Dezember 2010
-Das Appellationsgericht des Kantons Basel-Stadt,
-in Ausführung von § 16 des Advokaturgesetzes vom 15. Mai 2002,
-beschliesst was folgt:
+Honorarordnung | Advokatur
+# Reglement über das Honorar und die Entschädigung der berufsmässigen Vertretung im Gerichtsverfahren
+(Honorarreglement, HoR)
+Vom 16. Juni 2020
+Der Gerichtsrat des Kantons Basel-Stadt,
+gestützt auf § 9 Abs. 2 Ziff. 7 des Gesetzes betreffend die Organisation der Gerichte und der Staatsanwaltschaft (Gerichtsorganisationsgesetz, GOG) vom 3. Juni 2015 sowie § 16 Abs. 1 des Advokaturgesetzes vom 15. Mai 2002 ,
+beschliesst:
