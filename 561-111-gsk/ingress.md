@@ -1,6 +1,7 @@
-Lotterien und Wetten: Interkantonale Vereinbarung | Lotterien / Kollekten
-# Interkantonale Vereinbarung über die Aufsicht sowie die Bewilligung und Ertragsverwendung von interkantonal oder gesamtschweizerisch durchgeführten Lotterien und Wetten
-Vom 7. Januar 2005
+Geldspielkonkordat | Lotterien / Kollekten
+# Gesamtschweizerisches Geldspielkonkordat
+(GSK)
+Vom 24. Juni 2020
 Die Kantone,
-gestützt auf die Art. 15, 16 und 34 des Bundesgesetzes betreffend die Lotterien und die gewerbsmässigen Wetten vom 8. Juni 1923,
+gestützt auf Art. 48, Art. 106 sowie Art. 191b Abs. 2 der Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999 (BV) und auf das Bundesgesetz vom 29. September 2017 über Geldspiele (Geldspielgesetz, BGS),
 vereinbaren:
