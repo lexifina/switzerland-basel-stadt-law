@@ -60,15 +60,23 @@
 #### 2.IV.3. Besteuerung
 #### 2.IV.4. Steuersatz
 ## 3. Teil: Die Quellensteuer
-### 3.I. Natürliche Personen mit steuerrechtlichem Wohnsitz oder Aufenthalt in der Schweiz
+### 3.I. Allgemeine Bestimmungen
 #### 3.I.1. Steuertarife für Arbeitnehmer und Arbeitnehmerinnen
-#### 3.I.2. Ersatzeinkünfte
-#### 3.I.3. Nachveranlagung der Quellensteuer
-#### 3.I.4. Ergänzende ordentliche Veranlagung
-#### 3.I.5. Nachträgliche ordentliche Veranlagung
-#### 3.I.6. Wechsel zwischen Quellenbesteuerung und ordentlicher Veranlagung
+#### 3.I.2. Fälligkeit und Berechnung
+#### 3.I.2bis. Ersatzeinkünfte
+#### 3.I.3. …
+#### 3.I.4. …
+#### 3.I.5. …
+#### 3.I.6. …
+### 3.Ibis. Natürliche Personen mit steuerrechtlichem Wohnsitz oder Aufenthalt in der Schweiz
+#### 3.Ibis.1. Obligatorische nachträgliche ordentliche Veranlagung
+#### 3.Ibis.2. Nachträgliche ordentliche Veranlagung auf Antrag
+#### 3.Ibis.3. Härtefälle
+#### 3.Ibis.4. Wechsel zwischen Quellenbesteuerung und ordentlicher Veranlagung
 ### 3.II. Natürliche Personen ohne steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz
-#### 3.II.1. Künstler, Künstlerinnen, Sportler, Sportlerinnen, Referenten und Referentinnen
+#### 3.II.1. Nachträgliche ordentliche Veranlagung bei Quasi-Ansässigkeit
+#### 3.II.1bis. Nachträgliche ordentliche Veranlagung von Amtes wegen
+#### 3.II.2. Künstlerinnen, Künstler, Sportlerinnen, Sportler, Referentinnen und Referenten
 ## 4. Teil: Die Grundstückgewinnsteuer
 ### 4.I. Kollektive Kapitalanlagen
 ### 4.II. Immobiliengesellschaften
@@ -102,7 +110,7 @@
 ##### 5.III.2.d) Steuerformulare und Steuerausweise
 #### 5.III.3. Veranlagungsperiode
 ### 5.IV. Quellensteuerverfahren
-#### 5.IV.1. Abrechnung und Ablieferung
+#### 5.IV.1. Abrechnung, Ablieferung und Rückerstattung
 #### 5.IV.2. Bezugsminima
 #### 5.IV.3. Bezugsprovision
 #### 5.IV.4. Meldepflicht

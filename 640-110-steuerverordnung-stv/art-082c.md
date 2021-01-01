@@ -1,0 +1,3 @@
+# § 82c
+1 Auf Gesuch von quellensteuerpflichtigen Personen, die Unterhaltsbeiträge nach § 32 Abs. 1 lit. c des Gesetzes leisten und bei denen der Tarifcode A, B, C oder H angewendet wird, kann die Steuerverwaltung zur Milderung von Härtefällen bei der Berechnung der Quellensteuer Kinderabzüge bis höchstens zur Höhe der Unterhaltsbeiträge berücksichtigen.
+2 Wurden Unterhaltsbeiträge bei der Anwendung eines der in Abs. 1 erwähnten Tarifcodes berücksichtigt, so wird die nachträgliche ordentliche Veranlagung nur auf Antrag der quellensteuerpflichtigen Person durchgeführt. Wird die nachträgliche ordentliche Veranlagung beantragt, so wird diese bis zum Ende der Quellensteuerpflicht durchgeführt.
