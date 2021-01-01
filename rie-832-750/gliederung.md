@@ -1,3 +1,3 @@
 ## I. Allgemeines
-## II. Aufgabenteilung
+## II. Eingliederung in das ASB
 ## III. Schlussbestimmungen
