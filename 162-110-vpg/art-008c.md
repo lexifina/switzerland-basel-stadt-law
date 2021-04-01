@@ -1,0 +1,5 @@
+# § 8c Kostenvorschuss für Anwaltskosten
+1 Mitarbeitende, gegen die im Zusammenhang mit ihrer Tätigkeit von der Polizei oder der Staatsanwaltschaft ein Vorverfahren eingeleitet wird, können den Arbeitgeber um einen Kostenvorschuss für die Anwaltskosten ersuchen.
+2 Zuständig zur Gewährung eines Kostenvorschusses ist bis zur Einstellung des Vorverfahrens, dem Erlass eines Strafbefehls oder der Anklageerhebung die oder der Departementsvorstehende. Für die Periode danach entscheidet der Regierungsrat über die Gewährung von Rechtsschutz gemäss § 15 des Personalgesetzes.
+3 Werden Mitarbeitende verurteilt, so haben sie den ihnen vom Arbeitgeber bezahlten Kostenvorschuss für Anwaltskosten vollständig zurückzuzahlen, sofern sie ihre Dienstpflichten vorsätzlich oder grobfahrlässig verletzt haben.
+4 Die Mitarbeitenden haben den ihnen bezahlten Kostenvorschuss für Anwaltskosten zurückzuzahlen, wenn und soweit dieser und allfällige Leistungen Dritter zusammen die entstandenen Gesamtkosten übersteigt.
