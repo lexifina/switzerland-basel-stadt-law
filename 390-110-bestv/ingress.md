@@ -1,7 +1,7 @@
-Friedhofordnung | Bestattungen
-# Verordnung über das Bestattungs- und Friedhofwesen
-(Friedhofordnung)
-Vom 18. Juni 2013
+Bestattungsverordnung | Bestattungen
+# Bestattungsverordnung
+(BestV)
+Vom 2. März 2021
 Der Regierungsrat des Kantons Basel-Stadt,
-gestützt auf § 31 des Gesetzes betreffend die Bestattungen vom 9. Juli 1931,
+gestützt auf § 38 des Bestattungsgesetzes (BestG) vom 11. März 2020, unter Verweis auf seine Erläuterungen Nr. P210086,
 beschliesst:

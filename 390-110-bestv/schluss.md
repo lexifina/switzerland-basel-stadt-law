@@ -1,2 +1,2 @@
 Schlussbestimmung
-Diese Verordnung ist zu publizieren; sie wird auf den 1. Juli 2013 wirksam. Auf den gleichen Zeitpunkt wird die Verordnung über das Bestattungs- und Friedhofwesen (Friedhofordnung) vom 30. März 1999 aufgehoben.
+Diese Verordnung ist zu publizieren; sie tritt am 1. April 2021 in Kraft. Auf den gleichen Zeitpunkt wird die Verordnung über das Bestattungs- und Friedhofwesen (Friedhofordnung) vom 18. Juni 2013 aufgehoben.
