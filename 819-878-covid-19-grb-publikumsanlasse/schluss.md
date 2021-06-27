@@ -1,0 +1,1 @@
+Dieser dringliche Beschluss ist zu publizieren; er unterliegt dem Referendum und tritt nach Massgabe von § 84 der Verfassung des Kantons Basel-Stadt sofort in Kraft. Er hat dieselbe Geltungsdauer wie die Covid-19-Verordnung Publikumsanlässe des Bundesrates.
