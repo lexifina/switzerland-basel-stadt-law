@@ -9,7 +9,7 @@
 ## 8. Dahinfallen des Arbeitsverhältnisses (§ 13 AO)
 ## 9. Arbeitszeit (§ 15 AO)
 ## 10. Ferien (§ 16 AO)
-## 11. Schwangerschafts- und Mutterschaftsurlaub (§ 17 AO)
+## 11. Schwangerschafts- und Mutterschaftsurlaub, Betreuungsurlaub (§§ 17 und § 17a AO)
 ## 12. Bezahlte Absenzen (§ 18 AO)
 ## 13. Unbezahlter Urlaub (§ 19 AO)
 ## 14. Lohnfortzahlung bei öffentlichen Dienstleistungen (§ 20 AO)
