@@ -1,6 +1,7 @@
 ## A. Allgemeine Bestimmungen
 ## B. Die Anstellung
 ## C. Nebenämter
+## Cbis Rechte und Pflichten aus dem Arbeitsverhältnis
 ## D. Massnahmen
 ### I. Allgemeine Vorschriften
 ### II. Massnahmen gemäss § 24 des Personalgesetzes
