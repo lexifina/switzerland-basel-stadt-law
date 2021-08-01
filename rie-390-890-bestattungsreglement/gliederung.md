@@ -1,9 +1,6 @@
-## I. Allgemeines
+## I. Allgemeine Bestimmungen
 ## II. Bestattungen auf dem Gottesacker Riehen
-## III. Bestattungsarten, Grabstätten
-### A. Bestattungen auf dem Gottesacker
-### B. Bestattungen ausserhalb eines Friedhofs
-### C. Aufbewahrung von Urnen nach Ablauf der Ruhezeit
-## IV. Grabmäler, Grabzeichen
+## III. Ruhezeit, Grabaufhebung, Grabräumung
+## IV. Gebühren, Grabmäler, Grabzeichen
 ## V. Grabbepflanzung, Grabschmuck
-## VI. Inkrafttreten
+## VI. Vollzug

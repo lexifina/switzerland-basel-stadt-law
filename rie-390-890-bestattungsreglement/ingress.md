@@ -1,6 +1,7 @@
-Bestattungen: Reglement | Riehen: Einwohnergemeinde
-# Reglement über die Bestattungen
-Vom 15. April 1997
+Bestattungsreglement | Riehen: Einwohnergemeinde
+# Reglement über die Bestattungen in der Gemeinde Riehen
+(Bestattungsreglement)
+Vom 6. Juli 2021
 Der Gemeinderat Riehen,
-gestützt auf § 15 Abs. 4 lit. f. des Gemeindegesetzes vom 17. Oktober 1984 und auf das Gesetz betreffend die Bestattungen vom 9. Juli 1931,
-erlässt nachstehendes Reglement:
+gestützt auf §§ 8 und 33 des Bestattungsgesetzes (BestG) vom 11. März 2020 und § 24 Abs. 3 lit. e der Gemeindeordnung der Einwohnergemeinde Riehen vom 27. Februar 2002,
+beschliesst:
