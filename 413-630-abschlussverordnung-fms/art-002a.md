@@ -1,4 +1,4 @@
-# § 2a
+# § 2a Zulassung
 1 Zu den Abschlussprüfungen werden Schülerinnen und Schüler zugelassen, die den Unterricht der letzten beiden Jahre vor dem Fachmittelschulabschluss regelmässig besucht haben.
 2 Die Prüfungsleitung entscheidet über die Nichtzulassung zu den Abschlussprüfungen. Sie kann in begründeten Fällen von der Voraussetzung des regelmässigen Unterrichtsbesuchs absehen.
 3 Die Nichtzulassung gilt als erster gescheiterter Versuch, den Fachmittelschulabschluss zu erlangen.
