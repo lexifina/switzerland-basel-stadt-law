@@ -1,3 +1,2 @@
-## A. Akkreditierung der Medienschaffenden
-## B. Zutritt zum Grossen Rat
-## C. Schlussbestimmungen
+## 1. Akkreditierung der Medienschaffenden
+## 2. Zutritt zum Grossen Rat
