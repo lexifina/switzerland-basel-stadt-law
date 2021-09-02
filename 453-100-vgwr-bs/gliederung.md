@@ -1,9 +1,7 @@
-## I. Zweck
-## II. Geltungsbereich
-## III. Begriffe
-## IV. Zuständige amtsstelle gemäss Art. 9 RHG
-## V. Einwohnerregister
-## VI. Register für Kollektivhaushalte
-## VII. Gebäude- und Wohnungsregister
-## VIII. Systematische Nutzung der neuen AHV-Versichertennummer als Personenidentifikator
-## IX. Schlussbestimmung
+## 1. Allgemeine Bestimmungen
+## 2. Das Gebäude- und Wohnungsregister
+### 2.1 Aufgaben der zentralen Statistikstelle
+### 2.2 Inhalt des GWR-BS
+### 2.3 Datengewinnung und Datenquellen
+### 2.4 Verwendung und Bekanntgabe von Daten aus dem GWR-BS
+## 3. Kantonales Gebäudemodell

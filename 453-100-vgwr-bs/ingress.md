@@ -1,7 +1,7 @@
 Registerharmonisierungsverordnung | Dokumentation / Register
-# Verordnung über die Einführung des Bundesgesetzes über die Harmonisierung der Einwohnerregister und anderer amtlicher Personenregister im Kanton Basel-Stadt
-(Registerharmonisierungsverordnung, EV RHG)
-Vom 23. Dezember 2008
-Der Regierungsrat des Kantons Basel-Stadt,
-gestützt auf Art. 21 des Bundesgesetzes über die Harmonisierung der Einwohnerregister und anderer amtlicher Personenregister (Registerharmonisierungsgesetz, RHG) vom 23. Juni 2006,
+# Verordnung über das kantonale Gebäude- und Wohnungsregister und das kantonale Gebäudemodell
+(VGWR BS)
+Vom 24. August 2021
+Der Regierungsrat des Kantons Basel Stadt,
+gestützt auf § 5 Abs. 3 des Gesetzes über die öffentliche Statistik (StatG) vom 21. Mai 2014, unter Verweis auf seine Erläuterungen Nr. P211082,
 beschliesst:
