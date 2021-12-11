@@ -1,5 +1,5 @@
 ## A. Zuständigkeit
-## B. Rodung und Waldfeststellung (Art. 4–10 WaG)
+## B. Rodung und Waldfeststellung (Art. 4 - 10 WaG)
 ## C. Abgrenzung von Wald und Bauzonen (Waldgrenzenkarten)
 ## D. Bauen im Wald
 ## E. Begehen und Befahren des Waldes
