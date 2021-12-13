@@ -13,6 +13,7 @@
 ### 5. Lenkungsabgabe
 ### 6. Strompreis-Bonus
 ### 7. Vollzug
+## VIIIbis. Entschädigung bei Einstellung der Gasversorgung
 ## IX. Vollzug, Kontrolle, Statistik
 ### 8. Verfahren
 ### 9. Berichterstattung

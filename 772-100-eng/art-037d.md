@@ -1,0 +1,5 @@
+# § 37d Industrielle und gewerbliche Anlagen
+1 Können gasbetriebene Anlagen für industrielle und gewerbliche Anwendungen aufgrund der Einstellung der Gasversorgung nicht mehr genutzt werden, besteht Anspruch auf eine Entschädigung, sofern ein Betrieb der Anlage mit Flaschengas nicht möglich oder nicht zumutbar ist.
+2 Die Entschädigung wird pauschal ausgerichtet. Die Pauschale orientiert sich an den durchschnittlichen Investitionskosten einer Anlage der gleichen Leistungskategorie, der durchschnittlichen Lebensdauer einer vergleichbaren Anlage sowie an der bisherigen Nutzungsdauer.
+3 Erfordert die Einstellung der Gasversorgung einen Umstieg auf elektrisch betriebene Anlagen und erfordert dies einen Wechsel von einem einphasigen auf einen dreiphasigen Hausanschluss, werden die dadurch entstehenden Kosten abgegolten. Der Regierungsrat legt in der Verordnung einen Maximalbetrag fest, der sich an den durchschnittlichen Installationskosten orientiert. In begründeten Ausnahmefällen kann eine höhere Entschädigung ausgerichtet werden.
+4 Für Anlagen, die nach Inkrafttreten dieser Bestimmung neu erstellt werden, kann die Entschädigung reduziert oder verweigert werden.
