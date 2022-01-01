@@ -1,6 +1,6 @@
 # § 8d Restfinanzierung durch den Kanton in Anwendung von Art. 25a Abs. 5 KVG
 1 a) Pflegeheime
-1. Die kantonalen Pflegenormkosten ergeben sich aus der Multiplikation der Indexwerte pro Pflegestufe (§ 2 Anhang 1) mit dem Punktwert in Franken (§ 3 Anhang 1).
+1. Die kantonalen Pflegenormkosten ergeben sich aus der Multiplikation der Indexwerte pro Pflegestufe (§ 2 Anhang 1) mit dem vom Regierungsrat festgelegten Punktwert in Franken.
 Für Nichtvertragsheime reduzieren sich die Normkosten um 10 Prozent.
 Pflegestufe Pflegeaufwand in Minuten pro Tag Pflegekosten pro Tag in Fr.
 … …
