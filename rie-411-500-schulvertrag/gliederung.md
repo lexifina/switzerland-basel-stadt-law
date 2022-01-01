@@ -5,6 +5,12 @@
 ## 2. Organisation und Zuständigkeiten
 ### 2.1. Organisation
 ### 2.2. Zuständigkeiten und Aufgaben
+#### 2.2.1. Gemeinderäte Bettingen und Riehen
+#### 2.2.1bis. Gemeindeversammlung Bettingen und zuständige Sachkommission des Einwohnerrats Riehen
+#### 2.2.2. Schulausschuss Bettingen / Riehen
+#### 2.2.3. Zuständige Verwaltungsabteilung der Gemeindeverwaltung Riehen
+#### 2.2.4. ...
+#### 2.2.5. Gemeinsame Schulrekurskommission
 ## 3. Massgebliches Personalrecht
 ## 4. Schulliegenschaften
 ### 4.1. …
