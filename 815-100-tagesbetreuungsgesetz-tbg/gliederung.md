@@ -1,11 +1,10 @@
 ## I. Allgemeine Bestimmungen
-## II. Förderung durch finanzielle Mittel
-### 1. Finanzierung durch Kanton und Landgemeinden
-#### a) Allgemeine Voraussetzungen
-#### b) Staatsbeiträge an Trägerschaften mit Leistungsvereinbarungen
-### 2. Finanzierung durch die Eltern
-## III. Förderung auf andere Art
-## IV. Bewilligung und Aufsicht
-## V. Datenschutz
+## II. Leistungen an Eltern
+## III. Kindertagesstätten und Tagesfamilien
+### 1. Bewilligung, Aufsicht sowie Förderung des Angebots und der Qualität
+### 2. Kindertagesstätten mit Betreuungsbeiträgen
+### 3. Tagesfamilien mit Betreuungsbeiträgen
+## IV. Aufgabenteilung, Planung und Vollzug
+## V. Datenbearbeitung und Schweigepflicht
 ## VI. Rechtspflege
 ## VII. Übergangs- und Schlussbestimmungen
