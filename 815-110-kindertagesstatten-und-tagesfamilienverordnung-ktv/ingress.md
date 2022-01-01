@@ -1,7 +1,7 @@
-Tagesbetreuungsverordnung | Kinderbetreuung
-# Verordnung zum Gesetz betreffend die Tagesbetreuung von Kindern
-(Tagesbetreuungsverordnung, TBV)
-Vom 25. November 2008
+Kinderbetreuung
+# Verordnung über die Betreuung von Kindern in Kindertagesstätten und Tagesfamilien
+(Kindertagesstätten- und Tagesfamilienverordnung, KTV)
+Vom 24. August 2021
 Der Regierungsrat des Kantons Basel-Stadt,
-gestützt auf das Gesetz betreffend die Tagesbetreuung von Kindern (Tagesbetreuungsgesetz) vom 17. September 2003, das Gesetz über die Harmonisierung und Koordination von bedarfsabhängigen Sozialleistungen (Harmonisierungsgesetz Sozialleistungen, SoHaG) vom 25. Juni 2008 sowie auf § 54 des Gesetzes betreffend die Einführung des Schweizerischen Zivilgesetzbuches vom 27. April 1911, in Ausführung der Bundesverordnung über die Aufnahme von Pflegekindern (PAVO) vom 19. Oktober 1977,
+gestützt auf die Verordnung über die Aufnahme von Pflegekindern (Pflegekinderverordnung, PAVO) vom 19. Oktober 1977, das Gesetz betreffend Tagesbetreuung von Kindern (Tagesbetreuungsgesetz, TBG) vom 8. Mai 2019 sowie auf das Gesetz betreffend Förder- und Hilfeleistungen für Kinder und Jugendliche (Kinder- und Jugendgesetz, KJG) vom 10. Dezember 2014, unter Verweis auf seine Erläuterungen Nr. P211103,
 beschliesst:
