@@ -1,0 +1,2 @@
+# § 47c Ausführungsbestimmungen
+1 Der Regierungsrat erlässt die erforderlichen Ausführungsbestimmungen auf dem Verordnungsweg.
