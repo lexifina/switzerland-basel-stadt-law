@@ -1,9 +1,8 @@
-Bern/Lausanne, den 20. Februar 1997
-Schweizerische Konferenz
-der kantonalen Erziehungsdirektoren
-Der Präsident: Peter Schmid
-Der Sekretär: Moritz Arnet
-Schweizerische Konferenz
-der kantonalen Finanzdirektoren
-Der Präsident: Franz Marty
-Der Sekretär: Kurt Stalder
+Bern, 27. Juni 2019
+Im Namen der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren
+Die Präsidentin:
+Silvia Steiner
+Die Generalsekretärin:
+Susanne Hardmeier
+Anhänge
+Anhang 01: Bezeichnung der Kostengruppen und Zuordnung der Fachbereiche gemäss Artikel 9 Absatz 2 der Vereinbarung

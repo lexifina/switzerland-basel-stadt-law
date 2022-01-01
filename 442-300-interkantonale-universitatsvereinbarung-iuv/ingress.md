@@ -1,4 +1,4 @@
-Interkantonale Universitätsvereinbarung | Hochschulförderung / Finanzmittel / Gebühren
-# Interkantonale Universitätsvereinbarung
-(IUV)
-Vom 20. Februar 1997
+Hochschulförderung / Finanzmittel / Gebühren
+# Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten von universitären Hochschulen
+(Interkantonale Universitätsvereinbarung, IUV)
+Vom 27. Juni 2019
