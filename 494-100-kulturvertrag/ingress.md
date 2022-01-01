@@ -1,5 +1,6 @@
-Kulturvertrag mit dem Kanton Basel-Landschaft | Förderung von Wissenschaft, Kunst und Kultur
-# Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die partnerschaftliche Finanzierung von im Kanton Basel-Stadt domizilierten Kulturinstitutionen mit regionalem Angebot
+Kulturvertrag | Ausbildungsbeiträge
+# Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die Abgeltung kultureller Zentrumsleistungen
 (Kulturvertrag)
-Vom 28. Januar 1997
-Die Regierungen der Kantone Basel-Landschaft und Basel-Stadt schliessen den folgenden Vertrag ab:
+Vom 20. August 2019
+Die Regierungsräte der Kantone Basel-Landschaft und Basel-Stadt
+schliessen folgenden Vertrag ab:
