@@ -1,4 +1,4 @@
-Lohngesetz | Staatspersonal: Lohn und Entschädigungen
+Lohn und Entschädigungen
 # Gesetz betreffend Einreihung und Entlöhnung der Mitarbeiterinnen und Mitarbeiter des Kantons Basel-Stadt
 (Lohngesetz)
 Vom 18. Januar 1995
