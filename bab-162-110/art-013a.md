@@ -1,2 +1,2 @@
-# § 13a Verwarnung
-1 Sind die Leistungen ungenügend oder das Verhalten pflichtwidrig, jedoch nicht derart schwerwiegend, dass es beim ersten Vorfall zu einer sofortigen Kündigung des Arbeitsverhältnisses führt, müssen die Mitarbeiterinnen und Mitarbeiter schriftlich verwarnt werden. Es muss ihnen eine ausreichende Frist zur Verbesserung eingeräumt werden.
+# § 13a Massnahme vor Aussprechen einer Kündigung
+1 Wird nach Ablauf der Probezeit festgestellt, dass die Leistungen ungenügend sind oder das Verhalten pflichtwidrig ist, jedoch nicht derart schwerwiegend, dass es beim ersten Vorfall zu einer sofortigen Kündigung des Arbeitsverhältnisses führt, müssen die Mitarbeiterinnen und Mitarbeiter schriftlich verwarnt werden. Es muss ihnen eine ausreichende Frist zur Verbesserung eingeräumt werden.

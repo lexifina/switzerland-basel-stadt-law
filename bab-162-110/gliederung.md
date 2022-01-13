@@ -5,7 +5,7 @@
 ## 5. Begründung des Anstellungsverhältnisses (§ 6 AO)
 ## 6. Probezeit (§ 7 AO)
 ## 7. Kündigung (§ 9ff. AO)
-### 7. 1. Verfahren bei ordentlicher Kündigung
+### 7. 1. Verfahren bei Kündigung durch die Arbeitgeberin
 ## 8. Dahinfallen des Arbeitsverhältnisses (§ 13 AO)
 ## 9. Arbeitszeit (§ 15 AO)
 ## 10. Ferien (§ 16 AO)
