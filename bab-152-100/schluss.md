@@ -1,3 +1,4 @@
+Schlussbestimmung
 Diese Geschäftsordnung ist zu publizieren; sie unterliegt dem Referendum.
 Der Bürgergemeinderat bestimmt den Zeitpunkt der Wirksamkeit.
 Anhänge
