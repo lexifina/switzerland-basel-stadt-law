@@ -1,4 +1,4 @@
-Kinder und Jugendliche in Heimen: Verordnung | Personen- und Familienrecht: Spezielle Erlasse
+Personen- und Familienrecht: Spezielle Erlasse
 # Verordnung über die Aufnahme, Betreuung und Förderung von Kindern und Jugendlichen in Heimen
 (Kinder- und Jugendheimverordnung, KJHVO)
 Vom 6. Dezember 2016

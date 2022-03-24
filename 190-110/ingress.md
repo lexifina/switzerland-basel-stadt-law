@@ -1,4 +1,4 @@
-Kirchenverordnung | Staat und Kirche
+Staat und Kirche
 # Verordnung zum Kirchengesetz
 Vom 13. Dezember 1994
 Der Regierungsrat des Kantons Basel-Stadt,
