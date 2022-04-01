@@ -1,4 +1,4 @@
-EG Bundesgesetz über Geldspiele: Verordnung | Geldspiele / Lotterien
+Geldspiele / Lotterien
 # Verordnung zum Einführungsgesetz zum Bundesgesetz über Geldspiele
 (VO EG BGS)
 Vom 8. Dezember 2020
