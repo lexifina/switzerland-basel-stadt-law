@@ -1,5 +1,5 @@
-## I. Allgemeine Bestimmungen
-## II. Abgeltungsbeiträge und verbilligte Hochstammobst- Jungbäume
-## III. Gesuch und Entscheid
-## IV. Vereinbarung und Rückerstattung
-## V. Schlussbestimmungen
+## 1. Allgemeine Bestimmungen
+## 2. Abgeltungsbeiträge
+## 3. Gesuche und Entscheid
+## 4. Vereinbarung und Rückerstattung
+## 5. Übergangsbestimmungen
