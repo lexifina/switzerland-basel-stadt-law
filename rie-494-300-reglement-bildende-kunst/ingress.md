@@ -1,6 +1,7 @@
-Kunstkommission: Reglement | Riehen: Einwohnergemeinde
-# Reglement der Kommission für Bildende Kunst der Gemeinde Riehen
-(Reglement Kunstkommission)
-Vom 27. April 2010
-Der Gemeinderat Riehen
-erlässt gestützt auf die Gemeindeordnung der Einwohnergemeinde Riehen vom 27. Februar 2002 nachstehendes Reglement:
+Bildende Kunst und Denkmalschutz
+# Reglement betreffend die Förderung der Bildenden Kunst durch die Gemeinde Riehen
+(Reglement Bildende Kunst)
+Vom 29. März 2022
+Der Gemeinderat Riehen,
+gestützt auf § 24 Abs. 3 lit. e der Gemeindeordnung der Einwohnergemeinde Riehen vom 27. Februar 2002,
+beschliesst:
