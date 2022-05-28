@@ -1,0 +1,5 @@
+# § 3a Wohnschutzkommission
+1 Die Wohnschutzkommission ist Teil der Staatlichen Schlichtungsstelle für Mietstreitigkeiten und untersteht administrativ und disziplinarisch der Aufsicht des zuständigen Departements. In ihrer Tätigkeit ist sie unabhängig. Ihre Entscheide sind für die Bewilligungsbehörden verbindlich. Sie erhält ausreichend Ressourcen zur Wahrung der Fristen gemäss Bau- und Planungsgesetz.
+2 Sie setzt sich paritätisch aus drei Mitgliedern der Staatlichen Schlichtungsstelle für Mietstreitigkeiten zusammen. Den Vorsitz führt ein Mitglied, das Gewähr für eine unabhängige Behandlung der Verfahren bietet.
+3 Der Regierungsrat wählt die Mitglieder und die notwendigen Ersatzmitglieder. Wählbar ist, wer den Wohnsitz in der Schweiz hat. Der Regierungsrat berücksichtigt bei der Wahl den Bezug zum Kanton Basel-Stadt. Die Amtsdauer beträgt vier Jahre.
+4 Er wählt eine Person als Schreiberin oder Schreiber. Die a.o. Schreiberinnen und Schreiber werden mit Genehmigung des zuständigen Departements von der Staatlichen Schlichtungsstelle für Mietstreitigkeiten ernannt. Die Amtsdauer beträgt vier Jahre.
