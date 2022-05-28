@@ -1,4 +1,4 @@
-Wohnraumfördergesetz | Sozialer Wohnungsbau / Erhaltung vonWohnraum
+Sozialer Wohnungsbau / Erhaltung von Wohnraum
 # Gesetz über die Wohnraumförderung
 (Wohnraumfördergesetz, WRFG)
 Vom 5. Juni 2013
