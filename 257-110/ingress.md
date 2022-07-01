@@ -1,4 +1,4 @@
-Ermittlungsverfahren: Verordnung | Strafprozess / Rechtshilfe / Opferhilfe
+Strafprozess / Rechtshilfe / Opferhilfe
 # Verordnung über die Durchführung des polizeilichen Ermittlungsverfahrens bei Vergehen und Übertretungen
 Vom 21. Dezember 2010
 Der Regierungsrat des Kantons Basel-Stadt,
