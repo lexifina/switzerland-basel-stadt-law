@@ -1,0 +1,6 @@
+# § 18d Polizeieinsätze anlässlich von Veranstaltungen
+1 Ausserordentliche Polizeieinsätze an Veranstaltungen sind grundsätzlich kostenpflichtig und werden nach dem effektiven Aufwand in Rechnung gestellt.
+2 Messeveranstaltungen der MCH Messe Schweiz (Basel) AG sowie der MCH Group AG erhalten bei der Rechnungsstellung der Einsätze von Kantonspolizei, Feuerwehr und Sanität eine Kostenreduktion von 50 %.
+3 Bei Sport- und Konzertveranstaltungen verzichten die Kantonspolizei, die Feuerwehr und die Sanität insgesamt auf die Rechnungsstellung einer Basisdienstleistung im Gegenwert von 250 Einsatzstunden. Die darüber hinausgehenden Einsatzkosten werden zu 50 % in Rechnung gestellt.
+4 Für Veranstaltungen im öffentlichen Raum mit ideellem, volkstümlichem oder kulturellem Interesse kann bei der Allmendverwaltung ein Gesuch auf partiellen oder vollständigen Kostenerlass gestellt werden.
+5 Der Regierungsrat kann bei der Festsetzung der Kosten für die allgemeinen staatlichen Dienstleistungen ausnahmsweise von den Ansätzen gemäss Abs. 1 bis 4 abweichen und über Gesuche um Ermässigung oder Erlass entscheiden. Dieser Entscheid steht der Departementsvorsteherin oder dem Departementsvorsteher zu, sofern nur geringe Kosten anfallen.
