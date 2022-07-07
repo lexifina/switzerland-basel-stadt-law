@@ -1,4 +1,4 @@
-Heilmittelverordnung | Heilmittelkontrolle / Gifte
+Heilmittelkontrolle / Gifte
 # Heilmittelverordnung
 Vom 6. Dezember 2011
 Der Regierungsrat des Kantons Basel-Stadt,
