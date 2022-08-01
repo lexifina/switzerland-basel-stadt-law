@@ -1,0 +1,9 @@
+# § 19bis Quartierparkings
+1 Quartierparkings im Sinne dieses Gesetzes sind in der Regel unterirdische Anlagen, die nicht unmittelbar einer Nutzung zugeordnet sind, sondern die eine im öffentlichen Strassenraum bereits vorhandene Parkplatznachfrage aufnehmen. Teile davon können dem Quartier auch als Mobilitätsplattform im Sinne von § 13 Abs. 5 lit. d und Abs. 8 dienen.
+2 Quartierparkings können separat oder in Kombination mit einer anderweitigen Parkierungsanlage erstellt werden.
+3 Öffentlich zugängliche Quartierparkings sind mit Parkgebühren zu bewirtschaften und rund um die Uhr zugänglich zu halten.
+4 Quartierparkings dürfen nur erstellt werden, sofern im Umfeld der Anlage bis zu einer Distanz von rund 500 Metern 95% der neu erstellen Parkplätze im öffentlichen Strassenraum aufgehoben werden.
+5 In Quartieren mit einer hohen Parkplatzauslastung darf der Bereich für die Kompensation der Parkplätze auf 1’000 Meter ausgeweitet werden. Der Rhein gilt dabei jedoch als Grenze.
+6 Die Umwandlung von Parkplätzen der blauen Zone in gebührenpflichtige Kurzzeitparkplätze oder gelb markierte Spezialparkplätze kann teilweise an die Kompensationspflicht angerechnet werden.
+7 Ist die Parkplatzbilanz der öffentlichen Parkplätze im Umkreis von 500 Metern um das neue Quartierparking in den letzten 2 Jahren vor der Baueingabe negativ, kann dieser Parkplatzsaldo an die Kompensationspflicht angerechnet werden. Die Kompensation muss in der Regel spätestens 1 Jahr nach der Inbetriebnahme des Quartierparkings abgeschlossen sein.
+8 Der Regierungsrat legt in einer Verordnung die Gebiete mit einer hohen Parkplatzauslastung fest. Er orientiert sich dabei an einer Parkplatzauslastung von 90% als Grenze zwischen einer normalen und einer hohen Parkplatzauslastung. Dieser Plan ist mindestens alle 5 Jahre zu prüfen und bei Bedarf anzupassen.

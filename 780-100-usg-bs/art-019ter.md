@@ -1,0 +1,7 @@
+# § 19ter Mobilitätsfonds
+1 Aus 80% der Bruttoeinnahmen der Parkkarten für Pendlerinnen und Pendler und der Parkkarten für Besucherinnen und Besucher sowie aus 20% der Bruttoeinnahmen der Parkkarten für Anwohnerinnen und Anwohner wird ein Fonds für die im Abs. 2 genannten Verwendungszwecke gespeist. Der Grosse Rat kann zusätzliche Mittel für diesen Fonds bewilligen.
+2 Mit den Mitteln des Fonds können Projekte initiiert und die Planungs-, Investitions- und Betriebskosten von Massnahmen zugunsten einer umweltfreundliche Mobilität und Parkplatznachfragereduktion in Basel-Stadt gemäss § 13 Abs. 1 - 3 und 8 mitfinanziert werden. Subsidiär können die Fondsmittel auch für die Mitfinanzierung von Park-and-Ride- und Bike-and-Ride-Anlagen gemäss § 19 und Anwohnendenparkplätze in Quartierparkings gemäss § 19bis verwendet werden.
+3 Der Kanton sichert mittels durchsetzbaren Vereinbarungen die Rückzahlung des Mitfinanzierungsanteils, sollte der Grund für die Mitfinanzierung nachträglich wegfallen.
+4 Die Mittel können auch für Projekte ausserhalb des Kantons Basel-Stadt verwendet werden, sofern diese Projekte zu einer umweltfreundlichen Mobilität gemäss § 13 Abs. 1 - 3 und 8 im Kanton beitragen.
+5 Ausgaben zu Lasten des Mobilitätsfonds über einem Betrag von 1.5 Mio. Franken werden durch den Grossen Rat bewilligt. Für Projekte ausserhalb des Kantons Basel-Stadt übernimmt der Fonds maximal die Hälfte der Gesamtkosten.
+6 Einzelheiten werden auf dem Verordnungsweg geregelt.
