@@ -1,4 +1,4 @@
-Fernwärme: Gebührentarif | Energie- und Wasserversorgung
+Energie- und Wasserversorgung
 # Gebührentarif der IWB Industrielle Werke Basel betreffend Fernwärme
 Vom 6. September 2010
 Der Verwaltungsrat der IWB Industrielle Werke Basel,
