@@ -6,4 +6,4 @@ Diese Verordnung ist zu publizieren; sie wird am 1. Januar 2014 wirksam. Auf den
 – RRB 08/01/32 vom 8. Januar 2008
 – Richtlinien des Personalamtes betreffend Behandlung und Vergütung der Zusatzleistungen von Projektmitarbeitern vom 12. März 1990.
 Anhänge
-Anhang 164.410: Zulagenansätze
+Anhang 164.410 : Zulagenansätze
