@@ -1,4 +1,4 @@
-Gemeindeordnung | Riehen: Einwohnergemeinde
+Gemeindeordnung - Wappen
 # Gemeindeordnung der Einwohnergemeinde Riehen
 Vom 27. Februar 2002
 Der Einwohnerrat der Einwohnergemeinde Riehen

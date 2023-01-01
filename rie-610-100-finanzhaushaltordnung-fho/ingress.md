@@ -1,5 +1,7 @@
-Finanzhaushaltordnung | Riehen: Einwohnergemeinde
+Finanzordnung
 # Finanzhaushaltordnung der Einwohnergemeinde Riehen
-Vom 28. November 2002
-Der Einwohnerrat Riehen
-erlässt auf Antrag des Gemeinderats und gestützt auf § 40 der Gemeindeordnung vom 27. Februar 2002 folgende Finanzhaushaltordnung:
+(Finanzhaushaltordnung; FhO)
+Vom 15. Dezember 2021
+Der Einwohnerrat Riehen,
+auf Antrag des Gemeinderats und der Spezialkommission Neues Steuerungsmodell Riehen (NSR) sowie gestützt auf §21 Abs. 3 lit. b und § 40 der Gemeindeordnung der Einwohnergemeinde Riehen vom 27. Februar 2002,
+beschliesst:
