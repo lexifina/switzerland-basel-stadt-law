@@ -1,5 +1,1 @@
-# § 1a Covid-Zertifikatspflicht
-1 Personen ab 16 Jahren erhalten nur mit einem gültigen Covid-19-Zertifikat gemäss Art. 6a des Bundesgesetzes über die gesetzlichen Grundlagen für Verordnungen des Bundesrates zur Bewältigung der Covid-19-Epidemie (Covid-19-Gesetz) vom 25. September 2020 an Sitzungsdaten des Bürgergemeinderates Zutritt zum Sitzungssaal im Stadthaus. Je nach epidemiologischer Lage kann das Büro des Bürgergemeinderates diese Massnahme aussetzen oder zusätzliche Massnahmen beschliessen.
-2 Personen, die zwingend Zutritt zum Sitzungssaal benötigen, werden die Kosten für die allenfalls notwendigen Tests für die Ausstellung des Zertifikats vergütet. Das Büro des Bürgergemeinderates legt fest, welche Personengruppen Anspruch auf eine Vergütung der Tests haben.
-3 Das Büro des Bürgergemeinderates regelt die Kontrolle der Covid-19-Zertifikate.
-4 Mitglieder des Bürgergemeinderates und des Bürgerrates, die kein Covid-19-Zertifikat vorweisen, erhalten Zutritt zum Sitzungssaal, wenn sie eine Maske tragen.
+# § 1a …
