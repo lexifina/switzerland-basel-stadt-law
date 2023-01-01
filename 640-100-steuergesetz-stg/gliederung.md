@@ -79,8 +79,8 @@
 ###### (1. Teil/3. Abschn./B./I.) 1. Grundsatz
 ###### (1. Teil/3. Abschn./B./I.) 2. Berechnung des Reingewinns
 ##### (1. Teil/3. Abschn./B.) II. Steuerberechnung
-###### (1. Teil/3. Abschn./B./II.) 1. Kapitalgesellschaften und Genossenschaften
-###### (1. Teil/3. Abschn./B./II.) 2. Beteiligungsgesellschaften
+###### (1. Teil/3. Abschn./B./II.) 1. Juristische Personen
+###### (1. Teil/3. Abschn./B./II.) 2. Gesellschaften mit Beteiligungen
 ###### (1. Teil/3. Abschn./B./II.) 3. …
 ##### (1. Teil/3. Abschn./B.) III. Zeitliche Grundlagen
 ###### (1. Teil/3. Abschn./B./III.) 1. Steuerperiode
