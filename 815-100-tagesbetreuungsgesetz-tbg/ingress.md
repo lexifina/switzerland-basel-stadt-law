@@ -1,3 +1,4 @@
+Kinderbetreuung
 # Gesetz betreffend Tagesbetreuung von Kindern
 (Tagesbetreuungsgesetz, TBG)
 Vom 8. Mai 2019
