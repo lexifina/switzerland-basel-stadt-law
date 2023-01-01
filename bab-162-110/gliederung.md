@@ -14,7 +14,7 @@
 ## 13. Unbezahlter Urlaub (§ 19 AO)
 ## 14. Lohnfortzahlung bei öffentlichen Dienstleistungen (§ 20 AO)
 ## 15. Alters- und Hinterlassenenvorsorge sowie andere Versicherungen (§ 22 AO)
-## 16. Öffentliche Ämter (§ 24 AO)
+## 16. Nebenbeschäftigung (§ 23 AO)
 ## 17. Geschenke (§ 25 AO)
 ## 18. Haftbarkeit des Personals (§ 26 AO)
 ## 19. Schlussbestimmungen
