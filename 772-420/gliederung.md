@@ -4,7 +4,7 @@
 ### B. Netzebene 7 mit Leistungsmessung
 #### 1. …
 #### 2. …
-### C. Baustellen und temporäre Netznutzerinnen und Netznutzer auf Netzebene 7
+### C. Baustellen und temporäre Netzanschlüsse auf Netzebene 7
 ### D. Pauschalen auf Netzebene 7
 ## III. Netznutzungsentgelt Netzebene 5 (Mittelspannungsebene)
 ## IV. Netznutzungsentgelt Netzebene 3 (Hochspannungsebene)
