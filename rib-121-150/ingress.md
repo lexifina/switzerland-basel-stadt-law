@@ -1,4 +1,4 @@
-Einbürgerungsverfahren: Gebührenreglement | Riehen: Bürgergemeinde
+Bürgerrecht
 # Reglement über die Erhebung von Gebühren im Einbürgerungsverfahren
 Vom 23. November 2018
 Der Bürgerrat Riehen,
