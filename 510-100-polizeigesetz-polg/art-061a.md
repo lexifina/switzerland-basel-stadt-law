@@ -1,0 +1,5 @@
+# § 61a Melderecht
+1 Personen, die eine gesetzliche oder vertragliche Schweigepflicht haben, insbesondere öffentliche Organe nach § 3 Abs. 1 des Gesetzes über die Information und den Datenschutz (Informations- und Datenschutzgesetz, IDG) vom 9. Juni 2010 und Personen nach § 21 des Gesundheitsgesetzes (GesG) vom 21. September 2011, sind befugt, Personen, von denen nach Einschätzung der meldenden Person eine Gefahr im Sinne von § 2 Abs. 1 Ziff. 2bis ausgeht, unter Berücksichtigung von Abs. 4 zu melden.
+2 Das Berufsgeheimnis nach Art. 321 des Schweizerischen Strafgesetzbuches vom 21. Dezember 1937 steht einer Meldung und Auskunft nicht entgegen.
+3 Vom Melderecht nach Abs. 1 ausgenommen sind Rechtsanwältinnen und Rechtsanwälte, Verteidigerinnen und Verteidiger, Patentanwältinnen und Patentanwälte, Notarinnen und Notare und Revisorinnen und Revisoren sowie ihre Hilfspersonen.
+4 Die Kantonspolizei nimmt Meldungen nach Abs. 1 entgegen. Zur direkten Meldung an die für das Bedrohungsmanagement zuständige Stelle ist grundsätzlich nur befugt, wer zuvor von der Stelle entsprechend geschult worden ist.
