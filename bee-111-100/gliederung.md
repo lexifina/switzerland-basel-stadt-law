@@ -13,4 +13,4 @@
 ### G. Finanzplanung und Haushaltsführung
 ### H. Rechnungsführung
 ## VII. Rechtsmittel
-## VIII. Schlussbestimmungen
+## VIII. Übergangs- und Schlussbestimmungen
