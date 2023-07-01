@@ -1,4 +1,4 @@
-Zufahrt in die Innenstadt: Verordnung | Strassenverkehr
+Strassenverkehr
 # Verordnung betreffend die ausnahmsweise Zufahrt in die Innenstadt
 (Zufahrtsverordnung)
 Vom 13. August 2013
