@@ -1,6 +1,5 @@
 ## 1. Allgemeine Bestimmungen
-## 2. Grundsätze der Beitragsvergabe
-## 3. Verwaltung des Pendlerfonds
-## 4. Einreichung und Prüfung der Beitragsgesuche
-## 5. Auszahlungsmodalitäten
-## 6. Umsetzungskontrolle
+## 2. Projekte Dritter
+## 3. Projekte Basel-Stadt
+## 4. Projektentwicklung
+## 5. Verwaltung des Mobilitätsfonds

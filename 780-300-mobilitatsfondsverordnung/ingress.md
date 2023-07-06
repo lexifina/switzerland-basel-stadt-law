@@ -1,7 +1,6 @@
-Pendlerfondsverordnung | Umweltschutz
-# Verordnung über den Pendlerfonds
-(Pendlerfondsverordnung)
-Vom 18. Dezember 2012
+# Verordnung über den Mobilitätsfonds
+(Mobilitätsfondsverordnung)
+Vom 27. Juni 2023
 Der Regierungsrat des Kantons Basel-Stadt,
-gestützt auf § 19 Abs. 5 Umweltschutzgesetz Basel-Stadt (USG BS) vom 13. März 1991,
+gestützt auf § 19ter des Umweltschutzgesetzes Basel-Stadt (USG BS) vom 13. März 1991, unter Verweis auf seine Erläuterungen Nr. P230001.
 beschliesst:
