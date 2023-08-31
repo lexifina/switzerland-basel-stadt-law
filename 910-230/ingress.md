@@ -1,4 +1,4 @@
-Stadtbelebungsfonds: Verordnung | Wirtschaft
+Wirtschaft
 # Verordnung zum Stadtbelebungsfonds
 Vom 15. Dezember 2020
 Der Regierungsrat des Kantons Basel-Stadt,
