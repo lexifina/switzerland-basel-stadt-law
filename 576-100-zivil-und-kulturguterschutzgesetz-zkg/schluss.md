@@ -1,2 +1,2 @@
-Inkrafttreten
-Dieses Gesetz ist zu publizieren; es unterliegt dem Referendum und tritt sofort in Kraft und Wirksamkeit.
+Schlussbestimmung
+Dieses Gesetz ist zu publizieren; es unterliegt dem Referendum und der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens. Auf den gleichen Zeitpunkt werden das Gesetz betreffend Einführung des Bundesgesetzes über den Zivilschutz vom 23. März 1962 vom 4. April 1968 sowie das Gesetz betreffend den Vollzug des Bundesgesetzes über die baulichen Massnahmen im Zivilschutz vom 4. Oktober 1963 vom 4. April 1968 aufgehoben.
