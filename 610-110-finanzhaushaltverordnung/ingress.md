@@ -1,4 +1,4 @@
-Finanzhaushaltverordnung | Finanzordnung
+Finanzordnung
 # Verordnung zum Gesetz über den kantonalen Finanzhaushalt
 (Finanzhaushaltverordnung)
 Vom 22. Mai 2012
