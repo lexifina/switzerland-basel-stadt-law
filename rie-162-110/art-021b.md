@@ -1,0 +1,8 @@
+# § 21b Pikettdienst
+1 Als Pikettdienst gilt die angeordnete und auf die sofortige Abrufmöglichkeit beschränkte Einsatzbereitschaft, die ausserhalb des angestammten Arbeitsortes und ausserhalb der vereinbarten Sollarbeitszeit geleistet wird.
+2 Sie kann durch die zuständige Betriebsleitung oder Abteilungsleitung angeordnet werden, um ausserordentliche Situationen abzudecken. Mitarbeitende mit Betreuungspflichten dürfen nur mit deren Einwilligung eingesetzt werden.
+3 Mitarbeitende dürfen im Zeitraum von vier Wochen an höchstens sieben Tagen auf Pikett sein oder Piketteinsätze leisten. Nach Beendigung des letzten Pikettdienstes dürfen betroffene Mitarbeitende während den zwei darauf folgenden Wochen nicht mehr zum Pikettdienst aufgeboten werden.
+4 Ausnahmsweise können Mitarbeitende im Zeitraum von vier Wochen an höchstens 14 Tagen auf Pikett sein, sofern die Anzahl der tatsächlichen Piketteinsätze im Durchschnitt eines Kalenderjahres nicht mehr als fünf Einsätze pro Monat ausmacht.
+5 Bei Teilzeitmitarbeitenden erfolgt die Anordnung von Pikettdienst maximal proportional zum vertraglich vereinbarten Beschäftigungsgrad. Schwangere und stillende Mütter dürfen nicht über die vereinbarte ordentliche Dauer der täglichen Arbeit hinaus beschäftigt und für Pikettdienst aufgeboten werden.
+6 Im Falle eines Piketteinsatzes wird die effektive Arbeitszeit angerechnet sowie eine Wegpauschale gemäss Lohnreglement gewährt.
+7 Die Pikettdienstentschädigung und allfällige Zuschläge für den eigentlichen Piketteinsatz richten sich nach dem Lohnreglement. Es wird keine zusätzliche Vergütung für ausserordentliche Einsätze gewährt.
