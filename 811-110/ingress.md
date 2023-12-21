@@ -1,4 +1,4 @@
-Ruhetage und Ladenöffnung: Verordnung | Arbeitszeit / Ruhetage / Ladenschlusszeiten
+Arbeitszeit / Ruhetage / Ladenschlusszeiten
 # Verordnung zum Gesetz über öffentliche Ruhetage und Ladenöffnung
 Vom 30. August 2005
 Der Regierungsrat des Kantons Basel-Stadt,
