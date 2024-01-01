@@ -1,22 +1,23 @@
-Wirksamkeit
-Dieser Vertrag wird publiziert. Er wird nach allseitiger Unterzeichnung und Genehmigung per 1. Januar 2017 wirksam.
-Basel, 23. Februar 2016
+Inkrafttreten
+Dieser Vertrag ist zu publizieren; er tritt nach allseitiger Unterzeichnung und Genehmigung rückwirkend auf den 1. Januar 2024 in Kraft. Auf den gleichen Zeitpunkt wird der Vertrag zwischen dem Kanton Basel-Stadt und den Gemeinden Bettingen und Riehen betreffend die Aufgabenteilung im Bereich Asyl (Asylvertrag) vom 23. Februar 2016 aufgehoben.
+Basel, 22. August 2023
 Im Namen des Regierungsrats des Kantons Basel-Stadt
-Der Präsident: Dr. Guy Morin
+Der Regierungspräsident i.V.: Lukas Engelberger
 Die Staatsschreiberin: Barbara Schüpbach-Guggenbühl
-Bettingen, 25. Februar 2016
+Bettingen, 18. März 2024
 Im Namen des Gemeinderats Bettingen
-Der Präsident: Patrick Götsch
+Der Präsident: Nikolai Iwangoff Brodmann
 Die Gemeindeverwalterin: Katharina Näf Widmer
-Genehmigt durch die Gemeindeversammlung Bettingen am 26. April 2016
+Genehmigt durch die Gemeindeversammlung Bettingen am 10. Dezember 2023
 Im Namen der Gemeindeversammlung Bettingen
-Der Präsident: Patrick Götsch
+Der Präsident: Nikolai Iwangoff Brodmann
 Die Gemeindeverwalterin: Katharina Näf Widmer
-Riehen, 23. Februar 2016 Im Namen des Gemeinderats Riehen
-Der Präsident: Hansjörg Wilde
-Der Gemeindeverwalter: Andreas Schuppli
-Genehmigt durch den Einwohnerrat Riehen am 25. Mai 2016
-Der Präsident: Christian Griss
-Die Ratssekretärin: Katja Christ
+Riehen, 20. März 2024
+Im Namen des Gemeinderats Riehen
+Die Präsidentin: Christine Kaufmann
+Der Generalsekretär: Patrick Breitenstein
+Genehmigt durch den Einwohnerrat Riehen am 31. Januar 2024
+Der Präsident: Martin Leschhorn Strebel
+Der Ratssekretär: David Studer Matter
 Anhänge
 Anhang 1: Berechnung des Kostenanteils Asyl der Gemeinden
