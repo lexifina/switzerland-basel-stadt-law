@@ -1,4 +1,4 @@
-Steuerverordnung | Allgemeine Steuern
+Direkte Steuern
 # Verordnung zum Gesetz über die direkten Steuern
 (Steuerverordnung, StV)
 Vom 14. November 2000
