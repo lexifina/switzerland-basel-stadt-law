@@ -7,11 +7,6 @@
 ### 3.1 Allgemeines
 ### 3.2 Zuständigkeiten
 ## 4. Information und Zugang zu Informationen
-## 5. Führungsinstrumente
-### 5.1 Leistungsvereinbarungen
-### 5.2 Berichtswesen
+## 5. Berichtswesen
 ## 6. Zuständigkeiten im Geschäftsverkehr und Finanzhaushalt
-### 6.1 Vertretung nach aussen, Erlass von Verfügungen
-### 6.2 Kredite
-### 6.3 Anweisung zur Zahlung
 ## 7. Übergangs- und Schlussbestimmungen
