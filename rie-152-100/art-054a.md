@@ -1,0 +1,4 @@
+# § 54a Geheimhaltung
+1 Die Kommissionen sind berechtigt, für einzelne Geschäfte eine zeitlich befristete Geheimhaltung zu beschliessen. Nach einem solchen Beschluss dürfen über die Verhandlungen der Kommission keinerlei Informationen an andere Mitglieder des Einwohnerrats oder an Dritte weitergegeben werden.
+2 Beschliesst eine Kommission Geheimhaltung, so gehen die Protokolle ausschliesslich an die Kommissionsmitglieder sowie ganz oder in Teilen an die Mitglieder des Gemeinderats und der Verwaltung, soweit sie in diesem Beschluss ausdrücklich als Empfängerinnen und Empfänger genannt werden.
+3 Besteht für Verwaltungsangelegenheiten, über die eine Kommission von zuständigen Mitgliedern des Gemeinderats oder Verwaltungsmitarbeitenden Auskunft erhält, eine besondere gesetzliche Pflicht zur Verschwiegenheit, so sind auch die Mitglieder der Kommission dieser Pflicht ohne besonderen Beschluss unterworfen.
