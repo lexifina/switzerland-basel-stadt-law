@@ -1,4 +1,4 @@
-Behindertenhilfe: Verordnung | Heime / Alterswohnungen / Behindertenhilfe
+Heime / Alterswohnungen / Behindertenhilfe
 # Verordnung über die Behindertenhilfe
 (BHV)
 Vom 29. November 2016

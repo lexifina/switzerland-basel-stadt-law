@@ -1,4 +1,4 @@
-Verpflegung: Verordnung | Staatspersonal: Unterkunft / Verpflegung / Bekleidung / Parkplätze
+Unterkunft / Verpflegung / Bekleidung / Parkplätze
 # Verordnung betreffend Verpflegung von Mitarbeiterinnen und Mitarbeitern des Kantons Basel-Stadt
 Vom 13. Januar 2009
 Der Regierungsrat des Kantons Basel-Stadt,

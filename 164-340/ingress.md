@@ -1,4 +1,4 @@
-Unterhaltszulagen: Verordnung | Lohn und Entschädigungen
+Lohn und Entschädigungen
 # Verordnung über die Ausrichtung von Unterhaltszulagen an die Mitarbeiterinnen und Mitarbeiter des Kantons Basel-Stadt
 Vom 11. November 2008
 Der Regierungsrat des Kantons Basel-Stadt,

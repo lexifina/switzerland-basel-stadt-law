@@ -1,4 +1,4 @@
-Lohnreglement | Riehen: Einwohnergemeinde
+Besoldung und Entschädigung
 # Reglement über das Gehalt der Mitarbeiterinnen und Mitarbeiter der Gemeinde Riehen
 (Lohnreglement)
 Vom 9. Dezember 2008
