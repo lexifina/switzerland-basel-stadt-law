@@ -1,4 +1,4 @@
-Netznutzung elektrische Energie: Gebührentarif | Energie- und Wasserversorgung
+Wasser / Energie
 # Gebührentarif der IWB Industrielle Werke Basel betreffend den Anschluss und die Nutzung des Netzes für elektrische Energie
 Vom 4. Juli 2011
 Der Verwaltungsrat der IWB Industrielle Werke Basel,

@@ -1,2 +1,2 @@
-# § 34a Anschlussgebühren der Netzebene 7 mit und ohne Grabarbeiten
-1 Für die Netzebene 7 gelten die Anschlussgebühren gemäss Anhang 2.
+# § 34a Netzanschlussbeiträge der Netzebene 7 mit und ohne Tiefbauarbeiten
+1 Auf Netzebene 7 setzt sich der Netzanschlussbeitrag aus einem Grundbetrag und einem Pauschalbetrag pro Meter Anschlussleitung (Meterpauschale) zusammen. Massgebend für die Höhe des Grundbetrages und die Meterpauschale auf Netzebene 7 sind die maximale Sicherungsgrösse des Anschlussüberstromunterbrechers, die maximal übertragbare Leistung sowie die Erforderlichkeit von Tiefbauarbeiten. Die Meterpauschale wird für jeden Meter Anschlussleitung (vom Netzanschlusspunkt bis zum Übergabepunkt) erhoben. Es gelten die Netzanschlussbeiträge gemäss Anhang 2.
