@@ -1,4 +1,4 @@
-Krankheits- und Behindertenkosten: Verordnung | AHV und IV / Alters- und Invalidenhilfe
+Krankheits- und Behinderungskosten: Verordnung | AHV und IV / Alters- und Invalidenhilfe
 # Verordnung über die Vergütung von Krankheits- und Behinderungskosten bei den Ergänzungsleistungen
 (KBV)
 Vom 18. Dezember 2007
