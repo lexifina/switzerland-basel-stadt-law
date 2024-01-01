@@ -1,4 +1,4 @@
-Gebührenreglement | Basel: Bürgergemeinde
+Bürgerrat / Verwaltung
 # Gebührenreglement der Zentralen Dienste
 Vom 4. Februar 2014
 Der Bürgerrat der Stadt Basel,
