@@ -1,4 +1,4 @@
-Pflegeheimliste: RRB | Kranken- und Unfallversicherung
+Kranken- und Unfallversicherung / Kantonale Beiträge im Gesundheitswesen
 # Beschluss des Regierungsrates betreffend Liste der Pflegeheime für den Kanton Basel-Stadt
 Vom 12. Dezember 1995
 Der Regierungsrat des Kantons Basel-Stadt erlässt,
