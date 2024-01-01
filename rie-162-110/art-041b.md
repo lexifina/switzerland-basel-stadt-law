@@ -1,0 +1,4 @@
+# § 41b Krankheit und Unfall
+1 Krankheit oder Unfall nach Antritt des Mutterschaftsurlaubs verlängert den Urlaub nicht.
+2 Mitarbeiterinnen, die vor der Niederkunft einen Teil ihres Mutterschaftsurlaubs gemäss § 15 Abs. 1 der Personalordnung als Schwangerschaftsurlaub beziehen und während dieses Urlaubs krank werden oder verunfallen, haben Anspruch auf Verlängerung des Mutterschaftsurlaubs im Ausmass der ärztlich bescheinigten Absenz in den letzten zwei Wochen vor der Niederkunft.
+3 Auf Gesuch der Mitarbeiterin kann, sofern der Gesundheitszustand oder die arbeitsmedizinische Notwendigkeit ärztlich bescheinigt wird, die Gesamtdauer des Schwangerschafts- und Mutterschaftsurlaubs um höchstens vier Wochen verlängert werden. Der frühestmögliche Beginn des verlängerten Schwangerschafts- und Mutterschaftsurlaubs kann um maximal sechs Wochen vor dem errechneten Geburtstermin vorverschoben werden.

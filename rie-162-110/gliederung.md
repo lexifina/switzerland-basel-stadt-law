@@ -3,7 +3,7 @@
 ## III. Arbeitszeit
 ## IV. Ferien
 ## V. Urlaub
-## VI. Schwangerschafts- und Elternurlaub
+## VI. Schwangerschafts-, Mutterschafts- und Elternurlaub
 ## VII. Nebenbeschäftigung
 ## VIII. Weitere Rechte und Pflichten der Mitarbeiterinnen und Mitarbeiter
 ## IX. Konfliktlösung, Beratung und Massnahmen
