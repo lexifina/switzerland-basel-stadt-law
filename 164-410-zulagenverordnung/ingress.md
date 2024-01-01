@@ -1,4 +1,4 @@
-Zulagenverordnung | Staatspersonal: Lohn und Entschädigungen
+Lohn und Entschädigungen
 # Verordnung betreffend Zulagen gemäss § 15a Lohngesetz
 (Zulagenverordnung)
 Vom 3. Dezember 2013
