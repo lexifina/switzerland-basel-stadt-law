@@ -1,4 +1,4 @@
-Schullaufbahnverordnung | Schulen
+Schulen
 # Verordnung über die Beurteilung und die Schullaufbahnentscheide der Schülerinnen und Schüler der Volksschule und der weiterführenden Schulen
 (Schullaufbahnverordnung, SLV)
 Vom 11. September 2012
