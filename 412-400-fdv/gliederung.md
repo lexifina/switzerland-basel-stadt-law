@@ -1,6 +1,6 @@
-## I. Allgemeine Bestimmungen
-## II. Ermittlung des Förderbedarfs in Deutsch
-## III. Besuch einer Einrichtung mit integrierter Sprachförderung oder eines alternativen Förderortes
-## IV. Finanzierung
-## V. Verantwortlichkeiten und Zusammenarbeit
-## VI. Sanktionen und Rechtsmittel
+## 1. Allgemeine Bestimmungen
+## 2. Ermittlung des Förderbedarfs in Deutsch
+## 3. Besuch einer Einrichtung mit integrierter früher Deutschförderung oder eines alternativen Förderortes
+## 4. Finanzierung
+## 5. Verantwortlichkeiten und Zusammenarbeit
+## 6. Sanktionen und Rechtsmittel

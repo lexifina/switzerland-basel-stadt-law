@@ -1,6 +1,7 @@
-Förderung in Deutsch vor Einschulung: Verordnung | Kindergärten / Primarschulen / Schulen für Behinderte
-# Verordnung über die sprachliche Förderung in Deutsch vor der Einschulung
-Vom 26. April 2016
+Kindergärten / Primarschulen / Förderangebote
+# Verordnung über die frühe Deutschförderung
+(FDV)
+Vom 27. Februar 2024
 Der Regierungsrat des Kantons Basel-Stadt,
-in Ausführung von § 56a des Schulgesetzes vom 4. April 1929,
+gestützt auf § 18 Abs. 2 und in Ausführung von § 9a des Gesetzes betreffend Förder- und Hilfeleistungen für Kinder und Jugendliche (Kinder- und Jugendgesetz, KJG) vom 10. Dezember 2014 , unter Verweis auf seine Erläuterungen Nr. P240187,
 beschliesst:
