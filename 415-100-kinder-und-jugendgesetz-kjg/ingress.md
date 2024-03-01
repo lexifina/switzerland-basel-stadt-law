@@ -1,4 +1,4 @@
-Kinder- und Jugendgesetz | Jugendhilfe / Schulfürsorge
+Jugendhilfe / Schulfürsorge
 # Gesetz betreffend Förder- und Hilfeleistungen für Kinder und Jugendliche
 (Kinder- und Jugendgesetz, KJG)
 Vom 10. Dezember 2014

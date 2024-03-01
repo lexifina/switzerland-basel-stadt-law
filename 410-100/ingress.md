@@ -1,4 +1,4 @@
-Schulgesetz | Schulen
+Schulen
 # Schulgesetz
 Vom 4. April 1929
 Der Grosse Rat des Kantons Basel-Stadt
