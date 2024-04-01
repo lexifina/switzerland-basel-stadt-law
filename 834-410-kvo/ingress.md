@@ -1,4 +1,4 @@
-Krankenversicherung: Verordnung | Kranken- und Unfallversicherung
+Kranken- und Unfallversicherung / Kantonale Beiträge im Gesundheitswesen
 # Verordnung über die Krankenversicherung im Kanton Basel-Stadt
 (KVO)
 Vom 25. November 2008
