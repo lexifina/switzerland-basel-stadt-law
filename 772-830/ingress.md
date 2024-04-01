@@ -1,4 +1,4 @@
-Wasser: Gebührentarif | Energie- und Wasserversorgung
+Energie- und Wasserversorgung
 # Gebührentarif der IWB Industrielle Werke Basel betreffend Wasser
 Vom 9. Februar 2018
 Der Verwaltungsrat der IWB Industrielle Werke Basel,
