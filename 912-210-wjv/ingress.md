@@ -1,7 +1,7 @@
-Jagdverordnung | Jagd und Fischerei
-# Verordnung über die Jagd und den Schutz wildlebender Säugetiere und Vögel
-(Jagdverordnung)
-Vom 24. August 1993
+Jagd und Fischerei
+# Wildtier- und Jagdverordnung
+(WJV)
+Vom 12. März 2024
 Der Regierungsrat des Kantons Basel-Stadt,
-gestützt auf Art. 25 des Bundesgesetzes vom 20. Juni 1986 über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Jagdgesetz, JSG) und Art. 15 der dazugehörigen Verordnung vom 29. Februar 1988 (Jagdverordnung, JSV) sowie § 2 des kantonalen Gesetzes betreffend Aufhebung des bestehenden Jagdgesetzes vom 4. Dezember 1876,
+gestützt auf das Gesetz über Wildtiere und Jagd (WJG) vom 27. Oktober 2021 unter Verweis auf seine Erläuterungen Nr. P231057,
 beschliesst:
