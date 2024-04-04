@@ -1,4 +1,4 @@
-Bildungszentrum Gesundheit: Verordnung | Ausbildung in einzelnen Berufen
+Ausbildung in einzelnen Berufen
 # Verordnung über das Bildungszentrum Gesundheit Basel-Stadt
 (BZG)
 Vom 15. Juni 2010
