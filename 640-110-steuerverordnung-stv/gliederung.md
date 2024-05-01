@@ -134,7 +134,7 @@
 #### 6.I.3. Belastungs- und Rückerstattungszins
 #### 6.I.4. Quellensteuern
 ### 6.II. Steuerzahlung
-#### 6.II.1. Zahlstellen
+#### 6.II.1. Zahlung
 #### 6.II.2. Verrechnungssteuer, Steuerrückbehalt USA, Anrechnung ausländischer Quellensteuern
 #### 6.II.3. Zahlungserleichterungen
 #### 6.II.4. Gebühren bei nicht rechtzeitiger Zahlung der Steuer
