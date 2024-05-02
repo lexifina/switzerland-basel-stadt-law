@@ -1,4 +1,4 @@
-Baugebühren: Verordnung | Hochbauten
+Hochbauten
 # Verordnung über die Gebühren der Baubewilligungsbehörden
 (Baugebührenverordnung; BauGebV)
 Vom 12. November 2002

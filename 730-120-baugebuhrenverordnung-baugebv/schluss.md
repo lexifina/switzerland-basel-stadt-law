@@ -1,3 +1,3 @@
-Diese Verordnung ist zu publizieren; sie wird am 1. Januar 2003 wirksam. Die Verordnung vom 16. Februar 1993 über die Gebühren der Baubewilligungsbehörden ist aufgehoben.
+Diese Änderung ist zu publizieren; sie tritt am fünften Tag nach der Publikation in Kraft.
 Anhänge
 Anhang 730.120 Anhang: Gebühren
