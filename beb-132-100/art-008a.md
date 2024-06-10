@@ -1,0 +1,2 @@
+# § 8a Briefliche Stimmabgabe
+1 Die briefliche Stimmabgabe ist ab Erhalt der Wahl- und Abstimmungsunterlagen zulässig. Die Wahl- und Stimmzettel müssen bis 12.00 Uhr des Tages vor dem Wahl- und Abstimmungssonntag bei der Gemeindeverwaltung eingetroffen sein. Später eintreffende Wahl- und Stimmzettel bleiben unberücksichtigt.
