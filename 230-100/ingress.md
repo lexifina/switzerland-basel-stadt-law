@@ -1,4 +1,4 @@
-Einführungsgesetz zum SchKG | Vollstreckung
+Vollstreckung / Schuldbetreibung und Konkurs
 # Gesetz betreffend Einführung des Bundesgesetzes über Schuldbetreibung und Konkurs
 Vom 22. Juni 1891
 Der Grosse Rat des Kantons Basel-Stadt

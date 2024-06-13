@@ -1,4 +1,4 @@
-Gerichtsorganisationsgesetz | Gericht / Staatsanwaltschaft
+Gerichte / Staatsanwaltschaft / Strafverfolgungsbehörden
 # Gesetz betreffend die Organisation der Gerichte und der Staatsanwaltschaft
 (Gerichtsorganisationsgesetz, GOG)
 Vom 3. Juni 2015
