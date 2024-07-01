@@ -33,6 +33,7 @@
 ### VI.3. Einschränkungen
 ### VI.4. Nicht bewilligungspflichtige Tätigkeiten
 ### VI.5. Publikation
+## VIbis. Zulassung von Leistungserbringern zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung
 ## VII. Weitere Vorschriften
 ### VII.1. Generalklausel
 ### VII.2. Bekämpfung übertragbarer Krankheiten und Hygiene

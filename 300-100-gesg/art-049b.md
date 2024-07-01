@@ -1,0 +1,4 @@
+# § 49b Beschränkung der Anzahl Ärztinnen und Ärzte, die im ambulanten Bereich Leistungen zulasten der obligatorischen Krankenpflegeversicherung erbringen
+1 Der Regierungsrat legt in einem oder mehreren medizinischen Fachgebieten oder in bestimmten Regionen Höchstzahlen für Ärztinnen und Ärzte fest, die im ambulanten Bereich zulasten der obligatorischen Krankenpflegeversicherung Leistungen erbringen.
+2 Er kann die Möglichkeit vorsehen, dass das zuständige Departement in Einzelfällen aufgrund der Versorgungssituation in einem Fachgebiet oder einer Region von den Höchstzahlen abweichen kann.
+3 Er kann einen sofortigen Zulassungsstopp in einem bestimmten Fachgebiet anordnen, sofern die Voraussetzungen gemäss Art. 55a Abs. 6 des Bundesgesetzes über die Krankenversicherung (KVG) vom 18. März 1994 erfüllt sind.
