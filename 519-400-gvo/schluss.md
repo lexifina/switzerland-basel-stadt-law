@@ -1,1 +1,2 @@
-Diese Verordnung ist zu publizieren; sie wird sofort wirksam. Auf den gleichen Zeitpunkt wird die Verordnung über die vom Kontrollbüro zu erhebenden Gebühren vom 15. Juni 1993 aufgehoben.
+Schlussbestimmung
+Diese Verordnung ist zu publizieren; sie tritt am 1. Juli 2024 in Kraft. Auf den gleichen Zeitpunkt wird die Verordnung über die Beglaubigungsgebühren sowie die Gebühren auf dem Gebiet der Einwohnerkontrolle und des Ausländerrechts (GVo) vom 3. Februar 2009 aufgehoben.
