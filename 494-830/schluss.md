@@ -1,8 +1,8 @@
-Basel, 5. August 2008
+Basel, 18. Juni 2024
 Im Namen des Regierungsrates des Kantons Basel-Stadt
-Der Präsident: Dr. Guy Morin
-Der Staatsschreiber: Dr. Robert Heuss
-Liestal, 19. August 2008
+der Regierungspräsident: Dr. Conradin Cramer
+die Staatsschreiberin: Barbara Schüpbach-Guggenbühl
+Liestal, 18. Juni 2024
 Im Namen des Regierungsrates des Kantons Basel-Landschaft
-Der Präsident: Adrian Ballmer
-Der Landschreiber: Walter Mundschin
+die Regierungspräsidentin: Monica Gschwind
+die Landschreiberin: Elisabeth Heer Dietrich
