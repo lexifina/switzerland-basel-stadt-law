@@ -1,0 +1,2 @@
+Schlussbestimmung
+Diese Verordnung ist zu publizieren; sie tritt am 1. Juli 2024 in Kraft.
