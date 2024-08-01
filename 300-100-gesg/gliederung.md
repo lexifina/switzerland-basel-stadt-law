@@ -45,6 +45,7 @@
 ### VII.8. Missbrauch und Abhängigkeit
 ### VII.9. Gesundheitsförderung und Prävention bei Kindern und Jugendlichen
 ### VII.10. eHealth und Krebsregister
+### VII.10bis. Ausbildung im Bereich der Pflege
 ### VII.11. Auflagen und Bedingungen
 ## VIII. Disziplinarmassnahmen und Strafbestimmungen
 ### VIII.1. Disziplinarmassnahmen
