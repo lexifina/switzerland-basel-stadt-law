@@ -1,4 +1,4 @@
-Maturitätsprüfungsverordnung | Mittelschulen
+Mittelschulen
 # Verordnung betreffend die Maturitätsprüfungen im Kanton Basel-Stadt
 (Maturitätsprüfungsverordnung, MPV)
 Vom 28. März 2000
