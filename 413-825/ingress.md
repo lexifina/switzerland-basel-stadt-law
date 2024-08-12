@@ -1,4 +1,4 @@
-Maturaarbeit: Reglement | Mittelschulen
+Mittelschulen
 # Reglement für die Maturaarbeit an den Gymnasien im Kanton Basel-Stadt
 Vom 11. Juli 2008
 Das Erziehungsdepartement des Kantons Basel-Stadt,
