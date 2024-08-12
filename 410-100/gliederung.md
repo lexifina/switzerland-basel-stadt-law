@@ -17,6 +17,7 @@
 #### (I.) 3. Die Universität
 #### (I.) 4. Angebote für allgemeine und berufliche Weiterbildung
 ## II. Allgemeine Bestimmungen. Schulpflicht und Schülerinnen und Schüler
+## IIbis. Tagesstrukturen und Ferienangebote
 ## III. Schulbehörden, Schulaufsicht
 ## IV. Volksschulleitung, Leitung Mittelschulen und Berufsbildung, Schulleitungen und Lehr- und Fachpersonen
 ### (IV.) 1. Voraussetzungen der Anstellung, Anstellungsbehörden und Anstellungsverfahren
