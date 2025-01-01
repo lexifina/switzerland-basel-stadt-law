@@ -1,9 +1,9 @@
-Riehen, den 3. April 2007
+Riehen, 4. Februar 2025
 Gemeinderat Riehen
-Der Präsident: Willi Fischer
-Der Gemeindeverwalter: Andreas Schuppli
-Bettingen, den 3. April 2007
+Die Präsidentin: Christine Kaufmann
+Der Generalsekretär: Patrick Breitenstein
+Bettingen, den 6. Februar 2025
 Gemeinderat Bettingen
-Der Präsident: Willi Bertschmann
-Der Gemeindeverwalter: i.V. Hanspeter Schlup
-Von der Gemeindeversammlung Bettingen genehmigt am 24. April 2007.
+Der Präsident: Nikolai Iwangoff Brodmann
+Der Gemeindeverwalter: Katharina Näf Widmer
+Von der Gemeindeversammlung Bettingen genehmigt am 29. April 2025
