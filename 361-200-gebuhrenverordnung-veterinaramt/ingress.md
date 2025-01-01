@@ -1,4 +1,4 @@
-Veterinäramt und Schlachthof: Gebührenverordnung | Veterinäramt / Tierseuchenbekämpfung / Viehversicherung
+Veterinäramt und Schlachthof: Gebührenverordnung | Veterinäramt | Tierseuchenbekämpfung | Viehversicherung
 # Verordnung betreffend die Gebühren und Vergütungen des Kantonalen Veterinäramtes
 (Gebührenverordnung Veterinäramt)
 Vom 7. August 2007
