@@ -1,7 +1,10 @@
 ## I. Grundsätze für den Umgang mit Informationen
 ### I. 1. Bearbeiten von Personendaten im Auftrag (§ 7 IDG)
 ### I. 1a. Datenpools mit Personendaten (§§ 6 Abs. 2 und 9 IDG)
-### I. 2. Vorabkontrolle (§ 13 IDG)
+### I.1b. Nachweis für die Einhaltung der Datenschutzbestimmungen
+### I. 2. Datenschutz-Folgeabschätzung und Vorabkonsultation (§§ 12a und 13 IDG)
+### I.2a Informations- und Meldepflicht
+### I.2b. Datenschutzberatung (§ 16b IDG)
 ### I. 3. Videoüberwachung (§§ 17 und 18 IDG)
 ### I. 4. Bekanntgabe von Personendaten zur Aufgabenerfüllung (§§ 21–23 IDG)
 #### I. 4.1. Mittels Abrufverfahren
