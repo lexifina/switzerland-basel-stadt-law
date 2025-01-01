@@ -1,4 +1,2 @@
-Schlussbestimmung
-Der Gebührentarif ist zu publizieren. Er wird per 1. Januar 2012 wirksam. Auf den gleichen Zeitpunkt werden die Ausführungsbestimmungen der IWB Industrielle Werke Basel betreffend Netznutzungsentgelte vom 10. Dezember 2010 aufgehoben.
-Anhänge
-Anhang 02 : Anschlussgebühren der Netzebene 7 mit und ohne Grabarbeiten Anhang 03 : Netzanschlussbeiträge der Netzebene 5 ohne und mit Tiefbauarbeiten Anhang 772.420 : Übergangsbestimmung
+Dieser Gebührentarif ist zu publizieren; er bedarf der Genehmigung durch den Regierungsrat und tritt am 1. Januar 2025 in Kraft. Auf den gleichen Zeitpunkt wird der Gebührentarif der IWB Industrielle Werke Basel betreffend den Anschluss und die Nutzung des Netzes für elektrische Energie vom 4. Juli 2011 aufgehoben.
+Gebührentarif vom Regierungsrat genehmigt am: 20. August 2024

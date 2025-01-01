@@ -1,2 +1,0 @@
-# § 34b Netzanschlussbeiträge der Netzebene 5 ohne und mit Tiefbauarbeiten
-1 Auf Netzebene 5 setzt sich der Netzanschlussbeitrag aus einem Grundbetrag und einem Pauschalbetrag pro Meter Anschlussleitung (Meterpauschale) zusammen. Massgebend für die Höhe des Grundbetrages und der Meterpauschale auf Netzebene 5 sind der Leitungsquerschnitt sowie die Erforderlichkeit von Tiefbauarbeiten. Die Meterpauschale wird für jeden Meter Anschlussleitung (vom Netzanschlusspunkt bis zum Übergabepunkt) erhoben. Es gelten die Netzanschlussbeiträge gemäss Anhang 3.

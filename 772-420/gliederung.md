@@ -1,13 +1,11 @@
-## I. Allgemeines
-## II. Netznutzungsentgelt Netzebene 7 (Niederspannungsebene)
-### A. Netzebene 7 ohne Leistungsmessung
-### B. Netzebene 7 mit Leistungsmessung
-#### 1. …
-#### 2. …
-### C. Baustellen und temporäre Netzanschlüsse auf Netzebene 7
-### D. Pauschalen auf Netzebene 7
-## III. Netznutzungsentgelt Netzebene 5 (Mittelspannungsebene)
-## IV. Netznutzungsentgelt Netzebene 3 (Hochspannungsebene)
-## V. Netznutzungsentgelt Netzebene «öffentlicher Verkehr» (Gleichspannungsebene)
-## Vbis. Netzanschluss- und Netzkostenbeiträge
-## VI. Übergangs und Schlussbestimmungen
+## 1. Gegenstand
+## 2. Anschlussgebühren
+### 2.1 Dauerhafte Netzanschlüsse
+### 2.2 Temporäre Netzanschlüsse
+## 3. Netznutzungsentgelte
+### 3.1 Dauerhafte Netzanschlüsse
+### 3.2 Unterbrechbare Verbraucher
+### 3.3 Blindenergieverbrauch
+### 3.4 Temporäre Netzanschlüsse
+## 4. Sonstige Gebühren, Steuern und Abgaben
+## 5. Übergangsbestimmung

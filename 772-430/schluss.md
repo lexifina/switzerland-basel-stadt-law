@@ -1,4 +1,2 @@
-Schlussbestimmung
-Der Gebührentarif ist zu publizieren. Er wird per 1. Januar 2012 wirksam. Auf den gleichen Zeitpunkt wird der Gebührentarif der Industriellen Werke Basel für die elektrische Energie vom 28. Juni 2010 aufgehoben.
-Anhänge
-Anhang 772.430 : Übergangsbestimmung Anhang 772.430 Anhang: Ausser Kraft
+Dieser Gebührentarif ist zu publizieren; er bedarf der Genehmigung durch den Regierungsrat und tritt am 1. Januar 2025 in Kraft. Auf den gleichen Zeitpunkt wird der Gebührentarif der IWB Industrielle Werke Basel für die elektrische Energie vom 4. Juli 2011 aufgehoben.
+Gebührentarif vom Regierungsrat genehmigt am: 20. August 2024
