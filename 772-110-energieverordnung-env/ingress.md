@@ -1,4 +1,4 @@
-Energieverordnung | Energie- und Wasserversorgung
+Energie- und Wasserversorgung
 # Verordnung zum Energiegesetz
 (Energieverordnung, EnV)
 Vom 29. August 2017
