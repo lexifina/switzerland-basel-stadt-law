@@ -1,8 +1,8 @@
 ## 1. Geltungsbereich (§ 1 LO)
 ## 2. Zuweisung der Stellen (§ 3 LO)
 ## 3. Festlegung des Anfangslohnes (§ 4 LO)
-## 4. Lohnanpassungen (§ 6 LO)
-### 4. 1. Generelle und individuelle Lohnanpassungen (§ 6 Abs. 1 und 2 LO)
+## 4. Lohnanpassungen (§ 5a und § 6 LO)
+### 4. 1. Generelle und individuelle Lohnanpassungen (§ 5a und § 6 Abs. 1 und 2 LO)
 ### 4. 2. …
 ## 5. Einmalige Anerkennungsprämien (§ 7 LO)
 ## 6. Zulagen (§ 8 ff. LO)
