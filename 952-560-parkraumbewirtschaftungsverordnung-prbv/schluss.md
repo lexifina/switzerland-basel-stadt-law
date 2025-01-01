@@ -1,2 +1,2 @@
 Schlussbestimmung
-Diese Teilrevision ist zu publizieren. Sie wird mit Ausnahme von § 15 Abs. 1 lit. a – c und lit. e – j, Abs. 2 und Abs. 3 am 1. März 2019 in Kraft gesetzt. § 15 Abs. 1 lit. a – c und lit. e – j, Abs. 2 und Abs. 3 wird am 1. Januar 2019 in Kraft gesetzt.
+Diese Verordnung ist zu publizieren; sie tritt am 1. Januar 2025 in Kraft. Auf den gleichen Zeitpunkt wird die Verordnung über die Parkraumbewirtschaftung (Parkraumbewirtschaftung, PRBV) vom 19. August 2014 aufgehoben.
