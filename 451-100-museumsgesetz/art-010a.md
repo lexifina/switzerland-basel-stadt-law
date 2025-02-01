@@ -1,0 +1,4 @@
+# § 10a Mehrjährige Globalkredite
+1 Während der Laufzeit des mehrjährigen Globalkredits werden Budgetüberschreitungen oder Budgetunterschreitungen vollständig auf das Folgejahr übertragen.
+2 Bei mehrjährigen Globalkrediten passt der Regierungsrat den Kredit während der Laufzeit jährlich um die auf den Personalkosten ausgerichtete Teuerung gemäss § 22 des Gesetzes betreffend Einreihung und Entlöhnung der Mitarbeiterinnen und Mitarbeiter des Kantons Basel-Stadt (Lohngesetz) vom 18. Januar 1995 an. Weiter kann der Regierungsrat den Globalkredit während der Laufzeit aufgrund von Änderungen bei den internen Verrechnungen anpassen.
+3 Als Beitrag zur Sanierung des kantonalen Finanzhaushaltes kann ein mehrjähriger Globalkredit sowie die Leistungsziele während der Laufzeit durch den Grossen Rat angepasst werden.
