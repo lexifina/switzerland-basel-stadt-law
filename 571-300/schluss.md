@@ -1,1 +1,2 @@
-Diese Verordnung ist zu publizieren. Sie wird gleichzeitig mit der Änderung des Organisationsgesetzes rückwirkend auf den 1. Januar 2009 wirksam. Auf den gleichen Zeitpunkt wird der Beschluss des Regierungsrates betreffend kantonale Zuständigkeitsvorschriften zur Verordnung des Bundesrates über das militärische Kontrollwesen vom 8. Januar 1980 aufgehoben.
+Schlussbestimmung
+Diese Verordnung ist zu publizieren; sie tritt am fünften Tag nach der Publikation in Kraft. Auf den gleichen Zeitpunkt wird die Verordnung betreffend Vollzug der Bundesverordnung über das militärische Kontrollwesen vom 9. Dezember 2008 aufgehoben.
