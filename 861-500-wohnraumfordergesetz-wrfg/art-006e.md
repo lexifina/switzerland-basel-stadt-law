@@ -1,0 +1,6 @@
+# § 6e Bewilligung und Kontrolle
+1 Die Prüfung der Einhaltung der im jeweiligen Bebauungsplan sowie diesem Gesetz enthaltenen Vorschriften zum Wohnraum erfolgen durch die zuständigen Departemente.
+2 Mit der Bewilligung werden die einzuhaltenden Auflagen festgehalten.
+3 Die zuständigen Departemente verfügen die erstmalige Höhe des Nettomietzinses der gesamten Liegenschaft. Die Eigentümerschaft gibt per Selbstdeklaration nach Fertigstellung und Vermietung über die Höhe der Nettomietzinsen der einzelnen Wohnungen Auskunft. Bei Abweichungen greifen die zuständigen Departemente mittels Verfügung korrigierend ein.
+4 Die Eigentümerschaft ist zur Mitwirkung bei der Kontrolle verpflichtet und hat sämtliche Informationen zum Nachweis der Einhaltung der Vorschriften des Bebauungsplans, der Auflagen der Bewilligung, der Nettomietzinsen und der Vermietungskriterien zur Verfügung zu stellen.
+5 Bei einem Verstoss gegen die durch die zuständigen Departemente festgelegten Nettomietzinsvorgaben verfügt das zuständige Departement die einzuhaltenden Nettomietzinsen für jede Wohnung einzeln und kann die Rückzahlung der unrechtmässig zu viel bezahlten Nettomietzinsen an die Mieterschaft inklusive eines Verzugszinses in der Höhe von 5 % anordnen.

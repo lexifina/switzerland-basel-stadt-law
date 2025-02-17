@@ -175,6 +175,7 @@
 ###### 3.5.1.a) Zweck
 ###### 3.5.1.abis) Ausgangswert für die Berechnung
 ###### 3.5.1.b) Höhe
+###### 3.5.1.bbis Mehrwertabgabe bei dauerhaft gemeinnütziger Vermietung
 ###### 3.5.1.c) Erhebung
 ###### 3.5.1.d) Haftung der Grundstücke
 ###### 3.5.1.e) Befreiung
