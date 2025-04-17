@@ -3,4 +3,4 @@ Schulreglement | Riehen: Einwohnergemeinde
 (Schulreglement)
 Vom 16. Juni 2009
 Der Gemeinderat Riehen
-erlässt gestützt auf die Ordnung für die Schulen der Gemeinden Bettingen und Riehen vom 25. März 2009 folgendes Reglement:
+erlässt gestützt auf die Ordnung für die Schulen der Gemeinden Bettingen und Riehen (Schulordnung) vom 25. März 2009 folgendes Reglement:
