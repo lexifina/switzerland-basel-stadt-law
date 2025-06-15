@@ -1,13 +1,7 @@
-## I. Allgemeines
-## II. Kantonale Schlichtungsstelle
-### A. Zuständigkeit
-### B. Aufgaben
-### C. Organisation
-### D. Stellung der Mitglieder der Schlichtungsstelle
-### E. Verfahren
-### F. Ergänzende Bestimmungen für öffentlich-rechtliche Streitigkeiten
-### G. Schlussbestimmungen
-## III. Verwirklichung der tatsächlichen Gleichstellung
-## III.bis Ausgewogene Besetzung von Strategie- und Aufsichtsgremien
-## IV. Änderung bestehender Erlasse
-## V. Inkrafttreten
+## 1. Allgemeines
+## 2. Umsetzung
+## 3. Besondere Bestimmungen
+### 3.1 Datenerhebung und Datenauswertung
+### 3.2 Ausgewogene Besetzung von Strategie- und Aufsichtsgremien
+### 3.3 Verfahren vor Kantonaler Schlichtungsstelle für Diskriminierungsfragen
+## 4. Ausführungsbestimmungen
