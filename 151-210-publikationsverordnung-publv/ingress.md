@@ -1,4 +1,4 @@
-Publikationsverordnung | Publikation von Erlassen
+Publikation von Erlassen
 # Verordnung zum Gesetz über Publikationen im Kantonsblatt und über die Gesetzessammlung des Kantons Basel-Stadt
 (Publikationsverordnung, PublV)
 Vom 11. Dezember 2018

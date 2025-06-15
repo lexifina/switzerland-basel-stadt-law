@@ -1,4 +1,4 @@
-Plakatverordnung | Sonstige Gewerbe
+Sonstige Gewerbe
 # Plakatverordnung
 Vom 7. Februar 1933
 Der Regierungsrat des Kantons Basel-Stadt,
