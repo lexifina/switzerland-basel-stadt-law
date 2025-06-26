@@ -1,0 +1,2 @@
+Schlussbestimmung
+Diese Verordnung ist zu publizieren; sie tritt in Kraft, sobald die gemäss dem Ratschlag des Regierungsrates vom 4. Juni 2024 beantragte Teilrevision des Lohngesetzes betreffend gesetzliche Grundlage für Lohnnebenleistungen in Rechtskraft tritt und die Ausgabenbewilligung des Grossen Rates für die neuen Lohnnebenleistungen vorliegt. Auf den gleichen Zeitpunkt hin treten die Änderungen der Spesenverordnung in Kraft.
