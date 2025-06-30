@@ -1,0 +1,2 @@
+# § 6a Datenaustausch
+1 Mit dem Gesuch um Ausrichtung von Beiträgen gemäss §§ 5e – 5g gewährt die gesuchstellende juristische Person der zuständigen Behörde und von dieser zugezogene Dritten das Recht, Informationen und Daten, die zur Prüfung des Gesuchs dienlich sind, beim jeweiligen öffentlichen Organ und Dritten ungeachtet von Berufs- und Amtsgeheimnissen und vertraglichen Geheimhaltungspflichten einzuholen.
