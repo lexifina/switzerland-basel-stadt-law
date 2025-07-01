@@ -1,5 +1,4 @@
-## I. Definitionen
-## II. Anspruchsvoraussetzungen
-## III. Anspruchsermittlung
-## IV. Antragsstellung, Anspruchsbeginn, Auszahlungsmodus, Vollzug, Rechtsmittelverfahren
-## V. Übergangs- und Schlussbestimmungen
+## 1. Anspruchsermittlung
+## 2. Wohnungsbelegung
+## 3. Weitere Bestimmungen
+## 4. Verfahren und Zuständigkeit
