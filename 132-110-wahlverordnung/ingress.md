@@ -1,4 +1,4 @@
-Wahlverordnung | Wahlen und Abstimmungen
+Wahlen und Abstimmungen
 # Verordnung zum Gesetz über Wahlen und Abstimmungen
 (Wahlverordnung)
 Vom 3. Januar 1995
