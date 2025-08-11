@@ -1,4 +1,4 @@
-Abschlussverordnung FMS | Mittelschulen
+Mittelschulen
 # Verordnung über die Abschlüsse an der Fachmaturitätsschule Basel-Stadt
 (Abschlussverordnung FMS)
 Vom 5. April 2005
