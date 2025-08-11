@@ -1,4 +1,4 @@
-Volksschulleitung: Verordnung | Behörden/Personal
+Behörden / Personal
 # Verordnung über die Volksschulleitung
 Vom 26. Juni 2012
 Der Regierungsrat des Kantons Basel-Stadt,
