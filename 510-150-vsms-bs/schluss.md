@@ -1,0 +1,2 @@
+Schlussbestimmung
+Diese Verordnung ist zu publizieren; sie tritt am 1. September 2025 in Kraft.
