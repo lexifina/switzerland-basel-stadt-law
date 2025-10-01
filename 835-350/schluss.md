@@ -1,2 +1,3 @@
-Dieser Beschluss ist zu publizieren; er wird unter Vorbehalt der Genehmigung durch die zuständigen Bundesbehörden rückwirkend auf den 1. Januar 1985 wirksam.
-Auf den gleichen Zeitpunkt wird der Beschluss des Regierungsrates betreffend Erlass eines Kassenreglements der Staatlichen Arbeitslosenkasse Basel-Stadt vom 20. September 1977 aufgehoben.
+Schlussbestimmung
+Dieses Reglement ist zu publizieren; es bedarf der Genehmigung durch das Staatssekretariat für Wirtschaft (SECO) und tritt am 1. Oktober 2025 in Kraft. Auf den gleichen Zeitpunkt wird der Beschluss des Regierungsrates betreffend den Erlass eines Kassenreglements der Öffentlichen Arbeitslosenkasse Basel-Stadt vom 18. Dezember 1984 aufgehoben.
+Vom SECO genehmigt am 1. Oktober 2025.
