@@ -1,0 +1,3 @@
+# § 22a Ermittlung des maximalen monatlichen Mietzinsaufschlags bei Grundrissanpassungen
+1 Der maximale monatliche Mietzinsaufschlag für Grundrissanpassungen, die zu einer Veränderung des Wohnungstyps, der Zimmeranzahl, der Wohnungsgrösse oder der Anzahl Wohnungen führen, wird grundsätzlich gemäss § 22 berechnet.
+2 Die Wohnschutzkommission teilt den gemäss Abs. 1 ermittelten maximalen Mietzinsaufschlag sowie die bisherigen Netto-Mietzinsen unter den von den Grundrissanpassungen betroffenen Wohnungen auf. Die Gesuchstellerin oder der Gesuchsteller kann dazu im Bewilligungsgesuch einen Vorschlag unterbreiten.

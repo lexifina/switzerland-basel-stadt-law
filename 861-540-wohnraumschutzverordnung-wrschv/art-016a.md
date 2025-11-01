@@ -1,0 +1,4 @@
+# § 16a Augenschein
+1 Im Verfahren nach § 8e WRFG findet in der Regel ein Augenschein statt. In begründeten Fällen, namentlich wenn der Sachverhalt ohne Augenschein zweifelsfrei festgestellt werden kann, kann auf diesen verzichtet werden.
+2 In den übrigen Verfahren kann die oder der Vorsitzende einen Augenschein anordnen, wenn dies zur Sachverhaltsfeststellung erforderlich erscheint.
+3 Ein allfälliger Augenschein ist in Anwesenheit der Gesuchstellerin oder des Gesuchstellers und der Eigentümerschaft oder einer entsprechend bevollmächtigten Vertretung durchzuführen. Seitens Wohnschutzkommission ist die Teilnahme der oder des Vorsitzenden in Begleitung der Schreiberin oder des Schreibers zwingend. Die Gesuchstellerin oder der Gesuchsteller können die Teilnahme der paritätischen Dreierkammer gemäss § 14 Abs. 2 beantragen.
