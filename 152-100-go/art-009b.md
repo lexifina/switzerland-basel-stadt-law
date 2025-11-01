@@ -1,0 +1,3 @@
+# § 9b Ausnahmen von der beruflichen Vorsorge
+1 Mitglieder des Grossen Rates, die der Versicherung nicht angehören, erhalten am Ende jedes Amtsjahres anstelle der Leistungen gemäss § 9a einen Vorsorgebeitrag in der Höhe des Arbeitgeberbeitrags gemäss § 9a Abs. 2 auf den jährlichen Sitzungsgelderbetrag gemäss § 9a Abs. 4.
+2 Mitglieder des Grossen Rates, deren jährliche Sitzungsgelder die Hälfte der maximalen jährlichen AHV-Altersrente nicht übersteigen, die aber aufgrund einer anderen versicherten Tätigkeit der vom Ratsbüro bestimmten Vorsorgeeinrichtung angehören, werden gemäss § 9a versichert.
