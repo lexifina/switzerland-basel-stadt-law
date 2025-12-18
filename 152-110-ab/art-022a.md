@@ -1,0 +1,2 @@
+# § 22a Verfahren zur Zweiten Lesung
+1 Beschliesst der Grosse Rat eine Zweite Lesung, so beauftragt er eine vorberatende Instanz (eine seiner Kommissionen, das Ratsbüro oder den Regierungsrat) mit der Berichterstattung und der Antragstellung. Die vorberatende Instanz kann zu den in der ersten Lesung gefassten Beschlüssen inhaltliche und redaktionelle Änderungen beantragen. Die Antragstellung erfolgt schriftlich. Die Detailberatung ist frei.
