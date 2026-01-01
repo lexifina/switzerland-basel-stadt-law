@@ -4,3 +4,6 @@
 3 Als Eigenkapital steuerbar ist das Eigenkapital im Sinne von § 85 Abs. 1, 2 und 4 für die Kapitalgesellschaften und Genossenschaften, das Eigenkapital im Sinne von § 86 Abs. 1 und 2 für die übrigen juristischen Personen und das Reinvermögen gemäss Jahresrechnung für die Personenunternehmen (Einzelunternehmen, Personengesellschaften).
 4 Die Kapitaltaxe beträgt 1 Prozent des steuerbaren Eigenkapitals.
 5 Die Kapitaltaxe wird für jede Steuerperiode festgesetzt und erhoben. Die Bestimmungen über Beginn und Ende der Steuerpflicht und über die zeitlichen Grundlagen bei der Vermögens- bzw. bei der Kapitalsteuer (§§ 8, 53, 54 bzw. §§ 63, 88, 89) gelten sinngemäss.
+2. Teil: Organisation, Verfahren und Steuerbezug
+(2. Teil)1. Abschnitt: Steuerbehörden
+(2. Teil/1. Abschn.) I. Steuerverwaltung

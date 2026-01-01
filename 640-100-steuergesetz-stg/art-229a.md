@@ -9,3 +9,5 @@ d) die Entscheidung über den Erlass der kommunalen Steuern bzw. der Kirchensteu
 4 Der Vollzug der Befugnisse gemäss Abs. 1 erfolgt in analoger Anwendung der für die kantonalen Steuern geltenden Grundsätze.
 5 Der Bezug der kommunalen Steuern und Kirchensteuern wird zusammen mit den kantonalen Steuern vorgenommen. Es gelten sämtliche für den Bezug der kantonalen Steuern massgeblichen Bestimmungen und verwaltungsinternen Weisungen sinngemäss.
 6 Der Regierungsrat regelt die Ausführungsbestimmungen.
+5. Teil: Schlussbestimmungen
+(5. Teil) I. Ausführungsbestimmungen

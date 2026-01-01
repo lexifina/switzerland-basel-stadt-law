@@ -3,3 +3,4 @@
 2 Gesuche um Steuererlass müssen schriftlich und begründet sein und die nötigen Beweismittel enthalten.
 3 Ein Gesuch um Steuererlass hemmt den Steuerbezug nicht.
 4 Auf ein Erlassgesuch, das nicht begründet ist oder erst nach Zustellung des Zahlungsbefehls (Art. 38 Abs. 2 SchKG) eingereicht wird, tritt die Steuerverwaltung nicht ein.
+(2. Teil/3. Abschn.) 9. Steuerrückerstattung

@@ -1,3 +1,4 @@
 # § 228a
 1 Die Einwohnergemeinden Bettingen und Riehen erhalten unter Ausschluss eigener Besteuerungsbefugnisse einen Anteil an der Gewinnsteuer, an der Kapitalsteuer und an der Grundstücksteuer in Höhe der Gemeindesteuerquote gemäss § 228 Abs. 1, welche juristische Personen als Inhaber oder Teilhaber eines Geschäftsbetriebs oder einer Betriebsstätte im Gebiet der Einwohnergemeinden oder für Eigentums-, dingliche oder gleichkommende persönliche Nutzungsrechte an Grundstücken im Gebiet der Einwohnergemeinden bezahlt haben.
 2 Bei Verlegung des Sitzes oder der tatsächlichen Verwaltung oder bei Änderung der wirtschaftlichen Zugehörigkeit im Verhältnis zwischen der Stadt Basel und den Einwohnergemeinden Bettingen und Riehen oder zwischen den Gemeinden ist § 63 Abs. 3 sinngemäss anwendbar.
+(4. Teil) 3. Grundstückgewinnsteuer

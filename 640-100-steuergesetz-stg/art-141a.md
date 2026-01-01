@@ -7,4 +7,6 @@ a) die Personalien;
 b) Angaben über den Zivilstand, den Wohn- und Aufenthaltsort, die Aufenthaltsbewilligung und die Erwerbstätigkeit;
 c) Rechtsgeschäfte;
 d) Leistungen des Gemeinwesens.
-4 Im Übrigen sind, soweit dieses Gesetz keine abweichenden Vorschriften enthält, die Bestimmungen des kantonalen Informations- und Datenschutzgesetzes sinngemäss anwendbar.
+4 Im Übrigen sind, soweit dieses Gesetz keine abweichenden Vorschriften enthält, die Bestimmungen des kantonalen Gesetzes über die Information und den Datenschutz (Informations- und Datenschutzgesetz, IDG) vom 9. Juni 20210 sinngemäss anwendbar.
+(2. Teil/2. Abschn./A.) II. Verfahrensrechtliche Stellung der steuerpflichtigen Person
+(2. Teil/2. Abschn./A./II.) 1. Ehegatten
