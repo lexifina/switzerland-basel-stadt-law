@@ -1,4 +1,4 @@
-Bürgergemeinderat: Geschäftsordnung | Basel: Bürgergemeinde
+Basel: Bürgergemeinde
 # Geschäftsordnung des Bürgergemeinderates der Stadt Basel
 Vom 9. September 1986
 Der Bürgergemeinderat der Stadt Basel
