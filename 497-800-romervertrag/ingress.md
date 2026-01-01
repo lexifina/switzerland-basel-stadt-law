@@ -1,10 +1,7 @@
-Römerstadt Augusta Raurica: Vertrag | Denkmalschutz / Archäologische Forschung
+Denkmalschutz / Archäologische Forschung
 # Vertrag über die Römerstadt Augusta Raurica
 (Römervertrag)
-Vom 26. Mai 1998
-Der Kanton Basel-Landschaft, vertreten durch den Regierungsrat, dieser vertreten durch Regierungspräsident Peter Schmid, Vorsteher der Erziehungs- und Kulturdirektion;
-der Kanton Basel-Stadt, vertreten durch den Regierungsrat, dieser vertreten durch Regierungsrat Stefan Cornaz, Vorsteher des Erziehungsdepartementes;
-der Kanton Aargau, vertreten durch den Regierungsrat, dieser vertreten durch Regierungsrat PeterWertli, Vorsteher des Erziehungsdepartementes;
-die Historische und Antiquarische Gesellschaft, vertreten durch Dr. Fritz Nagel, Vorsteher;
-die Stiftung Pro Augusta Raurica, vertreten durch Dr. Hansjörg Reinau, Präsident,
-schliessen folgenden Vertrag über die Römerstadt Augusta Raurica:
+Vom 1. Juli 2025
+Zwischen den Kantonen Basel-Stadt, Basel-Landschaft und Aargau sowie der Historischen und Antiquarischen Gesellschaft und der Stiftung Pro Augusta Raurica wird,
+gestützt auf § 3 Abs. 1 i. V. m. § 4 Abs. 1 Bst. b) des Kulturfördergesetzes des Kantons Basel-Stadt vom 21. Oktober 2009; § 17 des Gesetzes über die Kulturförderung des Kantons Basel-Landschaft (KFG BL) vom 4. Juni 2015 sowie § 3 Abs. 2 des Kulturgesetzes des Kantons Aargau (KG) vom 31. März 2009,
+folgender Vertrag abgeschlossen:

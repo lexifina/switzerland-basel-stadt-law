@@ -1,13 +1,3 @@
-Erziehungs- und Kulturdirektion des Kantons Basel-Landschaft
-Regierungspräsident Peter Schmid
-Vom Regierungsrat des Kantons Basel-Landschaft genehmigt am 24. März 1998.
-Erziehungsdepartement des Kantons Basel-Stadt
-Regierungsrat Stefan Cornaz
-Erziehungsdepartement des Kantons Aargau
-Regierungsrat Peter Wertli
-Vom Regierungsrat des Kantons Aargau genehmigt am 31. März 1998.
-Historische und Antiquarische Gesellschaft zu Basel
-Der Vorsteher: Dr. Fritz Nagel
-Der Statthalter: Dr. Franz Egger
-Stiftung Pro Augusta Raurica
-Der Präsident: Dr. Hansjörg Reinau
+Der Vertrag ist zu publizieren. Er tritt am 1. Januar 2026 in Kraft. Auf den gleichen Zeitpunkt wird der Vertrag über die Römerstadt Augusta Raurica (Römervertrag) vom 24. März 1998 aufgehoben.
+Anhänge
+Anhang 01: Originaldokument
