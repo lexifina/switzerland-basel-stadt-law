@@ -10,6 +10,7 @@
 #### (III.2a) b) Die Sachkommissionen
 ### (III.) 3. Der Bürgerrat
 ### (III.) 4. Einbürgerungskommission
+#### (III.) 4a Interessenbindungen und Ausstand
 ### (III.) 5. Die Departemente
 ### (III.)5A. …
 ### (III.)5B. Die Leitungsausschüsse
