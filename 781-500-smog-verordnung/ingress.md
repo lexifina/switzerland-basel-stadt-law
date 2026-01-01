@@ -1,4 +1,4 @@
-Smog-Verordnung | Lufthygiene
+Lufthygiene
 # Verordnung zur kurzfristigen Bekämpfung übermässiger Luftschadstoff-Immissionen infolge austauscharmer Wetterlagen
 (Smog-Verordnung)
 Vom 13. Februar 2007

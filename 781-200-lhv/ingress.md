@@ -1,4 +1,4 @@
-Lufthygieneverordnung | Lufthygiene
+Lufthygiene
 # Verordnung über die Lufthygiene
 (LHV)
 Vom 22. Dezember 1992
