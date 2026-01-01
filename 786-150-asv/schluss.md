@@ -1,1 +1,2 @@
-Diese Verordnung ist zu publizieren; sie wird am 1. Juli 1993 wirksam. Die Verordnung über die Abfallbeseitigung in der Stadt Basel vom 12. November 1985 ist aufgehoben.
+Schlussbestimmung
+Diese Verordnung ist zu publizieren; sie tritt am 1. Januar 2026 in Kraft. Auf den gleichen Zeitpunkt wird die Verordnung über Abfallsammlungen in der Stadt Basel vom 11. Mai 1993 aufgehoben.

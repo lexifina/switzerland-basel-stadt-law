@@ -1,6 +1,6 @@
-Abfallverordnung | Abfallbeseitigung
+Abfallbeseitigung
 # Abfallverordnung
-Vom 15. Dezember 1992
+Vom 4. November 2025
 Der Regierungsrat des Kantons Basel-Stadt,
-gestützt auf Art. 36 des Bundesgesetzes vom 7. Oktober 1983 über den Umweltschutz, Art. 46 der Technischen Verordnung über Abfälle (TVA) vom 10. Dezember 1990, Art. 41 der Verordnung über den Verkehr mit Sonderabfällen (VVS) vom 12. November 1986 und § 42 des Umweltschutzgesetzes Basel-Stadt (USG BS) vom 13. März 1991,
+gestützt auf das Bundesgesetz über den Umweltschutz (USG) vom 7. Oktober 1983, die Verordnung über die Vermeidung und Verwertung von Abfällen (VVEA) vom 4. Dezember 2015, die Verordnung über den Verkehr mit Abfällen (VeVA) vom 22. Juni 2005, das Umweltschutzgesetz Basel-Stadt (USG BS) vom 13. März 1991, unter Verweis auf seine Erläuterungen Nr. 251678,
 beschliesst:
