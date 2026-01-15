@@ -1,4 +1,4 @@
-Denkmalverzeichnis | Denkmalschutz / Archäologische Forschung
+Denkmalschutz / Archäologische Forschung
 # Denkmalverzeichnis
 Vom 23. Juni 1981
 Der Regierungsrat des Kantons Basel-Stadt,
