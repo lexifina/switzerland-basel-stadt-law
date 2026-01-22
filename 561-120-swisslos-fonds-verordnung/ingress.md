@@ -1,4 +1,4 @@
-Swisslos-Fonds: Verordnung | Lotterien / Kollekten
+Lotterien / Kollekten
 # Verordnung über die Verwendung von Geldern aus dem Swisslos-Fonds
 (Swisslos-Fonds-Verordnung)
 Vom 19. August 2014
