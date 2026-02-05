@@ -1,4 +1,4 @@
-Bau- und Planungsverordnung | Hochbauten
+Hochbauten
 # Bau- und Planungsverordnung
 (BPV)
 Vom 19. Dezember 2000

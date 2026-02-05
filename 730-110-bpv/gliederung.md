@@ -47,7 +47,7 @@
 ###### (5.A.II.)2. Vereinfachtes Bewilligungsverfahren
 ###### (5.A.II.)3. Generelles Baubegehren
 ##### (5.A.)III. Zuständigkeit
-###### (5.A.III.)1. Bauinspektorat
+###### (5.A.III.)1. Bau- und Gastgewerbeinspektorat
 ###### (5.A.III.)2. Abweichungen
 ##### (A.)IV. Verfahrenskoordination
 ###### (A.IV.)1. Koordinationspflicht
@@ -82,7 +82,7 @@
 ###### (5.B.I.)3. Anzeigen
 ##### (5.B.)II. Abnahme und Freigabe
 ###### (5.B.II.)1. Abnahmen
-###### (5.B.II.1.)a) Durch das Bauinspektorat
+###### (5.B.II.1.)a) Durch das Bau- und Gastgewerbeinspektorat
 ###### (5.B.II.1.)b) Durch mitwirkende Behörden
 ###### (5.B.II.1.)c) Ausnahmen
 ###### (5.B.II.)2. Fristen und Mängelbehebung
