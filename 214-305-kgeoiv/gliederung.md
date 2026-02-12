@@ -3,4 +3,4 @@
 ## C. Nutzung
 ## D. Gebühren
 ## E. Organisation
-## F. Übergangsbestimmungen
+## F. …

@@ -1,4 +1,4 @@
-Geoinformationsverordnung | Sachenrecht: Spezielle Erlasse
+Sachenrecht: Spezielle Erlasse
 # Geoinformationsverordnung
 (KGeoIV)
 Vom 7. August 2012

@@ -1,4 +1,4 @@
-Öffentlich-rechtliche Eigentumsbeschränkungen: Verordnung | Sachenrecht: Spezielle Erlasse
+Sachenrecht: Spezielle Erlasse
 # Kantonale Verordnung über den Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen
 (KÖREBKV)
 Vom 22. Mai 2018
