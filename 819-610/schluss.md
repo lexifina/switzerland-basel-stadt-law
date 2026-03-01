@@ -1,0 +1,2 @@
+Schlussbestimmung
+Diese Verodnung ist zu publizieren; sie tritt am 1. März 2026 in Kraft.
