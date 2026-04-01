@@ -1,4 +1,4 @@
-Emissionsbegrenzungen für stationäre Anlagen: Massnahmenverordnung | Lufthygiene
+Lufthygiene
 # Verordnung über die Verschärfung von Emissionsbegrenzungen für stationäre Anlagen
 (Massnahmenverordnung)
 Vom 14. August 1990
