@@ -7,3 +7,4 @@ b) Massnahmen zum Schutz vor Wohnungslosigkeit einleiten und finanzieren;
 c) Vermieterschaften bei Problemen mit der Mieterschaft beraten;
 d) bei Konflikten zwischen Vermieter- und Mieterschaft Vermittlung und Mediation anbieten;
 e) niederschwellige Wohnbegleitungen in Liegenschaften einrichten und finanzieren.
+IV. Massnahmen im Hinblick auf private Investitionen

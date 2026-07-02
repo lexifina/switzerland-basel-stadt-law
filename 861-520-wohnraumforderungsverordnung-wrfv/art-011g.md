@@ -1,0 +1,4 @@
+# § 11g Vermietungskriterien, angemessene Berücksichtigung Mieterinnen und Mieter mit geringen Einkommen und Vermögen (§ 6d Abs. 1 lit. a WRFG)
+1 Als Mieterin oder Mieter mit geringem Einkommen und Vermögen gilt, wer Anspruch auf eine Prämienverbilligung gemäss § 17 des Gesetzes über die Krankenversicherung im Kanton Basel-Stadt (GKV) vom 15.November 1989 hat.
+2 Dieses Mietersegment ist angemessen berücksichtigt, wenn der Anteil der Bewohnerinnen und Bewohner des dauerhaft gemeinnützig vermieteten Teils einer Liegenschaft, die Anspruch auf eine Prämienverbilligung haben, mindestens der statistischen Quote von Einwohnerinnen und Einwohnern des Kantons entspricht, die eine Prämienverbilligung beziehen.
+3 Ein geringes Einkommen und Vermögen kann namentlich mit einer im Bewerbungsverfahren eingereichten Bescheinigung über den Bezug von Prämienverbilligungen nachgewiesen werden.

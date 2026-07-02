@@ -1,0 +1,3 @@
+# § 11j Kontrolle der Einhaltung der Vermietungsvorgaben (§ 6e Abs. 1 und 4 WRFG)
+1 Kontrollen der Einhaltung der Vermietungskriterien sowie der Nettomietzinsvorgaben erfolgen mit Stichproben und bei Verdacht auf Verstösse.
+2 Zudem wird der Anteil der Bezügerinnen und Bezüger von Prämienverbilligungen pro dauerhaft gemeinnützig vermieteter Liegenschaft respektive des dauerhaft gemeinnützig vermieteten Teils einer Liegenschaft vom Statistischen Amt des Kantons Basel-Stadt für jedes Kalenderjahr ermittelt und der für den Vollzug zuständigen Behörde mitgeteilt. Fällt dieser Anteil unter die statistische Quote von Prämienverbilligungsbezügerinnen und -bezügern im Kanton, informiert die zuständige Behörde die Eigentümerschaft.
