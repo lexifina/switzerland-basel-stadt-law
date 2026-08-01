@@ -4,6 +4,8 @@
 ### 2. Schulleitungen
 ### 3. Schulräte
 ## II. Betrieb der Gemeindeschulen
+### (II)1. Unterricht
+### (II)2. Tagesstrukturen
 ## III. Besondere Bestimmungen zum Arbeitsverhältnis im Schulbereich
 ### (III.)1. Personalrechtliche Regelungen
 ### (III.)2. Besondere personalrechtliche Regelungen für die Lehrpersonen
