@@ -1,0 +1,6 @@
+# § 39a Beschlussfassung auf schriftlichem Weg
+1 Die Protokollierung von Beschlüssen, die auf schriftlichem Weg gefasst werden, muss in Anwesenheit der vorgangsleitenden Person erfolgen.
+2 Die Personalien und die verfahrensrechtliche Zuständigkeit der vorgangsleitenden Person sind zu überprüfen und in der Urkunde anzugeben.
+3 Die Notarin oder der Notar nimmt von der vorgangsleitenden Person die erforderlichen Erklärungen über den Ablauf der Beschlussfassung und das Abstimmungsresultat entgegen und hält diese in der Urkunde fest.
+4 Bestehen begründete Zweifel an der Wahrheit der von der vorgangsleitenden Person und ihren Hilfspersonen abgegebenen Erklärungen zu rechtlich relevanten Belangen des Verfahrens, so ist weiterer Aufschluss zu verlangen oder die Beurkundung abzulehnen.
+5 Die Notarin oder der Notar hält den Ablauf in geeigneter Weise fest und erstellt gleichzeitig oder zu einem späteren Zeitpunkt das Protokoll in öffentlicher Urkunde. Ersetzt dieses das vom Bundesrecht vorgeschriebene Versammlungsprotokoll, bleiben die bundesrechtlichen Protokollierungsvorschriften vorbehalten. Unterschriften Dritter holt die Notarin oder der Notar ein, bevor sie oder er selbst unterschreibt.
