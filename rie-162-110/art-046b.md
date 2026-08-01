@@ -5,4 +5,4 @@
 4 Der Urlaub kann am Stück oder tageweise bezogen werden.
 5 Die Anstellungsinstanz und die bzw. der Vorgesetzte sind unverzüglich über die Modalitäten des Urlaubsbezugs sowie über Änderungen zu informieren.
 6 Die Ferien dürfen nicht gekürzt werden, wenn eine Mitarbeiterin oder ein Mitarbeiter einen Betreuungsurlaub bezieht.
-7 Solange der Anspruch auf Betreuungsurlaub besteht, darf die Arbeitgeberin das Arbeitsverhältnis nicht kündigen, längstens aber während sechs Monaten ab dem Tag, an dem die Rahmenfrist zu laufen beginnt.
+7 …

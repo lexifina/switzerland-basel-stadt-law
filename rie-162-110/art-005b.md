@@ -3,3 +3,4 @@
 2 Die Arbeitgeberin sorgt mit geeigneten Informations-, Schulungs- und Präventionsmassnahmen für ein Arbeitsklima, das Diskriminierungen, Mobbing und sexuelle Belästigungen am Arbeitsplatz nicht aufkommen lässt.
 3 Führungsverantwortliche sind in ihrem Zuständigkeitsbereich für eine diskriminierungs- und belästigungsfreie Arbeitsatmosphäre verantwortlich.
 4 Die Verwaltungsleiterin oder der Verwaltungsleiter regelt in Richtlinien den Schutz der persönlichen Integrität und das interne Verfahren bei Vorfällen im Zusammenhang mit Mobbing oder sexueller Belästigung.
+II. Anstellung, Stellenwechsel und Beförderung
