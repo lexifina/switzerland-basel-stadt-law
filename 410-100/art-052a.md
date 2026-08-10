@@ -5,3 +5,4 @@ b) für schulisch organisierte Grundbildungen, sofern die Lehrbetriebe nicht gen
 c) für die Bildungsgänge auf Niveau höhere Fachschule;
 d) für die Weiterbildungsangebote der Schulen der beruflichen Grundbildung und der höheren Berufsbildung.
 2 Die zur Verfügung stehenden Plätze werden aufgrund eines Eignungsverfahrens zugeteilt.
+(I.) 3. Die Universität

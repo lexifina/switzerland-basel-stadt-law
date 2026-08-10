@@ -10,3 +10,4 @@ e) die Trägerschaft arbeitet mit den Schulen und den staatlichen Stellen zusamm
 4 Die Bewilligung wird für längstens vier Jahre erteilt und kann mit Auflagen und Bedingungen verbunden werden.
 5 Sie kann entzogen werden, wenn die Voraussetzungen für die Bewilligung oder die Auflagen und Bedingungen nicht erfüllt werden.
 6 Die Volksschulleitung bestimmt eine Aufsichts- und Kontaktperson für alle bewilligten Trägerschaften für HSK-Unterricht. Die Trägerschaft bezeichnet eine Koordinatorin oder einen Koordinator.
+VIIter. Privatunterricht

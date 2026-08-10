@@ -5,3 +5,6 @@
 4 Die Schülerinnen und Schüler erfüllen ihre Pflichten und beteiligen sich aktiv am Schulbetrieb.
 5 Die Schulleitung kann mit den Schülerinnen und Schülern und den Erziehungsberechtigten Vereinbarungen zur Erreichung gemeinsamer Bildungs- und Erziehungsziele abschliessen.
 6 Der Regierungsrat regelt die Einzelheiten, insbesondere in Bezug auf die Rechte und Pflichten der Schülerinnen und Schüler.
+IV. Volksschulleitung, Leitung Mittelschulen und Berufsbildung, Schulleitungen und Lehr- und Fachpersonen
+(IV.) 1. Voraussetzungen der Anstellung, Anstellungsbehörden und Anstellungsverfahren
+1. Allgemeines
