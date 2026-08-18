@@ -3,3 +3,4 @@
 2 Bei Überschreitung der bewilligten Fahrtenzahl im ersten Betriebsjahr kann auf die Erhebung der Abgaben vorläufig verzichtet werden. Der Verzicht wird endgültig mit Einhaltung der bewilligten Fahrtenzahl im zweiten Betriebsjahr. Bei Überschreitung der bewilligten Fahrtenzahl auch im zweiten Betriebsjahr werden die Abgaben für beide Überschreitungen erhoben.
 3 Die für die Überschreitung der bewilligten Anzahl Fahrten zu leistenden Abgaben sind öffentlichrechtliche Grundlasten. Die Abgabepflicht wird im Grundbuch angemerkt, wenn die Abgabeverfügung rechtskräftig geworden ist.
 4 Bei fehlender Anmerkung erlischt die Abgabepflicht, wenn das Grundstück nach sechs Monaten die Hand ändert.
+3.VII. Kennzeichnung der Gebäude

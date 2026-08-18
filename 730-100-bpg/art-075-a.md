@@ -5,3 +5,4 @@
 a) das nutzungsspezifische Verkehrspotenzial pro Parkplatz;
 b) die Strassennetzkapazität;
 c) die Lärmbelastung.
+3.VI.7b) Berichterstattung
