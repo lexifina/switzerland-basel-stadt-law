@@ -1,0 +1,13 @@
+# Reglement über die Mitwirkung von Jugendlichen
+
+Mitwirkungsreglement · 2 versions, from 2012-02-26 (latest in force: 2018-11-01) · <https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BeE%20153.500>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| § 1 | [art-001.md](art-001.md) | 1 | 2018-11-01 |
+| § 2 | [art-002.md](art-002.md) | 1 | 2018-11-01 |
+| § 3 | [art-003.md](art-003.md) | 1 | 2018-11-01 |
+| § 4 | [art-004.md](art-004.md) | 1 | 2018-11-01 |
+| § 5 | [art-005.md](art-005.md) | 1 | 2018-11-01 |
+| Titel und Ingress | [ingress.md](ingress.md) | 1 | 2018-11-01 |
+| Schlussformel | [schluss.md](schluss.md) | 1 | 2018-11-01 |

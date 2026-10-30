@@ -1,0 +1,11 @@
+{
+  "path": "ch-bs",
+  "code": "CH-BS",
+  "name": "Basel-Stadt",
+  "level": "canton",
+  "parent": "ch",
+  "repo": "https://github.com/lexifina/switzerland-basel-stadt-law",
+  "build": "built: constitution, cantonal laws and Verordnungen (574 acts, 1575 versions) from the SG",
+  "language": "de",
+  "sources": 1
+}
