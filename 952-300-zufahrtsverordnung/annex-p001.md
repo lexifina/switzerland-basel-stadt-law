@@ -14,4 +14,7 @@ Anhang 11)
  
  
  
-1) Fassung vom 27. Juni 2023, in Kraft seit 1. Juli 2023 (KB 1. 7.2023)
+ 
+ 
+ 
+1) Fassung vom 20.10.2026, in Kraft seit 3. November 2026 (KB 24.10.2026)

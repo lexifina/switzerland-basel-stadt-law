@@ -3,8 +3,8 @@ Anhang 2  952.300
  
  
 5 
-Streitgasse 
- 
-Theatergässlein 
- 
+Steinenvorstadt
+(zwischen Am Birsigbogen und Barfüsserplatz)
+Streitgasse
+Theatergässlein
 Weisse Gasse
