@@ -4,6 +4,9 @@ FWGeV · 4 versions, from 2013-09-08 (latest in force: 2026-09-01) · <https://w
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
+| Anhang PDF, Seite 1 | [annex-p001.md](annex-p001.md) | 1 | 2026-09-01 |
+| Anhang PDF, Seite 2 | [annex-p002.md](annex-p002.md) | 1 | 2026-09-01 |
+| Anhang PDF, Seite 3 | [annex-p003.md](annex-p003.md) | 1 | 2026-09-01 |
 | § 1 | [art-001.md](art-001.md) | 1 | 2026-09-01 |
 | § 2 | [art-002.md](art-002.md) | 2 | 2026-09-01 |
 | § 3 | [art-003.md](art-003.md) | 1 | 2026-09-01 |

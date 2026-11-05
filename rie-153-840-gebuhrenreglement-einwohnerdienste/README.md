@@ -4,6 +4,7 @@ Gebührenreglement Einwohnerdienste · 2 versions, from 1994-11-13 (latest in fo
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
+| Anhang PDF, Seite 1 | [annex-p001.md](annex-p001.md) | 1 | 2025-01-01 |
 | § 1 | [art-001.md](art-001.md) | 1 | 2025-01-01 |
 | § 2 | [art-002.md](art-002.md) | 1 | 2025-01-01 |
 | § 3 | [art-003.md](art-003.md) | 1 | 2025-01-01 |

@@ -8,7 +8,7 @@ The text is in German, the canton's official language, exactly as the canton pub
 
 ## What this repository holds
 
-574 acts with 1575 versions so far: the cantonal constitution, the cantonal laws (Gesetze) in force and 446 Verordnungen and Reglemente in force, in the order of the systematic collection, added in parts. Other decrees and decisions, intercantonal agreements and repealed acts are not included yet.
+643 acts with 1,639 versions in force on 5 November 2026 and 5 future versions: the cantonal constitution, cantonal laws, ordinances, regulations and other standing rules in the systematic collection, added in parts. Other decrees and decisions, intercantonal agreements and repealed acts are not included yet.
 
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
@@ -587,9 +587,79 @@ The text is in German, the canton's official language, exactly as the canton pub
 | `rie-912-510-fischereireglement/` | Reglement über die Fischerei in der Gemeinde Riehen (SG RiE 912.510) | 2 | as enacted, then each consolidated version: 17 April 1994 to 7 March 2019 |
 | `rie-980-110/` | Reglement für die Vergabekommission Entwicklungszusammenarbeit (SG RiE 980.110) | 1 | as enacted, 31 January 2022 |
 
+| `152-100-go/` | Gesetz über die Geschäftsordnung des Grossen Rates (SG 152.100) | 1 | current text, oldest version represented, 2025-11-01 |
+| `152-110-ab/` | Ausführungsbestimmungen zum Gesetz über die Geschäftsordnung des Grossen Rates (SG 152.110) | 1 | current text, oldest version represented, 2025-12-18 |
+| `212-910/` | Ordnung über die Stiftungsaufsicht (SG 212.910) | 1 | current text, oldest version represented, 2023-01-01 |
+| `257-100-eg-stpo/` | Gesetz über die Einführung der Schweizerischen Strafprozessordnung (SG 257.100) | 1 | current text, oldest version represented, 2020-07-01 |
+| `257-500-eg-jstpo/` | Gesetz über die Einführung der Schweizerischen Jugendstrafprozessordnung (SG 257.500) | 1 | current text, oldest version represented, 2016-07-01 |
+| `323-100-psychiatriegesetz/` | Gesetz über Behandlung und Einweisung psychisch kranker Personen (SG 323.100) | 1 | current text, oldest version represented, 2021-01-01 |
+| `410-200/` | Ordnung für die Festlegung und Veränderung der Anzahl Unterrichtslektionen für die vom Kanton geführten Schulen (SG 410.200) | 1 | current text, oldest version represented, 2009-08-10 |
+| `410-300/` | Ordnung über die Überschreitung der gesetzlichen Klassengrössen (SG 410.300) | 1 | current text, oldest version represented, 1978-10-25 |
+| `410-500/` | Ordnung für den Religionsunterricht (SG 410.500) | 1 | current text, oldest version represented, 2012-08-13 |
+| `411-380/` | Ordnung für die Schulkonferenzen (SG 411.380) | 1 | current text, oldest version represented, 2009-08-10 |
+| `411-400/` | Ordnung für die Lehrpersonen (SG 411.400) | 1 | current text, oldest version represented, 2014-08-18 |
+| `411-450/` | Ordnung über Auftrag und Arbeitszeit der Lehrpersonen (SG 411.450) | 1 | current text, oldest version represented, 2009-08-10 |
+| `414-300/` | Ordnung für das Verfahren bei der Beschaffung von Lehrmitteln (SG 414.300) | 1 | current text, oldest version represented, 2009-08-10 |
+| `414-700-benutzungsordnung-pds/` | Ordnung betreffend die Benutzung der Pädagogischen Dokumentationsstelle des Kantons Basel-Stadt (SG 414.700) | 1 | current text, oldest version represented, 2008-08-01 |
+| `414-800/` | Ordnung für die Schulbibliotheken (SG 414.800) | 1 | current text, oldest version represented, 2009-08-10 |
+| `415-170/` | Richtlinie betreffend die Tätigkeit und Organisation des Jungen Rates (SG 415.170) | 1 | current text, oldest version represented, 2018-02-08 |
+| `419-901-anerkennungsverordnung-inland-avo-inland/` | Verordnung der SDK über die Anerkennung kantonaler Ausbildungsabschlüsse im Gesundheitswesen in der Schweiz (SG 419.901) | 1 | current text, oldest version represented, 1999-07-01 |
+| `440-110-universitatsstatut/` | Statut der Universität Basel (SG 440.110) | 1 | current text, oldest version represented, 2025-06-09 |
+| `494-400-amerbach-preis/` | Ordnung für den Preis der Universität Basel (SG 494.400) | 1 | current text, oldest version represented, 1961-04-01 |
+| `494-500/` | Ordnung für die Verleihung des Wissenschaftspreises der Stadt Basel (SG 494.500) | 1 | current text, oldest version represented, 2007-05-27 |
+| `497-150/` | Richtlinien der Kommission für Denkmalsubventionen (SG 497.150) | 1 | current text, oldest version represented, 2018-11-15 |
+| `724-115-anorv/` | Ausführungsbestimmungen zur Verordnung zum Gesetz über die Nutzung des öffentlichen Raumes (SG 724.115) | 1 | current text, oldest version represented, 2024-06-10 |
+| `730-115-abpv/` | Ausführungsbestimmungen zur Bau- und Planungsverordnung (SG 730.115) | 1 | current text, oldest version represented, 2026-06-01 |
+| `772-380-ab-iwb-datenbearbeitung/` | Ausführungsbestimmungen von IWB Industrielle Werke Basel zur Datenbearbeitung mittels intelligenter Messsysteme (SG 772.380) | 1 | current text, oldest version represented, 2021-06-01 |
+| `772-400/` | Ausführungsbestimmungen von IWB Industrielle Werke Basel für Leistungen im Bereich Elektrizität (SG 772.400) | 1 | current text, oldest version represented, 2026-01-01 |
+| `772-500/` | Ausführungsbestimmungen von IWB Industrielle Werke Basel betreffend die Abgabe von Gas (SG 772.500) | 1 | current text, oldest version represented, 2026-01-01 |
+| `772-600/` | Ausführungsbestimmungen von IWB Industrielle Werke Basel betreffend die Abgabe von Fernwärme (SG 772.600) | 1 | current text, oldest version represented, 2024-04-01 |
+| `772-800/` | Ausführungsbestimmungen von IWB Industrielle Werke Basel betreffend die Abgabe von Trinkwasser (SG 772.800) | 1 | current text, oldest version represented, 2024-04-01 |
+| `785-150/` | Richtlinien für die Verwirklichung des Konzeptes über die Abwasserreinigung (SG 785.150) | 1 | current text, oldest version represented, 1975-06-25 |
+| `833-110/` | Ordnung über die berufliche Vorsorge (SG 833.110) | 1 | current text, oldest version represented, 2025-07-01 |
+| `861-626-richtlinien-mietzinsgestaltung/` | Richtlinien zur Mietzinsgestaltung der Stiftung für preisgünstigen Wohnraum Basel-Stadt (SG 861.626) | 1 | current text, oldest version represented, 2025-10-02 |
+| `953-940/` | Ausführungsbestimmungen zur Vereinbarung über die Beitragsleistung an Fahrten von mobilitätseingeschränkten Personen (SG 953.940) | 1 | current text, oldest version represented, 2018-03-01 |
+| `bab-132-100/` | Ordnung betreffend die politischen Rechte in der Bürgergemeinde der Stadt Basel (SG BaB 132.100) | 1 | current text, oldest version represented, 2022-10-01 |
+| `bab-152-110/` | Ausführungsbestimmungen zur Geschäftsordnung des Bürgergemeinderates der Stadt Basel (SG BaB 152.110) | 1 | current text, oldest version represented, 2026-01-01 |
+| `bab-153-110/` | Ausführungsbestimmungen zur Geschäftsordnung des Bürgerrates der Stadt Basel (SG BaB 153.110) | 1 | current text, oldest version represented, 2026-01-01 |
+| `bab-162-100-anstellungsordnung-ao/` | Ordnung betreffend die Anstellungsverhältnisse bei der Bürgergemeinde der Stadt Basel (SG BaB 162.100) | 1 | current text, oldest version represented, 2023-01-01 |
+| `bab-164-100-lohnordnung/` | Ordnung betreffend Entlöhnung der Mitarbeiterinnen und Mitarbeiter der Bürgergemeinde der Stadt Basel (SG BaB 164.100) | 1 | current text, oldest version represented, 2025-01-01 |
+| `beb-132-100/` | Ordnung über Wahlen und Abstimmungen der Bürgergemeinde Bettingen (SG BeB 132.100) | 1 | current text, oldest version represented, 2024-06-10 |
+| `beb-153-860/` | Ordnung über die Entschädigung für den Bürgerratspräsidenten, die Mitglieder des Bürgerrates, den Schreiber und den Kassier (SG BeB 153.860) | 1 | current text, oldest version represented, 1995-07-01 |
+| `beb-869-100/` | Statut des Landpfrundhauses Riehen/Bettingen (SG BeB 869.100) | 1 | current text, oldest version represented, 2008-01-01 |
+| `bee-111-200-grpk/` | Ordnung für die Geschäfts- und Rechnungsprüfungskommission (SG BeE 111.200) | 1 | current text, oldest version represented, 2023-05-01 |
+| `bee-132-100/` | Ordnung über Wahlen und Abstimmungen der Einwohnergemeinde Bettingen (SG BeE 132.100) | 1 | current text, oldest version represented, 2026-05-11 |
+| `bee-153-860-entschadigungsordnung-bettingen/` | Ordnung betreffend die Entschädigung für die Mitglieder des Gemeinderates Bettingen (SG BeE 153.860) | 1 | current text, oldest version represented, 2021-01-01 |
+| `bee-162-100-personalordnung/` | Ordnung über die Arbeitsverhältnisse und die Entlöhnung der Mitarbeiterinnen und Mitarbeiter der Gemeinde Bettingen (SG BeE 162.100) | 1 | current text, oldest version represented, 2017-05-01 |
+| `bee-328-600-zahnpflegeordnung/` | Ordnung betreffend die Zahnpflege bei Kindern (SG BeE 328.600) | 1 | current text, oldest version represented, 2017-12-18 |
+| `bee-390-880-bestattungsordnung/` | Ordnung über die Bestattungen in der Gemeinde Bettingen (SG BeE 390.880) | 1 | current text, oldest version represented, 2023-02-20 |
+| `bee-491-100/` | Ordnung über die Ausrichtung von Ausbildungsbeiträgen aus dem Stipendienfonds der Gemeinde Bettingen (SG BeE 491.100) | 1 | current text, oldest version represented, 2017-05-01 |
+| `bee-750-100-strassen-und-kanalisationsordnung/` | Ordnung betreffend Strassen- und Kanalisationsbeiträge sowie Gebühren für die Ableitung von Abwasser (SG BeE 750.100) | 1 | current text, oldest version represented, 2018-02-08 |
+| `bee-786-100-abfallordnung/` | Ordnung der Abfallbehandlung in der Gemeinde Bettingen (SG BeE 786.100) | 1 | current text, oldest version represented, 2021-07-08 |
+| `bee-789-300/` | Ordnung über den Natur- und Landschaftsschutz und die Förderung der Biodiversität und Landschaftsqualität (SG BeE 789.300) | 1 | current text, oldest version represented, 2017-12-18 |
+| `bee-970-120/` | Ordnung über das Kommunikationsnetz (K-Netz) der Gemeinde Bettingen (SG BeE 970.120) | 1 | current text, oldest version represented, 2002-10-01 |
+| `rib-869-100/` | Statut des Landpfrundhauses Riehen/Bettingen (SG RiB 869.100) | 1 | current text, oldest version represented, 2008-01-01 |
+| `rie-132-100-ordnung-politische-rechte-opr/` | Ordnung der politischen Rechte in der Einwohnergemeinde Riehen (SG RiE 132.100) | 1 | current text, oldest version represented, 2025-03-01 |
+| `rie-153-150/` | Ordnung über die Entschädigung der Mitglieder des Gemeinderats der Einwohnergemeinde Riehen (SG RiE 153.150) | 1 | current text, oldest version represented, 2015-05-01 |
+| `rie-164-100-lohnordnung/` | Ordnung über das Gehalt der Mitarbeiterinnen und Mitarbeiter der Gemeinde Riehen (SG RiE 164.100) | 1 | current text, oldest version represented, 2015-08-01 |
+| `rie-328-600-zahpflegeordnung/` | Ordnung betreffend die Zahnpflege bei Kindern (SG RiE 328.600) | 1 | current text, oldest version represented, 2013-06-01 |
+| `rie-332-400/` | Ordnung für das Gesundheitszentrum Riehen (SG RiE 332.400) | 1 | current text, oldest version represented, 2010-01-01 |
+| `rie-411-600-schulordnung/` | Ordnung für die Schulen der Gemeinden Bettingen und Riehen (SG RiE 411.600) | 1 | current text, oldest version represented, 2025-06-12 |
+| `rie-497-200-bausanierungsordnung/` | Ordnung über die Gewährung von Beiträgen zur Erhaltung wertvoller Bausubstanz (SG RiE 497.200) | 1 | current text, oldest version represented, 1996-11-26 |
+| `rie-681-300/` | Ordnung für die Benützung von Lokalitäten im Verwaltungsgebäude durch Vereine, Gesellschaften und Privatpersonen (SG RiE 681.300) | 1 | current text, oldest version represented, 1980-01-21 |
+| `rie-724-100-allmendordnung/` | Ordnung über die Inanspruchnahme der Allmend (SG RiE 724.100) | 1 | current text, oldest version represented, 2004-05-01 |
+| `rie-725-100/` | Ordnung über die Parkraumbewirtschaftung (SG RiE 725.100) | 1 | current text, oldest version represented, 2015-06-11 |
+| `rie-730-500/` | Ordnung zur Verwendung der Mehrwertabgabe (SG RiE 730.500) | 1 | current text, oldest version represented, 2026-03-12 |
+| `rie-730-700/` | Ordnung über die Reinigung privater Liegenschaften bei Verschmierungen (SG RiE 730.700) | 1 | current text, oldest version represented, 2013-01-01 |
+| `rie-750-100-strassen-und-kanalisationsordnung/` | Ordnung betreffend Strassen- und Kanalisationsbeiträge sowie Gebühren für die Ableitung von Abwasser (SG RiE 750.100) | 1 | current text, oldest version represented, 2024-01-01 |
+| `rie-772-150/` | Ordnung zum Energiesparfonds für Gemeindeliegenschaften (SG RiE 772.150) | 1 | current text, oldest version represented, 2023-01-01 |
+| `rie-786-100-abfallordnung/` | Ordnung der Abfallbehandlung in der Gemeinde Riehen (SG RiE 786.100) | 1 | current text, oldest version represented, 2020-11-12 |
+| `rie-869-100/` | Statut des Landpfrundhauses Riehen/Bettingen (SG RiE 869.100) | 1 | current text, oldest version represented, 2008-01-01 |
+| `rie-970-110-ordnung-k-netz-riehen/` | Ordnung betreffend das Kommunikationsnetz der Gemeinde Riehen (SG RiE 970.110) | 1 | current text, oldest version represented, 2024-01-01 |
+
 ## Source
 
-The SG (systematic collection) of the canton, published by the canton at <https://www.gesetzessammlung.bs.ch/>. For each act it gives every consolidated version it holds, with the day each version took effect, and a change table listing each amendment: its decision date, the day it took effect, the provision it touched and its entry in the chronological collection (CG). Annexes the collection publishes only as separate PDF files are not included.
+The SG (systematic collection) of the canton, published by the canton at <https://www.gesetzessammlung.bs.ch/>. For each act it gives every consolidated version it holds, with the day each version took effect, and a change table listing each amendment: its decision date, the day it took effect, the provision it touched and its entry in the chronological collection (CG). Textual pages of official annex PDFs are included for the acts added in this rework and for 67 previously published acts. Embedded images in those PDFs await the separate image restoration.
 
 ## Dates
 

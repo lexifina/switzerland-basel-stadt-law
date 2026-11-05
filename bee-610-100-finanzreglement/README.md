@@ -4,6 +4,7 @@ Finanzreglement · 2 versions, from 2002-01-01 (latest in force: 2019-01-01) · 
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
+| Anhang PDF, Seite 1 | [annex-p001.md](annex-p001.md) | 1 | 2019-01-01 |
 | § 1 | [art-001.md](art-001.md) | 1 | 2019-01-01 |
 | § 2 | [art-002.md](art-002.md) | 1 | 2019-01-01 |
 | § 3 | [art-003.md](art-003.md) | 1 | 2019-01-01 |

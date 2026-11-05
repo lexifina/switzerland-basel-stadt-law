@@ -1,12 +1,13 @@
 # How this repository was made (Basel-Stadt)
 
-This file is written by the build on 2026-10-30, the day the source data was retrieved.
+This file is written by the build on 2026-11-05, the day the source data was retrieved.
 
 ## Sources
 
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | Kanton Basel-Stadt: SG (LexWork) | <https://www.gesetzessammlung.bs.ch/> | 2026-10-30 | Laws and decrees are not protected by copyright (Art. 5 para. 1 let. a URG, SR 231.1). |
+| Kanton Basel-Stadt, SG (LexWork) | <https://www.gesetzessammlung.bs.ch/> | 2026-11-05 | Official cantonal law text; Art. 5 para. 1 let. a URG. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -588,20 +589,89 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `rie-912-210` | Reglement über die Jagdpassgebühren | 1 | 1993-09-26 to 1993-09-26 |
 | `rie-912-510-fischereireglement` | Reglement über die Fischerei in der Gemeinde Riehen | 2 | 1994-04-17 to 2019-03-07 |
 | `rie-980-110` | Reglement für die Vergabekommission Entwicklungszusammenarbeit | 1 | 2022-01-31 to 2022-01-31 |
+| `497-150` | Richtlinien der Kommission für Denkmalsubventionen | 1 | 2018-11-15 to 2018-11-15 |
+| `rie-497-200-bausanierungsordnung` | Ordnung über die Gewährung von Beiträgen zur Erhaltung wertvoller Bausubstanz | 1 | 1996-11-26 to 1996-11-26 |
+| `410-200` | Ordnung für die Festlegung und Veränderung der Anzahl Unterrichtslektionen für die vom Kanton geführten Schulen | 1 | 2009-08-10 to 2009-08-10 |
+| `410-300` | Ordnung über die Überschreitung der gesetzlichen Klassengrössen | 1 | 1978-10-25 to 1978-10-25 |
+| `410-500` | Ordnung für den Religionsunterricht | 1 | 2012-08-13 to 2012-08-13 |
+| `rie-724-100-allmendordnung` | Ordnung über die Inanspruchnahme der Allmend | 1 | 2004-05-01 to 2004-05-01 |
+| `rie-725-100` | Ordnung über die Parkraumbewirtschaftung | 1 | 2015-06-11 to 2015-06-11 |
+| `411-380` | Ordnung für die Schulkonferenzen | 1 | 2009-08-10 to 2009-08-10 |
+| `411-400` | Ordnung für die Lehrpersonen | 1 | 2014-08-18 to 2014-08-18 |
+| `411-450` | Ordnung über Auftrag und Arbeitszeit der Lehrpersonen | 1 | 2009-08-10 to 2009-08-10 |
+| `rie-750-100-strassen-und-kanalisationsordnung` | Ordnung betreffend Strassen- und Kanalisationsbeiträge sowie Gebühren für die Ableitung von Abwasser | 1 | 2024-01-01 to 2024-01-01 |
+| `rie-772-150` | Ordnung zum Energiesparfonds für Gemeindeliegenschaften | 1 | 2023-01-01 to 2023-01-01 |
+| `rie-869-100` | Statut des Landpfrundhauses Riehen/Bettingen | 1 | 2008-01-01 to 2008-01-01 |
+| `152-100-go` | Gesetz über die Geschäftsordnung des Grossen Rates | 1 | 2025-11-01 to 2025-11-01 |
+| `152-110-ab` | Ausführungsbestimmungen zum Gesetz über die Geschäftsordnung des Grossen Rates | 1 | 2025-12-18 to 2025-12-18 |
+| `323-100-psychiatriegesetz` | Gesetz über Behandlung und Einweisung psychisch kranker Personen | 1 | 2021-01-01 to 2021-01-01 |
+| `414-300` | Ordnung für das Verfahren bei der Beschaffung von Lehrmitteln | 1 | 2009-08-10 to 2009-08-10 |
+| `414-700-benutzungsordnung-pds` | Ordnung betreffend die Benutzung der Pädagogischen Dokumentationsstelle des Kantons Basel-Stadt | 1 | 2008-08-01 to 2008-08-01 |
+| `414-800` | Ordnung für die Schulbibliotheken | 1 | 2009-08-10 to 2009-08-10 |
+| `953-940` | Ausführungsbestimmungen zur Vereinbarung über die Beitragsleistung an Fahrten von mobilitätseingeschränkten Personen | 1 | 2018-03-01 to 2018-03-01 |
+| `415-170` | Richtlinie betreffend die Tätigkeit und Organisation des Jungen Rates | 1 | 2018-02-08 to 2018-02-08 |
+| `419-901-anerkennungsverordnung-inland-avo-inland` | Verordnung der SDK über die Anerkennung kantonaler Ausbildungsabschlüsse im Gesundheitswesen in der Schweiz | 1 | 1999-07-01 to 1999-07-01 |
+| `724-115-anorv` | Ausführungsbestimmungen zur Verordnung zum Gesetz über die Nutzung des öffentlichen Raumes | 1 | 2024-06-10 to 2024-06-10 |
+| `730-115-abpv` | Ausführungsbestimmungen zur Bau- und Planungsverordnung | 1 | 2026-06-01 to 2026-06-01 |
+| `833-110` | Ordnung über die berufliche Vorsorge | 1 | 2025-07-01 to 2025-07-01 |
+| `rie-786-100-abfallordnung` | Ordnung der Abfallbehandlung in der Gemeinde Riehen | 1 | 2020-11-12 to 2020-11-12 |
+| `beb-869-100` | Statut des Landpfrundhauses Riehen/Bettingen | 1 | 2008-01-01 to 2008-01-01 |
+| `bee-111-200-grpk` | Ordnung für die Geschäfts- und Rechnungsprüfungskommission | 1 | 2023-05-01 to 2023-05-01 |
+| `bab-132-100` | Ordnung betreffend die politischen Rechte in der Bürgergemeinde der Stadt Basel | 1 | 2022-10-01 to 2022-10-01 |
+| `bab-152-110` | Ausführungsbestimmungen zur Geschäftsordnung des Bürgergemeinderates der Stadt Basel | 1 | 2026-01-01 to 2026-01-01 |
+| `bab-153-110` | Ausführungsbestimmungen zur Geschäftsordnung des Bürgerrates der Stadt Basel | 1 | 2026-01-01 to 2026-01-01 |
+| `772-380-ab-iwb-datenbearbeitung` | Ausführungsbestimmungen von IWB Industrielle Werke Basel zur Datenbearbeitung mittels intelligenter Messsysteme | 1 | 2021-06-01 to 2021-06-01 |
+| `772-400` | Ausführungsbestimmungen von IWB Industrielle Werke Basel für Leistungen im Bereich Elektrizität | 1 | 2026-01-01 to 2026-01-01 |
+| `772-500` | Ausführungsbestimmungen von IWB Industrielle Werke Basel betreffend die Abgabe von Gas | 1 | 2026-01-01 to 2026-01-01 |
+| `772-600` | Ausführungsbestimmungen von IWB Industrielle Werke Basel betreffend die Abgabe von Fernwärme | 1 | 2024-04-01 to 2024-04-01 |
+| `772-800` | Ausführungsbestimmungen von IWB Industrielle Werke Basel betreffend die Abgabe von Trinkwasser | 1 | 2024-04-01 to 2024-04-01 |
+| `bab-162-100-anstellungsordnung-ao` | Ordnung betreffend die Anstellungsverhältnisse bei der Bürgergemeinde der Stadt Basel | 1 | 2023-01-01 to 2023-01-01 |
+| `bab-164-100-lohnordnung` | Ordnung betreffend Entlöhnung der Mitarbeiterinnen und Mitarbeiter der Bürgergemeinde der Stadt Basel | 1 | 2025-01-01 to 2025-01-01 |
+| `rie-681-300` | Ordnung für die Benützung von Lokalitäten im Verwaltungsgebäude durch Vereine, Gesellschaften und Privatpersonen | 1 | 1980-01-21 to 1980-01-21 |
+| `beb-132-100` | Ordnung über Wahlen und Abstimmungen der Bürgergemeinde Bettingen | 1 | 2024-06-10 to 2024-06-10 |
+| `rie-730-500` | Ordnung zur Verwendung der Mehrwertabgabe | 1 | 2026-03-12 to 2026-03-12 |
+| `rie-730-700` | Ordnung über die Reinigung privater Liegenschaften bei Verschmierungen | 1 | 2013-01-01 to 2013-01-01 |
+| `beb-153-860` | Ordnung über die Entschädigung für den Bürgerratspräsidenten, die Mitglieder des Bürgerrates, den Schreiber und den Kassier | 1 | 1995-07-01 to 1995-07-01 |
+| `bee-132-100` | Ordnung über Wahlen und Abstimmungen der Einwohnergemeinde Bettingen | 1 | 2026-05-11 to 2026-05-11 |
+| `bee-162-100-personalordnung` | Ordnung über die Arbeitsverhältnisse und die Entlöhnung der Mitarbeiterinnen und Mitarbeiter der Gemeinde Bettingen | 1 | 2017-05-01 to 2017-05-01 |
+| `bee-491-100` | Ordnung über die Ausrichtung von Ausbildungsbeiträgen aus dem Stipendienfonds der Gemeinde Bettingen | 1 | 2017-05-01 to 2017-05-01 |
+| `212-910` | Ordnung über die Stiftungsaufsicht | 1 | 2023-01-01 to 2023-01-01 |
+| `785-150` | Richtlinien für die Verwirklichung des Konzeptes über die Abwasserreinigung | 1 | 1975-06-25 to 1975-06-25 |
+| `bee-970-120` | Ordnung über das Kommunikationsnetz (K-Netz) der Gemeinde Bettingen | 1 | 2002-10-01 to 2002-10-01 |
+| `rib-869-100` | Statut des Landpfrundhauses Riehen/Bettingen | 1 | 2008-01-01 to 2008-01-01 |
+| `rie-132-100-ordnung-politische-rechte-opr` | Ordnung der politischen Rechte in der Einwohnergemeinde Riehen | 1 | 2025-03-01 to 2025-03-01 |
+| `rie-153-150` | Ordnung über die Entschädigung der Mitglieder des Gemeinderats der Einwohnergemeinde Riehen | 1 | 2015-05-01 to 2015-05-01 |
+| `rie-164-100-lohnordnung` | Ordnung über das Gehalt der Mitarbeiterinnen und Mitarbeiter der Gemeinde Riehen | 1 | 2015-08-01 to 2015-08-01 |
+| `bee-153-860-entschadigungsordnung-bettingen` | Ordnung betreffend die Entschädigung für die Mitglieder des Gemeinderates Bettingen | 1 | 2021-01-01 to 2021-01-01 |
+| `257-100-eg-stpo` | Gesetz über die Einführung der Schweizerischen Strafprozessordnung | 1 | 2020-07-01 to 2020-07-01 |
+| `257-500-eg-jstpo` | Gesetz über die Einführung der Schweizerischen Jugendstrafprozessordnung | 1 | 2016-07-01 to 2016-07-01 |
+| `rie-411-600-schulordnung` | Ordnung für die Schulen der Gemeinden Bettingen und Riehen | 1 | 2025-06-12 to 2025-06-12 |
+| `494-400-amerbach-preis` | Ordnung für den Preis der Universität Basel | 1 | 1961-04-01 to 1961-04-01 |
+| `494-500` | Ordnung für die Verleihung des Wissenschaftspreises der Stadt Basel | 1 | 2007-05-27 to 2007-05-27 |
+| `861-626-richtlinien-mietzinsgestaltung` | Richtlinien zur Mietzinsgestaltung der Stiftung für preisgünstigen Wohnraum Basel-Stadt | 1 | 2025-10-02 to 2025-10-02 |
+| `rie-970-110-ordnung-k-netz-riehen` | Ordnung betreffend das Kommunikationsnetz der Gemeinde Riehen | 1 | 2024-01-01 to 2024-01-01 |
+| `440-110-universitatsstatut` | Statut der Universität Basel | 1 | 2025-06-09 to 2025-06-09 |
+| `bee-328-600-zahnpflegeordnung` | Ordnung betreffend die Zahnpflege bei Kindern | 1 | 2017-12-18 to 2017-12-18 |
+| `bee-390-880-bestattungsordnung` | Ordnung über die Bestattungen in der Gemeinde Bettingen | 1 | 2023-02-20 to 2023-02-20 |
+| `rie-328-600-zahpflegeordnung` | Ordnung betreffend die Zahnpflege bei Kindern | 1 | 2013-06-01 to 2013-06-01 |
+| `rie-332-400` | Ordnung für das Gesundheitszentrum Riehen | 1 | 2010-01-01 to 2010-01-01 |
+| `bee-750-100-strassen-und-kanalisationsordnung` | Ordnung betreffend Strassen- und Kanalisationsbeiträge sowie Gebühren für die Ableitung von Abwasser | 1 | 2018-02-08 to 2018-02-08 |
+| `bee-786-100-abfallordnung` | Ordnung der Abfallbehandlung in der Gemeinde Bettingen | 1 | 2021-07-08 to 2021-07-08 |
+| `bee-789-300` | Ordnung über den Natur- und Landschaftsschutz und die Förderung der Biodiversität und Landschaftsqualität | 1 | 2017-12-18 to 2017-12-18 |
 
-The build made 1279 commits:
+The build made 1412 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 574 | first version of an act |
-| 702 | one law on its in-force day |
-| 3 | changes no amendment note explains, credited to the publisher |
+| 643 | first version of an act |
+| 703 | one law on its in-force day |
+| 4 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 4 commits on the branch `zukunft`: laws not yet in force on 2026-10-30.
-- 7 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 4 commits on the branch `zukunft`: laws not yet in force on 2026-11-05.
+- 8 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 1293 laws in the record.
-- 2271 tags.
+- 2341 tags.
 
 ## Dates
 
@@ -613,15 +683,15 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `94fffc5d6057b9977762de1186e6d9448968111697f91e7bd810e810b1785c81` (14288448 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
-- Python 3.12.10; git version 2.46.0.windows.1.
+- Corpus: sha256 `686e88f4580bb02a4c9c9d62f6d34e7c0c41c844941c5d7f784c35ec34d60961` (19270013 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-1575 versions of 574 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
-No second build of this corpus has been compared yet.
+A second build from the same corpus into an empty folder gave identical hashes for all 1396 history commits and 2340 tags (history tip `1d3a2f70865daa4c08a176f63ce24a4b310a3cab`).
 
 ## Decisions made by hand
 
@@ -630,6 +700,20 @@ No second build of this corpus has been compared yet.
 - Section headings are kept together in one file per act (gliederung.md); the title, date and preamble in ingress.md; the signature block in schluss.md. Amendment markers (*) and the "Stand" date are left out.
 - Annexes published only as separate PDF files are not included.
 - An act's first version is credited to its original enactment only when the change table shows no change in force before it; otherwise it is the oldest version available.
+- Added 69 current-text acts from SG; each version uses its stated in-force day and is the oldest version represented.
+- Correction set for textual annex PDFs omitted from published SG acts; embedded images are deferred and inventoried in the job evidence.
+- Correction set for textual annex PDFs omitted from published SG acts; embedded images are deferred and inventoried in the job evidence.
+- Correction set for textual annex PDFs omitted from published SG acts; embedded images are deferred and inventoried in the job evidence.
+- Correction set for textual annex PDFs omitted from published SG acts; embedded images are deferred and inventoried in the job evidence.
+- Correction set for textual annex PDFs omitted from published SG acts; embedded images are deferred and inventoried in the job evidence.
+- Correction set for textual annex PDFs omitted from published SG acts; embedded images are deferred and inventoried in the job evidence.
+- Correction set for textual annex PDFs omitted from published SG acts; embedded images are deferred and inventoried in the job evidence.
+- Correction set for textual annex PDFs omitted from published SG acts; embedded images are deferred and inventoried in the job evidence.
+- Correction set for textual annex PDFs omitted from published SG acts; embedded images are deferred and inventoried in the job evidence.
+- Correction set for textual annex PDFs omitted from published SG acts; embedded images are deferred and inventoried in the job evidence.
+- Correction set for textual annex PDFs omitted from published SG acts; embedded images are deferred and inventoried in the job evidence.
+- Correction set for textual annex PDFs omitted from published SG acts; embedded images are deferred and inventoried in the job evidence.
+- The current 2026-11-03 version uses its own six-page official annex PDF; the valid 2023 annex remains on the 2023 version.
 
 ## What AI did and did not do
 
@@ -641,3 +725,17 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - A model (Claude) wrote the fetch and parse code and chose which acts to include; it wrote no law text. Every word of law comes from the canton's own collection.
+- A model chose the candidate set from verification job 488; law text was parsed deterministically from official SG XHTML.
+- No model wrote law text; PDF text-layer extraction was compared with independent pypdf extraction.
+- No model wrote law text; PDF text-layer extraction was compared with independent pypdf extraction.
+- No model wrote law text; PDF text-layer extraction was compared with independent pypdf extraction.
+- No model wrote law text; PDF text-layer extraction was compared with independent pypdf extraction.
+- No model wrote law text; PDF text-layer extraction was compared with independent pypdf extraction.
+- No model wrote law text; PDF text-layer extraction was compared with independent pypdf extraction.
+- No model wrote law text; PDF text-layer extraction was compared with independent pypdf extraction.
+- No model wrote law text; PDF text-layer extraction was compared with independent pypdf extraction.
+- No model wrote law text; PDF text-layer extraction was compared with independent pypdf extraction.
+- No model wrote law text; PDF text-layer extraction was compared with independent pypdf extraction.
+- No model wrote law text; PDF text-layer extraction was compared with independent pypdf extraction.
+- No model wrote law text; PDF text-layer extraction was compared with independent pypdf extraction.
+- No model wrote law text; official PDF text-layer bytes were extracted unchanged and compared with pypdf.

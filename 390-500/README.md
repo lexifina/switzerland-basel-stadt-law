@@ -4,6 +4,10 @@ SG 390.500 · 5 versions, from 2012-01-29 (latest in force: 2021-04-01) · <http
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
+| Anhang PDF, Seite 1 | [annex-p001.md](annex-p001.md) | 1 | 2021-04-01 |
+| Anhang PDF, Seite 2 | [annex-p002.md](annex-p002.md) | 1 | 2021-04-01 |
+| Anhang PDF, Seite 3 | [annex-p003.md](annex-p003.md) | 1 | 2021-04-01 |
+| Anhang PDF, Seite 4 | [annex-p004.md](annex-p004.md) | 1 | 2021-04-01 |
 | § 1 | [art-001.md](art-001.md) | 1 | 2013-07-01 |
 | § 1a | [art-001a.md](art-001a.md) | 2 | 2021-04-01 |
 | § 1b | [art-001b.md](art-001b.md) | 2 | 2021-04-01 |

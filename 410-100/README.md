@@ -4,6 +4,9 @@ SG 410.100 · 5 versions, from 2020-08-10 (latest in force: 2026-08-10) · <http
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
+| Anhang PDF, Seite 1 | [annex-p001.md](annex-p001.md) | 1 | 2026-08-10 |
+| Anhang PDF, Seite 2 | [annex-p002.md](annex-p002.md) | 1 | 2026-08-10 |
+| Anhang PDF, Seite 3 | [annex-p003.md](annex-p003.md) | 1 | 2026-08-10 |
 | § 1 | [art-001.md](art-001.md) | 1 | 2026-08-10 |
 | § 2 | [art-002.md](art-002.md) | 0 |  |
 | § 2a | [art-002a.md](art-002a.md) | 0 |  |

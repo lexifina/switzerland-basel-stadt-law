@@ -5,7 +5,7 @@
   "level": "canton",
   "parent": "ch",
   "repo": "https://github.com/lexifina/switzerland-basel-stadt-law",
-  "build": "built: constitution, cantonal laws and Verordnungen (574 acts, 1575 versions) from the SG",
+  "build": "built: 643 acts, 1639 versions in force on 2026-11-05, 5 future versions from the SG; verified textual annex PDFs included; five date updates held for labelled correction support",
   "language": "de",
   "sources": 1
 }

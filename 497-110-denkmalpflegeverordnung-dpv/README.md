@@ -4,6 +4,7 @@ Denkmalpflegeverordnung, DPV · 4 versions, from 2010-06-20 (latest in force: 20
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
+| Anhang PDF, Seite 1 | [annex-p001.md](annex-p001.md) | 1 | 2020-07-01 |
 | § 1 | [art-001.md](art-001.md) | 1 | 2017-02-26 |
 | § 2 | [art-002.md](art-002.md) | 1 | 2017-02-26 |
 | § 3 | [art-003.md](art-003.md) | 1 | 2017-02-26 |

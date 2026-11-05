@@ -4,6 +4,7 @@ EG/ELG · 4 versions, from 2012-01-01 (latest in force: 2025-09-01) · <https://
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
+| Anhang PDF, Seite 1 | [annex-p001.md](annex-p001.md) | 1 | 2025-09-01 |
 | § 1 | [art-001.md](art-001.md) | 1 | 2014-01-26 |
 | § 2 | [art-002.md](art-002.md) | 1 | 2025-09-01 |
 | § 3 | [art-003.md](art-003.md) | 0 |  |

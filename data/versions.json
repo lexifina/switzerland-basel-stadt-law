@@ -773,13 +773,13 @@
     },
     {
      "from": "2026-09-01",
-     "units": 48,
+     "units": 53,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/164.100",
      "sha256": "9ed404625ac409e8faa240e93ea947aaab4dc92275430f067ac5c1354f2a800e"
     },
     {
      "from": "2027-01-01",
-     "units": 48,
+     "units": 53,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/164.100/versions/6990",
      "sha256": "c60d2281d59d4081ac5da3d6133a8053005dd897556f3d52d4f39a0881c5637c"
     }
@@ -969,7 +969,7 @@
     },
     {
      "from": "2024-04-01",
-     "units": 318,
+     "units": 320,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/211.100",
      "sha256": "bea7ee1a3f80e2fe3e9fcee4879198e171b1e7645313eb09588e5dd1a1fb1cd6"
     }
@@ -1585,7 +1585,7 @@
     },
     {
      "from": "2026-08-10",
-     "units": 224,
+     "units": 227,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/410.100",
      "sha256": "a2992f961763503e7c84529f0afdcd901dc9e2f3481829d81b2c9c509a018521"
     }
@@ -2283,7 +2283,7 @@
     },
     {
      "from": "2026-01-01",
-     "units": 294,
+     "units": 303,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/640.100",
      "sha256": "d8dd38cfe89d488b3e11b707f6dedbf7231d5220fab63f43a53c58ad10830103"
     }
@@ -2343,7 +2343,7 @@
     },
     {
      "from": "2018-01-01",
-     "units": 10,
+     "units": 13,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/650.500",
      "sha256": "ab8576841d1738efa1f1794f6dcce876db1674059f577f1ae61c42304efa42cc"
     }
@@ -3093,7 +3093,7 @@
     },
     {
      "from": "2025-09-01",
-     "units": 34,
+     "units": 35,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/832.700",
      "sha256": "a09738a830ac47e29c2a654b3b9359d866c53632bee83c1ab94e91abc2114f13"
     }
@@ -3497,7 +3497,7 @@
     },
     {
      "from": "2016-07-01",
-     "units": 8,
+     "units": 12,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/955.200",
      "sha256": "d11a83e63c5f48ca04b8528f903bfcd8920ca626dba73310f4fa72812d7d3d18"
     }
@@ -3647,7 +3647,7 @@
     },
     {
      "from": "2016-07-01",
-     "units": 18,
+     "units": 23,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/123.200",
      "sha256": "7410320fd0b2f9eabf010188acadc41b1340b60d096ef86929e61e5d78c85adb"
     }
@@ -4187,7 +4187,7 @@
     },
     {
      "from": "2016-12-18",
-     "units": 18,
+     "units": 20,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/153.700",
      "sha256": "d7b4e4cb21460405683b9d6ad9cd7ce2e56746ab87f8f9da31b7970ae8711bda"
     }
@@ -5107,7 +5107,7 @@
     },
     {
      "from": "2024-01-01",
-     "units": 17,
+     "units": 19,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/164.410",
      "sha256": "c66dfe9e6c7b64ffbcbc85d604f095365d48f3328f09de51e7c2f664d07cba1f"
     }
@@ -5313,7 +5313,7 @@
    "versions": [
     {
      "from": "2005-06-01",
-     "units": 24,
+     "units": 25,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/169.600",
      "sha256": "6e9102146ea6082f4930dba40409ad2e964cc2742ac87fc1ace5e3a2b92f1315"
     }
@@ -5827,7 +5827,7 @@
     },
     {
      "from": "2024-02-01",
-     "units": 42,
+     "units": 44,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/214.320",
      "sha256": "d6e24c528a5e00d665598a5ca2d74205d8f1a53abd670227fee353fe2e2409d1"
     }
@@ -6029,7 +6029,7 @@
     },
     {
      "from": "2026-03-01",
-     "units": 8,
+     "units": 14,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/257.115",
      "sha256": "96058e099866a2d088f6036f868df3e96c5d12ed1f3160b07553987b5954b95c"
     }
@@ -6381,7 +6381,7 @@
    "versions": [
     {
      "from": "2024-08-01",
-     "units": 25,
+     "units": 26,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/310.125",
      "sha256": "a30ffde82a868f67ce20e16ac7039ade0242b7c8559fbb9939613a5399ba3e4c"
     }
@@ -6427,7 +6427,7 @@
    "versions": [
     {
      "from": "2025-07-01",
-     "units": 11,
+     "units": 12,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/310.420",
      "sha256": "3e9f5132adf7e6fbcfaec7514e7ee5d635669ba54e7213b681273d29f4744a8c"
     }
@@ -6707,7 +6707,7 @@
     },
     {
      "from": "2025-01-01",
-     "units": 7,
+     "units": 13,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/361.200",
      "sha256": "4e93b50705a2b4dabce035332c94993d3644e730220682e1a1cdcff0f9e79597"
     }
@@ -6859,7 +6859,7 @@
    "versions": [
     {
      "from": "2023-04-17",
-     "units": 49,
+     "units": 54,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/390.115",
      "sha256": "94c2d5ac789978c329f80656d40104b338b404cabd2f2cd0eeae14496184b64f"
     }
@@ -6911,7 +6911,7 @@
     },
     {
      "from": "2021-04-01",
-     "units": 15,
+     "units": 19,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/390.500",
      "sha256": "60b92f751b76566ed5fea3f34d0bb71b3889b2942d21d4445824359ec80ad1ac"
     }
@@ -7121,7 +7121,7 @@
     },
     {
      "from": "2026-07-31",
-     "units": 109,
+     "units": 112,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/410.700",
      "sha256": "5674e4e928ac25ed7587f006969df1264844d83c4fe83aa6ab6c15c4a40e3eb8"
     }
@@ -7415,7 +7415,7 @@
     },
     {
      "from": "2024-08-12",
-     "units": 18,
+     "units": 20,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/412.600",
      "sha256": "fb9f8777030fa2199fc2e41119689f69bc579a1b4862a1be8d6a1d2ebe05f761"
     }
@@ -7539,7 +7539,7 @@
     },
     {
      "from": "2026-08-10",
-     "units": 37,
+     "units": 39,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/413.630",
      "sha256": "2a1aba00eed001f9d0ce17482336c3c5100ddc7a0081aa3a41caa3b99641c949"
     }
@@ -7733,7 +7733,7 @@
    "versions": [
     {
      "from": "1998-01-01",
-     "units": 16,
+     "units": 18,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/419.903",
      "sha256": "8c89c3d35944486ab1bfe7139e6814095ca584464840bd0f134afeba5a15b45a"
     }
@@ -8173,7 +8173,7 @@
     },
     {
      "from": "2021-09-02",
-     "units": 23,
+     "units": 24,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/453.100",
      "sha256": "f189148d2f3b6d8ccea1a2d3ab3121277721c9147402aff6dfac2ef45b224853"
     }
@@ -8199,7 +8199,7 @@
     },
     {
      "from": "2021-09-02",
-     "units": 17,
+     "units": 18,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/453.210",
      "sha256": "3cf00bfdb86dcbc3d0a6d8a27e30826a2db09ef1881680353485a7a479736ed7"
     }
@@ -8453,7 +8453,7 @@
     },
     {
      "from": "2020-07-01",
-     "units": 50,
+     "units": 51,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/497.110",
      "sha256": "9373ae820722af3e9e5c08338302f7ef2eb0acbbd8ee291392a233d1fc668fd4"
     }
@@ -8473,7 +8473,7 @@
     },
     {
      "from": "2026-01-01",
-     "units": 44,
+     "units": 45,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/497.120",
      "sha256": "b057f54faba439c449469ae2adffe7ad620ddbb89c260f5cde4e7d893837d7eb"
     }
@@ -8641,7 +8641,7 @@
     },
     {
      "from": "2015-01-25",
-     "units": 7,
+     "units": 13,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/519.800",
      "sha256": "eb63b5cb991b047fc7741289d1ec77393198c5f9af21d6c27f8092bd28f5c472"
     }
@@ -8777,7 +8777,7 @@
     },
     {
      "from": "2023-10-05",
-     "units": 5,
+     "units": 9,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/562.350",
      "sha256": "32d0017d248012f512d49d56e2f06e80282917d4150a3f4cede71df294e6a741"
     }
@@ -9211,7 +9211,7 @@
     },
     {
      "from": "2026-09-01",
-     "units": 8,
+     "units": 11,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/590.200",
      "sha256": "46b8db18ebb1865f47c6ed667f4146749010b810afff51332f710d0d15dfa5bb"
     }
@@ -9279,7 +9279,7 @@
     },
     {
      "from": "2026-01-01",
-     "units": 62,
+     "units": 70,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/610.110",
      "sha256": "a74b7b1dc8e9709aec3af29108fc1ef8600c5c72db2b0bd6ef8429383b19bc4a"
     }
@@ -9379,7 +9379,7 @@
     },
     {
      "from": "2025-09-01",
-     "units": 180,
+     "units": 181,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/640.110",
      "sha256": "1cb288f6d3fead846ca699c0172f88ade0089327b70d4b88e7515c11d4cc4fa6"
     }
@@ -9493,7 +9493,7 @@
    "versions": [
     {
      "from": "2009-01-01",
-     "units": 50,
+     "units": 51,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/685.340",
      "sha256": "8d4a9f493148da923192d5d91f0a70d6e6aa5052937053f57d35e9cbd5ab9893"
     }
@@ -9699,7 +9699,7 @@
     },
     {
      "from": "2023-01-01",
-     "units": 45,
+     "units": 46,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/724.910",
      "sha256": "4ddb6426e405d16c8d68449e4a0863cebc08c5f0e6ee88ae205d612e1c37197c"
     }
@@ -9739,7 +9739,7 @@
     },
     {
      "from": "2024-05-02",
-     "units": 23,
+     "units": 26,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/730.120",
      "sha256": "e6597cf7971a09621b1e2612b2d0185a3b64d39c462d1ac2044d0b54f2845747"
     }
@@ -10059,7 +10059,7 @@
     },
     {
      "from": "2017-10-01",
-     "units": 19,
+     "units": 23,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/772.140",
      "sha256": "ae222460a095c3375db25b73dd7758a4042017caf09acb02f9c3919686640390"
     }
@@ -10087,7 +10087,7 @@
    "versions": [
     {
      "from": "2010-01-01",
-     "units": 2,
+     "units": 11,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/772.301",
      "sha256": "8f7aad148f3ca77d9b2cae4ea87d6920221c6411053cc114fde78ac15e78f03f"
     }
@@ -10235,7 +10235,7 @@
    "versions": [
     {
      "from": "2026-01-01",
-     "units": 11,
+     "units": 13,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/780.750",
      "sha256": "afc50bdd7062dbe826be10a987e9931e3a29c410846bd0f36e24c489287dd6f3"
     }
@@ -10387,7 +10387,7 @@
     },
     {
      "from": "2020-07-01",
-     "units": 42,
+     "units": 43,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/783.200",
      "sha256": "df3e479c706957e79d176725c12027c6bbfa0383672be45d6966501c7f948213"
     }
@@ -10527,7 +10527,7 @@
     },
     {
      "from": "2019-01-01",
-     "units": 32,
+     "units": 33,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/789.110",
      "sha256": "175e6bb17e5ec3cf2a032ba70dd44288d17447a6d512b57000105332732336c7"
     }
@@ -10627,7 +10627,7 @@
     },
     {
      "from": "2023-12-21",
-     "units": 10,
+     "units": 11,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/811.110",
      "sha256": "dc2e5febde537458a2f4d22fb3b0dd932cf5318518a75d83d9b9cafb29bf0b07"
     }
@@ -11191,7 +11191,7 @@
     },
     {
      "from": "2025-01-01",
-     "units": 28,
+     "units": 31,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/832.720",
      "sha256": "6bf1faea6c424b3ecff35466b23db03e42e9af3e46dc6cc1a78ffa01800f36b0"
     }
@@ -11307,13 +11307,13 @@
     },
     {
      "from": "2026-01-01",
-     "units": 47,
+     "units": 50,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/834.410",
      "sha256": "87d4196ca4ca4441474c880c573b67f37e1faf7e48cfc79687dfb7be199cd697"
     },
     {
      "from": "2027-01-01",
-     "units": 47,
+     "units": 50,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/834.410/versions/6935",
      "sha256": "c043ed78b716acd7a44c6ebd8b67805a267c5fe829f3f0635e5a3e8dbce4e397"
     }
@@ -11477,7 +11477,7 @@
     },
     {
      "from": "2026-07-02",
-     "units": 44,
+     "units": 45,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/861.520",
      "sha256": "9634b2741481ec026061680129e903cdb7b78b1285fa46a72153a987e0920c0b"
     }
@@ -11503,7 +11503,7 @@
     },
     {
      "from": "2025-11-01",
-     "units": 37,
+     "units": 42,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/861.540",
      "sha256": "b2675186c8e636675622a9f89b789c12acc37cdda961df98b4f75b18541ffcea"
     }
@@ -11549,7 +11549,7 @@
     },
     {
      "from": "2025-01-01",
-     "units": 54,
+     "units": 60,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/869.710",
      "sha256": "77ffbec78a99a67061c75a0ed2a64fecdb8184883d0ff6f030b46b843c76ae41"
     }
@@ -11587,7 +11587,7 @@
     },
     {
      "from": "2025-07-01",
-     "units": 17,
+     "units": 20,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/890.510",
      "sha256": "76b6324f7f53a29222355e9757fa5ffb289a306631f910b7b446c3c3dfc54f13"
     }
@@ -11631,7 +11631,7 @@
     },
     {
      "from": "2021-07-01",
-     "units": 53,
+     "units": 55,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/890.710",
      "sha256": "27a22e5de9a9b0e3a1ed8c9360f373c7045b83aada00f1a566e172825dad58da"
     }
@@ -11777,7 +11777,7 @@
     },
     {
      "from": "2026-01-01",
-     "units": 36,
+     "units": 37,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/912.510",
      "sha256": "a0da42d50804d8710eb8e7883764ce8cad920e7d1e9860d0e71a50b984c647b7"
     }
@@ -11945,15 +11945,15 @@
     },
     {
      "from": "2023-07-01",
-     "units": 16,
+     "units": 22,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/952.300",
      "sha256": "7ecb6955effab0308268e29a386386a052cbaf3ae006bc451569eb7e68a40b92"
     },
     {
      "from": "2026-11-03",
-     "units": 15,
+     "units": 21,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/952.300/versions/7076",
-     "sha256": "aed7e4bf8515b03beef0e6f2d3a5d9fb8f3c94802414a616d26c1aa95fb6a058"
+     "sha256": "4475692654c8965880105010ce9711fc23bc6934b097a9556e50f6710491b22b"
     }
    ]
   },
@@ -12241,7 +12241,7 @@
     },
     {
      "from": "2022-01-01",
-     "units": 17,
+     "units": 19,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/BaB%20155.200",
      "sha256": "d41c103d07b6f401518cffbee85c0e844d75335a05dafbe82d679104d5fd9f0f"
     }
@@ -12407,7 +12407,7 @@
     },
     {
      "from": "2025-01-01",
-     "units": 69,
+     "units": 71,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/BaB%20164.110",
      "sha256": "ec9e2420839302d183f90ef38c63252d77318d65996d571212ae30a0b18c74ef"
     }
@@ -12455,7 +12455,7 @@
    "versions": [
     {
      "from": "1992-12-20",
-     "units": 21,
+     "units": 22,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/BaB%20169.600",
      "sha256": "70cc6fc5edec4f3952af996646ee295284396937b8176bb3988a03fa49feb8a2"
     }
@@ -12665,7 +12665,7 @@
     },
     {
      "from": "2022-05-02",
-     "units": 18,
+     "units": 20,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/BeE%20370.700",
      "sha256": "ae96fb4376b76134940190dcce916c4b538366dd100a15957bcaa83d7c216e7c"
     }
@@ -12679,7 +12679,7 @@
    "versions": [
     {
      "from": "2025-01-01",
-     "units": 10,
+     "units": 11,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/BeE%20411.630",
      "sha256": "5eeb8871cd7d92fa24505ff0a863a3c1db71e85f33fc69c5ac2232a827152035"
     }
@@ -12699,7 +12699,7 @@
     },
     {
      "from": "2019-01-01",
-     "units": 49,
+     "units": 50,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/BeE%20610.100",
      "sha256": "d8df0a503d8a412cc4b214ab8cda2fab7dbde54e16acddf1c9027820917af23f"
     }
@@ -12739,7 +12739,7 @@
     },
     {
      "from": "2021-07-01",
-     "units": 20,
+     "units": 22,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/BeE%20680.200",
      "sha256": "39d16ba5dbcaffaf520d4f046a3c1b960ee8cae97c4165c8448ab0a29b6103f3"
     }
@@ -13001,7 +13001,7 @@
     },
     {
      "from": "2025-01-01",
-     "units": 10,
+     "units": 11,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/RiE%20153.500",
      "sha256": "ac99ad9788ee2a65a9b117fbb998a98f42818d4f305183a22cff2a6f7e854808"
     }
@@ -13021,7 +13021,7 @@
     },
     {
      "from": "2025-01-01",
-     "units": 8,
+     "units": 9,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/RiE%20153.840",
      "sha256": "8b92e689112676a2b00bf3dae41b2551d45fc920d2b31dce98235673c52c5d4c"
     }
@@ -13201,7 +13201,7 @@
     },
     {
      "from": "2025-01-01",
-     "units": 72,
+     "units": 73,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/RiE%20164.110",
      "sha256": "5e33c05eb91b84921dd6caa3a1d52af332ae7005c5b014db004cfe4799c0fff5"
     }
@@ -13253,7 +13253,7 @@
    "versions": [
     {
      "from": "2024-04-01",
-     "units": 3,
+     "units": 4,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/RiE%20253.150",
      "sha256": "7c0a9e55ab1ab41c9303dec0ef3cd8fbfd869a24e55c79e3b423f1dcda0ad2ff"
     }
@@ -13431,7 +13431,7 @@
     },
     {
      "from": "2026-08-01",
-     "units": 90,
+     "units": 91,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/RiE%20411.610",
      "sha256": "5687cf3c33cdd02ba7a25334db5a228737deba4c7ac34b5a256347452f49b168"
     }
@@ -13445,7 +13445,7 @@
    "versions": [
     {
      "from": "2024-01-01",
-     "units": 10,
+     "units": 11,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/RiE%20411.630",
      "sha256": "7f9cc3de622a4b71b118d078bb3f1fd1edaa4098f1ce408beeee4dc870acba7a"
     }
@@ -14040,6 +14040,972 @@
      "units": 8,
      "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/RiE%20980.110",
      "sha256": "975618472b74e260da4449f01d326eca9c357ec5eb0c7a12423974bb878647ba"
+    }
+   ]
+  },
+  {
+   "slug": "497-150",
+   "short": "497.150",
+   "title": "Richtlinien der Kommission für Denkmalsubventionen",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/497.150",
+   "versions": [
+    {
+     "from": "2018-11-15",
+     "units": 29,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/497.150",
+     "sha256": "744312b2e522bc5fea3aaa7be1fb174403d225244f2a2dacc090e9a068bb8b1a"
+    }
+   ]
+  },
+  {
+   "slug": "rie-497-200-bausanierungsordnung",
+   "short": "Bausanierungsordnung",
+   "title": "Ordnung über die Gewährung von Beiträgen zur Erhaltung wertvoller Bausubstanz",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20497.200",
+   "versions": [
+    {
+     "from": "1996-11-26",
+     "units": 15,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/RiE%20497.200",
+     "sha256": "a50cb419e37c45295b0ff073a739e7da4c0bb152a450cdac13fa1b91c72b4fbb"
+    }
+   ]
+  },
+  {
+   "slug": "410-200",
+   "short": "410.200",
+   "title": "Ordnung für die Festlegung und Veränderung der Anzahl Unterrichtslektionen für die vom Kanton geführten Schulen",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/410.200",
+   "versions": [
+    {
+     "from": "2009-08-10",
+     "units": 15,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/410.200",
+     "sha256": "75089b28a8d217f46ebfc330d1d9871ae808089f5794763d031b369f08aa3fa3"
+    }
+   ]
+  },
+  {
+   "slug": "410-300",
+   "short": "410.300",
+   "title": "Ordnung über die Überschreitung der gesetzlichen Klassengrössen",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/410.300",
+   "versions": [
+    {
+     "from": "1978-10-25",
+     "units": 6,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/410.300",
+     "sha256": "7b6d2787f66f02ac0312276e981bce4badb4a5e5c6f4b6b6d9de5048c94de686"
+    }
+   ]
+  },
+  {
+   "slug": "410-500",
+   "short": "410.500",
+   "title": "Ordnung für den Religionsunterricht",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/410.500",
+   "versions": [
+    {
+     "from": "2012-08-13",
+     "units": 11,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/410.500",
+     "sha256": "57efee242a15ab6265b98d6f47a136955042aeb3d8ead34f2e6ea6ddc8aaad40"
+    }
+   ]
+  },
+  {
+   "slug": "rie-724-100-allmendordnung",
+   "short": "Allmendordnung",
+   "title": "Ordnung über die Inanspruchnahme der Allmend",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20724.100",
+   "versions": [
+    {
+     "from": "2004-05-01",
+     "units": 19,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/RiE%20724.100",
+     "sha256": "62e3d0ebdc52b8ce5c64f33595fba4c41cc1ab217e7aecfdc74d76cae6f62a5d"
+    }
+   ]
+  },
+  {
+   "slug": "rie-725-100",
+   "short": "RiE 725.100",
+   "title": "Ordnung über die Parkraumbewirtschaftung",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20725.100",
+   "versions": [
+    {
+     "from": "2015-06-11",
+     "units": 19,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/RiE%20725.100",
+     "sha256": "3addb30fef14b78c42e90484b87907e4343e5fb3c824a29120fa7e621f255e5e"
+    }
+   ]
+  },
+  {
+   "slug": "411-380",
+   "short": "411.380",
+   "title": "Ordnung für die Schulkonferenzen",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/411.380",
+   "versions": [
+    {
+     "from": "2009-08-10",
+     "units": 18,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/411.380",
+     "sha256": "ca944f8c6d2e88e0a140655b4982e34b30614cf3592ffebb4211f1565fcb3fee"
+    }
+   ]
+  },
+  {
+   "slug": "411-400",
+   "short": "411.400",
+   "title": "Ordnung für die Lehrpersonen",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/411.400",
+   "versions": [
+    {
+     "from": "2014-08-18",
+     "units": 23,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/411.400",
+     "sha256": "3b0a2ba4459427be9b1fcd7e91d2d041ff4d602d4f84573b2e3051c7178f1d64"
+    }
+   ]
+  },
+  {
+   "slug": "411-450",
+   "short": "411.450",
+   "title": "Ordnung über Auftrag und Arbeitszeit der Lehrpersonen",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/411.450",
+   "versions": [
+    {
+     "from": "2009-08-10",
+     "units": 7,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/411.450",
+     "sha256": "e81b505fb6dd353c6062e5379aa50a8708175a1bf9547489acdb35bd17c8f300"
+    }
+   ]
+  },
+  {
+   "slug": "rie-750-100-strassen-und-kanalisationsordnung",
+   "short": "Strassen- und Kanalisationsordnung",
+   "title": "Ordnung betreffend Strassen- und Kanalisationsbeiträge sowie Gebühren für die Ableitung von Abwasser",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20750.100",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 26,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/RiE%20750.100",
+     "sha256": "e3f8f9caa4b027f9b6fbf3dcb873750558fbc3646e8d824258cff5a4f1c0cf65"
+    }
+   ]
+  },
+  {
+   "slug": "rie-772-150",
+   "short": "RiE 772.150",
+   "title": "Ordnung zum Energiesparfonds für Gemeindeliegenschaften",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20772.150",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 7,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/RiE%20772.150",
+     "sha256": "492064d982fed45bc175a4f8088ffdd7743185b940fd92075fadf225331e5bab"
+    }
+   ]
+  },
+  {
+   "slug": "rie-869-100",
+   "short": "RiE 869.100",
+   "title": "Statut des Landpfrundhauses Riehen/Bettingen",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20869.100",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 18,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/RiE%20869.100",
+     "sha256": "6ad47bb935ce46fb9033f9d13ea14b78965340180700fdf64fe7cc11f83dec00"
+    }
+   ]
+  },
+  {
+   "slug": "152-100-go",
+   "short": "GO",
+   "title": "Gesetz über die Geschäftsordnung des Grossen Rates",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/152.100",
+   "versions": [
+    {
+     "from": "2025-11-01",
+     "units": 100,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/152.100",
+     "sha256": "bc0e19720cbeb9bd33929fda4d72e6f7c60a9ecea6567b0b02af1446fd3050e8"
+    }
+   ]
+  },
+  {
+   "slug": "152-110-ab",
+   "short": "AB",
+   "title": "Ausführungsbestimmungen zum Gesetz über die Geschäftsordnung des Grossen Rates",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/152.110",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 69,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/152.110",
+     "sha256": "fdba68dc67a9a2efca3ffdd5187c764d6ca16779a8621f24281374bf077745af"
+    }
+   ]
+  },
+  {
+   "slug": "323-100-psychiatriegesetz",
+   "short": "Psychiatriegesetz",
+   "title": "Gesetz über Behandlung und Einweisung psychisch kranker Personen",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/323.100",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 50,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/323.100",
+     "sha256": "3951c9977c4b27a9c664600d29108be153bf13ca3a3879481c544d9c47e7d13b"
+    }
+   ]
+  },
+  {
+   "slug": "414-300",
+   "short": "414.300",
+   "title": "Ordnung für das Verfahren bei der Beschaffung von Lehrmitteln",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/414.300",
+   "versions": [
+    {
+     "from": "2009-08-10",
+     "units": 7,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/414.300",
+     "sha256": "48218a100862cb1f0df8d37d296963a0636e05927da3ab63140c64fd609ace76"
+    }
+   ]
+  },
+  {
+   "slug": "414-700-benutzungsordnung-pds",
+   "short": "Benutzungsordnung PDS",
+   "title": "Ordnung betreffend die Benutzung der Pädagogischen Dokumentationsstelle des Kantons Basel-Stadt",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/414.700",
+   "versions": [
+    {
+     "from": "2008-08-01",
+     "units": 20,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/414.700",
+     "sha256": "dcc57ac111c0421d25d2f4937bfe4c84997cf324327713b109221cefe6cbee35"
+    }
+   ]
+  },
+  {
+   "slug": "414-800",
+   "short": "414.800",
+   "title": "Ordnung für die Schulbibliotheken",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/414.800",
+   "versions": [
+    {
+     "from": "2009-08-10",
+     "units": 15,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/414.800",
+     "sha256": "1905156d1df42ea76fd3ea64180468ec635a87d68a47b20d7bdaccb99f3bb5c6"
+    }
+   ]
+  },
+  {
+   "slug": "953-940",
+   "short": "953.940",
+   "title": "Ausführungsbestimmungen zur Vereinbarung über die Beitragsleistung an Fahrten von mobilitätseingeschränkten Personen",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/953.940",
+   "versions": [
+    {
+     "from": "2018-03-01",
+     "units": 5,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/953.940",
+     "sha256": "5befaefe27885b5a8d9e4f6be28f4476ddd91e3e420ff435a6cd451c4672b5a2"
+    }
+   ]
+  },
+  {
+   "slug": "415-170",
+   "short": "415.170",
+   "title": "Richtlinie betreffend die Tätigkeit und Organisation des Jungen Rates",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/415.170",
+   "versions": [
+    {
+     "from": "2018-02-08",
+     "units": 8,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/415.170",
+     "sha256": "5f64372d783296c168f775cd1866c3f140865af6e7d53306c37e6e8a549bbbc9"
+    }
+   ]
+  },
+  {
+   "slug": "419-901-anerkennungsverordnung-inland-avo-inland",
+   "short": "Anerkennungsverordnung Inland (AVO Inland)",
+   "title": "Verordnung der SDK über die Anerkennung kantonaler Ausbildungsabschlüsse im Gesundheitswesen in der Schweiz",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/419.901",
+   "versions": [
+    {
+     "from": "1999-07-01",
+     "units": 19,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/419.901",
+     "sha256": "908fe73d4157fa76ec7778a7ed4e7181950f39634d859184016fd731c688d365"
+    }
+   ]
+  },
+  {
+   "slug": "724-115-anorv",
+   "short": "ANöRV",
+   "title": "Ausführungsbestimmungen zur Verordnung zum Gesetz über die Nutzung des öffentlichen Raumes",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/724.115",
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "units": 71,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/724.115",
+     "sha256": "2e7429126b518c6dabe795ce272ebed9df02158daa90072695c8b167775bdb40"
+    }
+   ]
+  },
+  {
+   "slug": "730-115-abpv",
+   "short": "ABPV",
+   "title": "Ausführungsbestimmungen zur Bau- und Planungsverordnung",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/730.115",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 74,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/730.115",
+     "sha256": "6351e3553c7874ef94a2c6e20171574607eb97bbaa4fddf27cbbc6a55616cba1"
+    }
+   ]
+  },
+  {
+   "slug": "833-110",
+   "short": "833.110",
+   "title": "Ordnung über die berufliche Vorsorge",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/833.110",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 14,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/833.110",
+     "sha256": "ce6c7636aafe04adf3820a1f0617cd77100d0fba065df483e0edf5d44b525db8"
+    }
+   ]
+  },
+  {
+   "slug": "rie-786-100-abfallordnung",
+   "short": "Abfallordnung",
+   "title": "Ordnung der Abfallbehandlung in der Gemeinde Riehen",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20786.100",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 28,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/RiE%20786.100",
+     "sha256": "10dfb347e04b25883b7d48549e80f885d829552abec294d1c2361b17c20c98fa"
+    }
+   ]
+  },
+  {
+   "slug": "beb-869-100",
+   "short": "BeB 869.100",
+   "title": "Statut des Landpfrundhauses Riehen/Bettingen",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BeB%20869.100",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 18,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/BeB%20869.100",
+     "sha256": "9caca553f0c019c1908a41f1412288fb2c1fedd6b9f68134d2471d4346967217"
+    }
+   ]
+  },
+  {
+   "slug": "bee-111-200-grpk",
+   "short": "GRPK",
+   "title": "Ordnung für die Geschäfts- und Rechnungsprüfungskommission",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BeE%20111.200",
+   "versions": [
+    {
+     "from": "2023-05-01",
+     "units": 7,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/BeE%20111.200",
+     "sha256": "7e608e86f5ff8580a61a53442cc566d1ab5c318dcca516e5fbb69e98bf6d4c72"
+    }
+   ]
+  },
+  {
+   "slug": "bab-132-100",
+   "short": "BaB 132.100",
+   "title": "Ordnung betreffend die politischen Rechte in der Bürgergemeinde der Stadt Basel",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BaB%20132.100",
+   "versions": [
+    {
+     "from": "2022-10-01",
+     "units": 91,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/BaB%20132.100",
+     "sha256": "f869c30e91d0dcdf529a764f97205fd926e8441fa0257323ed0c0169e5386e42"
+    }
+   ]
+  },
+  {
+   "slug": "bab-152-110",
+   "short": "BaB 152.110",
+   "title": "Ausführungsbestimmungen zur Geschäftsordnung des Bürgergemeinderates der Stadt Basel",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BaB%20152.110",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 46,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/BaB%20152.110",
+     "sha256": "ec73850df22f23a588207ba981a3bbc41518f32f58ac3061c385364f29a7aa8d"
+    }
+   ]
+  },
+  {
+   "slug": "bab-153-110",
+   "short": "BaB 153.110",
+   "title": "Ausführungsbestimmungen zur Geschäftsordnung des Bürgerrates der Stadt Basel",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BaB%20153.110",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 16,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/BaB%20153.110",
+     "sha256": "f72855a47773ba533ef23aa79e888fdd68849487ae8b9419748c3cb872e4dcef"
+    }
+   ]
+  },
+  {
+   "slug": "772-380-ab-iwb-datenbearbeitung",
+   "short": "AB IWB Datenbearbeitung",
+   "title": "Ausführungsbestimmungen von IWB Industrielle Werke Basel zur Datenbearbeitung mittels intelligenter Messsysteme",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/772.380",
+   "versions": [
+    {
+     "from": "2021-06-01",
+     "units": 11,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/772.380",
+     "sha256": "fd1b3f18ecde97d1054a8ede193dc19f78a51015ceddb9f405a0c0d3878666d4"
+    }
+   ]
+  },
+  {
+   "slug": "772-400",
+   "short": "772.400",
+   "title": "Ausführungsbestimmungen von IWB Industrielle Werke Basel für Leistungen im Bereich Elektrizität",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/772.400",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 64,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/772.400",
+     "sha256": "788ba36a0c0362254dbfd7e337d014bddd8132e73d19d3f60cb242c9c49728ca"
+    }
+   ]
+  },
+  {
+   "slug": "772-500",
+   "short": "772.500",
+   "title": "Ausführungsbestimmungen von IWB Industrielle Werke Basel betreffend die Abgabe von Gas",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/772.500",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 76,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/772.500",
+     "sha256": "e3eb51bebc58dcc75eb392980380f8b43de402803815dbd48ea4ea9f909d76c2"
+    }
+   ]
+  },
+  {
+   "slug": "772-600",
+   "short": "772.600",
+   "title": "Ausführungsbestimmungen von IWB Industrielle Werke Basel betreffend die Abgabe von Fernwärme",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/772.600",
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "units": 65,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/772.600",
+     "sha256": "c6e6725134907a733699bd126c57f3824717f918ddb262e7df248f191cfa9b4e"
+    }
+   ]
+  },
+  {
+   "slug": "772-800",
+   "short": "772.800",
+   "title": "Ausführungsbestimmungen von IWB Industrielle Werke Basel betreffend die Abgabe von Trinkwasser",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/772.800",
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "units": 72,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/772.800",
+     "sha256": "f45b1a843b163a88e87827ff003a93d687fbd30ca40b256021a893b0b51e3b19"
+    }
+   ]
+  },
+  {
+   "slug": "bab-162-100-anstellungsordnung-ao",
+   "short": "Anstellungsordnung, AO",
+   "title": "Ordnung betreffend die Anstellungsverhältnisse bei der Bürgergemeinde der Stadt Basel",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BaB%20162.100",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 35,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/BaB%20162.100",
+     "sha256": "d6138eab4ccf1a450cc0cb5a7b1a7bcd543433cdb00431b8a28e35c1e999a77b"
+    }
+   ]
+  },
+  {
+   "slug": "bab-164-100-lohnordnung",
+   "short": "Lohnordnung",
+   "title": "Ordnung betreffend Entlöhnung der Mitarbeiterinnen und Mitarbeiter der Bürgergemeinde der Stadt Basel",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BaB%20164.100",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 29,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/BaB%20164.100",
+     "sha256": "28d00d29fc04c7670ed69891d6a4a8c698783b1d443a306a5c23d5e125a8a3ca"
+    }
+   ]
+  },
+  {
+   "slug": "rie-681-300",
+   "short": "RiE 681.300",
+   "title": "Ordnung für die Benützung von Lokalitäten im Verwaltungsgebäude durch Vereine, Gesellschaften und Privatpersonen",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20681.300",
+   "versions": [
+    {
+     "from": "1980-01-21",
+     "units": 7,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/RiE%20681.300",
+     "sha256": "4ff89483cd3d0a6e105041210cc7320c6a533afd1adcd7df2b005bc8d5c1f560"
+    }
+   ]
+  },
+  {
+   "slug": "beb-132-100",
+   "short": "BeB 132.100",
+   "title": "Ordnung über Wahlen und Abstimmungen der Bürgergemeinde Bettingen",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BeB%20132.100",
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "units": 28,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/BeB%20132.100",
+     "sha256": "17694f19e173b0169c085325a18726ecc57b974990b1781fbe9479409f313c20"
+    }
+   ]
+  },
+  {
+   "slug": "rie-730-500",
+   "short": "RiE 730.500",
+   "title": "Ordnung zur Verwendung der Mehrwertabgabe",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20730.500",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 5,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/RiE%20730.500",
+     "sha256": "3f9f44f81fd8ded41e0c22b0eb3943035e1eea5e56cffaa6fce8a42f62768269"
+    }
+   ]
+  },
+  {
+   "slug": "rie-730-700",
+   "short": "RiE 730.700",
+   "title": "Ordnung über die Reinigung privater Liegenschaften bei Verschmierungen",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20730.700",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 7,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/RiE%20730.700",
+     "sha256": "5cf26a269c3cc092aa153db4de2ea24f361af7a1af595313f264754d767a4ee8"
+    }
+   ]
+  },
+  {
+   "slug": "beb-153-860",
+   "short": "BeB 153.860",
+   "title": "Ordnung über die Entschädigung für den Bürgerratspräsidenten, die Mitglieder des Bürgerrates, den Schreiber und den Kassier",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BeB%20153.860",
+   "versions": [
+    {
+     "from": "1995-07-01",
+     "units": 4,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/BeB%20153.860",
+     "sha256": "2682c7d4ce1cb5dafbaba00c55a7581b167e9ddf19b0ab78eab16a60ea0079c0"
+    }
+   ]
+  },
+  {
+   "slug": "bee-132-100",
+   "short": "BeE 132.100",
+   "title": "Ordnung über Wahlen und Abstimmungen der Einwohnergemeinde Bettingen",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BeE%20132.100",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 54,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/BeE%20132.100",
+     "sha256": "3f312118245d3a84c66ac4dc4b759702b4c7ea82de528300e4f5b39ae7ffaffe"
+    }
+   ]
+  },
+  {
+   "slug": "bee-162-100-personalordnung",
+   "short": "Personalordnung",
+   "title": "Ordnung über die Arbeitsverhältnisse und die Entlöhnung der Mitarbeiterinnen und Mitarbeiter der Gemeinde Bettingen",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BeE%20162.100",
+   "versions": [
+    {
+     "from": "2017-05-01",
+     "units": 9,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/BeE%20162.100",
+     "sha256": "b688f4824e21948f385a9fadb06f3d866a78f0f3d098b6cce5bb8be47ddee1e3"
+    }
+   ]
+  },
+  {
+   "slug": "bee-491-100",
+   "short": "BeE 491.100",
+   "title": "Ordnung über die Ausrichtung von Ausbildungsbeiträgen aus dem Stipendienfonds der Gemeinde Bettingen",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BeE%20491.100",
+   "versions": [
+    {
+     "from": "2017-05-01",
+     "units": 12,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/BeE%20491.100",
+     "sha256": "63b8cbbf43bdb7be8bbc226c6759656ca2563e96dfc7c69c501afcee77c41217"
+    }
+   ]
+  },
+  {
+   "slug": "212-910",
+   "short": "212.910",
+   "title": "Ordnung über die Stiftungsaufsicht",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/212.910",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 17,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/212.910",
+     "sha256": "9c658842d0f93d317990f935ec0480fc1aef8674e21714e383d2024717ccad89"
+    }
+   ]
+  },
+  {
+   "slug": "785-150",
+   "short": "785.150",
+   "title": "Richtlinien für die Verwirklichung des Konzeptes über die Abwasserreinigung",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/785.150",
+   "versions": [
+    {
+     "from": "1975-06-25",
+     "units": 8,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/785.150",
+     "sha256": "93c1247a3a43011788bc88218dafd6015e4a0afa389edb6c420afe67a054291f"
+    }
+   ]
+  },
+  {
+   "slug": "bee-970-120",
+   "short": "BeE 970.120",
+   "title": "Ordnung über das Kommunikationsnetz (K-Netz) der Gemeinde Bettingen",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BeE%20970.120",
+   "versions": [
+    {
+     "from": "2002-10-01",
+     "units": 15,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/BeE%20970.120",
+     "sha256": "e2620e3ec23d1c1414986a0f59ad4ef95a103f1a0c07e2432f6871762be988c9"
+    }
+   ]
+  },
+  {
+   "slug": "rib-869-100",
+   "short": "RiB 869.100",
+   "title": "Statut des Landpfrundhauses Riehen/Bettingen",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiB%20869.100",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 18,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/RiB%20869.100",
+     "sha256": "37450655030344799a49bdcb703bf26a43a4bcf73745ad67a04f7e234e302231"
+    }
+   ]
+  },
+  {
+   "slug": "rie-132-100-ordnung-politische-rechte-opr",
+   "short": "Ordnung politische Rechte, OPR",
+   "title": "Ordnung der politischen Rechte in der Einwohnergemeinde Riehen",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20132.100",
+   "versions": [
+    {
+     "from": "2025-03-01",
+     "units": 103,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/RiE%20132.100",
+     "sha256": "1879e7c076592d09e73ce6fb6e549f92852837c299d0626b66a79bde302a6d6c"
+    }
+   ]
+  },
+  {
+   "slug": "rie-153-150",
+   "short": "RiE 153.150",
+   "title": "Ordnung über die Entschädigung der Mitglieder des Gemeinderats der Einwohnergemeinde Riehen",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20153.150",
+   "versions": [
+    {
+     "from": "2015-05-01",
+     "units": 12,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/RiE%20153.150",
+     "sha256": "235fcee5d922e2bc798684466c5bbe64ff5f5d74d19b03d4412836689de3ca63"
+    }
+   ]
+  },
+  {
+   "slug": "rie-164-100-lohnordnung",
+   "short": "Lohnordnung",
+   "title": "Ordnung über das Gehalt der Mitarbeiterinnen und Mitarbeiter der Gemeinde Riehen",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20164.100",
+   "versions": [
+    {
+     "from": "2015-08-01",
+     "units": 57,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/RiE%20164.100",
+     "sha256": "4ec7f23188021cd7e917041f7c55ec6074ef4e867ed876c93b52a351b05adbe0"
+    }
+   ]
+  },
+  {
+   "slug": "bee-153-860-entschadigungsordnung-bettingen",
+   "short": "Entschädigungsordnung Bettingen",
+   "title": "Ordnung betreffend die Entschädigung für die Mitglieder des Gemeinderates Bettingen",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BeE%20153.860",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 12,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/BeE%20153.860",
+     "sha256": "1c6d97180991261df7300b5beebeb80ea62a7f67362a882f58b94b3067abfdeb"
+    }
+   ]
+  },
+  {
+   "slug": "257-100-eg-stpo",
+   "short": "EG StPO",
+   "title": "Gesetz über die Einführung der Schweizerischen Strafprozessordnung",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/257.100",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 51,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/257.100",
+     "sha256": "c5270a892cdcd45c2c1986c3710d5120b86885fddd83168e279a4be912b4d1ce"
+    }
+   ]
+  },
+  {
+   "slug": "257-500-eg-jstpo",
+   "short": "EG JStPO",
+   "title": "Gesetz über die Einführung der Schweizerischen Jugendstrafprozessordnung",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/257.500",
+   "versions": [
+    {
+     "from": "2016-07-01",
+     "units": 20,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/257.500",
+     "sha256": "ab5e3b71e47aace738bd8c13a210509f7f53b7c97919f7b893f6243f83b9767f"
+    }
+   ]
+  },
+  {
+   "slug": "rie-411-600-schulordnung",
+   "short": "Schulordnung",
+   "title": "Ordnung für die Schulen der Gemeinden Bettingen und Riehen",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20411.600",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 68,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/RiE%20411.600",
+     "sha256": "7a3984abf9291d61a5794c45e39740e89d0f1202d8db6efce16e4d53b141601b"
+    }
+   ]
+  },
+  {
+   "slug": "494-400-amerbach-preis",
+   "short": "Amerbach-Preis",
+   "title": "Ordnung für den Preis der Universität Basel",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/494.400",
+   "versions": [
+    {
+     "from": "1961-04-01",
+     "units": 11,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/494.400",
+     "sha256": "f81b55860cc27294c8527e6327226c89b7275015f1bd90447a01b44b21547045"
+    }
+   ]
+  },
+  {
+   "slug": "494-500",
+   "short": "494.500",
+   "title": "Ordnung für die Verleihung des Wissenschaftspreises der Stadt Basel",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/494.500",
+   "versions": [
+    {
+     "from": "2007-05-27",
+     "units": 10,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/494.500",
+     "sha256": "0a8734ff877b4a99f7d7736100b999ca35953d2064caa8c32b7d980413c3356e"
+    }
+   ]
+  },
+  {
+   "slug": "861-626-richtlinien-mietzinsgestaltung",
+   "short": "Richtlinien Mietzinsgestaltung",
+   "title": "Richtlinien zur Mietzinsgestaltung der Stiftung für preisgünstigen Wohnraum Basel-Stadt",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/861.626",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 12,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/861.626",
+     "sha256": "47a93b0e8d8e53e78ddf0f6f9b689ccce60c570a92e903a3ab0b9e64d602c02f"
+    }
+   ]
+  },
+  {
+   "slug": "rie-970-110-ordnung-k-netz-riehen",
+   "short": "Ordnung K-Netz Riehen",
+   "title": "Ordnung betreffend das Kommunikationsnetz der Gemeinde Riehen",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20970.110",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 11,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/RiE%20970.110",
+     "sha256": "0421b443167a97ca2c9f2dcbd0c65ba727c326510bb934a027ba210ec5c75037"
+    }
+   ]
+  },
+  {
+   "slug": "440-110-universitatsstatut",
+   "short": "Universitätsstatut",
+   "title": "Statut der Universität Basel",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/440.110",
+   "versions": [
+    {
+     "from": "2025-06-09",
+     "units": 34,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/440.110",
+     "sha256": "e569d1c56ababebceaf562371b053f05dfec6e3eb6466e909d138763f9f4cc46"
+    }
+   ]
+  },
+  {
+   "slug": "bee-328-600-zahnpflegeordnung",
+   "short": "Zahnpflegeordnung",
+   "title": "Ordnung betreffend die Zahnpflege bei Kindern",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BeE%20328.600",
+   "versions": [
+    {
+     "from": "2017-12-18",
+     "units": 13,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/BeE%20328.600",
+     "sha256": "48eed367fbe744527b8f9366fd610ab51c8730cbc7c34d05d83bdfaa6f8405d0"
+    }
+   ]
+  },
+  {
+   "slug": "bee-390-880-bestattungsordnung",
+   "short": "Bestattungsordnung",
+   "title": "Ordnung über die Bestattungen in der Gemeinde Bettingen",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BeE%20390.880",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 7,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/BeE%20390.880",
+     "sha256": "9102d9da76543ec4b651771f597e0b6929cf7a144a55f645b9cf4808b15148e2"
+    }
+   ]
+  },
+  {
+   "slug": "rie-328-600-zahpflegeordnung",
+   "short": "Zahpflegeordnung",
+   "title": "Ordnung betreffend die Zahnpflege bei Kindern",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20328.600",
+   "versions": [
+    {
+     "from": "2013-06-01",
+     "units": 13,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/RiE%20328.600",
+     "sha256": "8fa96da1903c2fc4d21fdb42effea7dba025e796dac338af3763977a3c8dbf97"
+    }
+   ]
+  },
+  {
+   "slug": "rie-332-400",
+   "short": "RiE 332.400",
+   "title": "Ordnung für das Gesundheitszentrum Riehen",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20332.400",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 7,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/RiE%20332.400",
+     "sha256": "a52f04b25be40b335fbaefe211058e10e70c3d4d1d74ef0e3657f00578702c5d"
+    }
+   ]
+  },
+  {
+   "slug": "bee-750-100-strassen-und-kanalisationsordnung",
+   "short": "Strassen- und Kanalisationsordnung",
+   "title": "Ordnung betreffend Strassen- und Kanalisationsbeiträge sowie Gebühren für die Ableitung von Abwasser",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BeE%20750.100",
+   "versions": [
+    {
+     "from": "2018-02-08",
+     "units": 22,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/BeE%20750.100",
+     "sha256": "09552841eae085e1e2e2077d0e581a087e9ac4df4e4080366fd8ab5f964e7cf3"
+    }
+   ]
+  },
+  {
+   "slug": "bee-786-100-abfallordnung",
+   "short": "Abfallordnung",
+   "title": "Ordnung der Abfallbehandlung in der Gemeinde Bettingen",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BeE%20786.100",
+   "versions": [
+    {
+     "from": "2021-07-08",
+     "units": 30,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/BeE%20786.100",
+     "sha256": "4c8a67880d51862a2f50b7f3e72ed5dfccf58a34c8c3a9f0b29a968fbf979f07"
+    }
+   ]
+  },
+  {
+   "slug": "bee-789-300",
+   "short": "BeE 789.300",
+   "title": "Ordnung über den Natur- und Landschaftsschutz und die Förderung der Biodiversität und Landschaftsqualität",
+   "url": "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BeE%20789.300",
+   "versions": [
+    {
+     "from": "2017-12-18",
+     "units": 25,
+     "source_url": "https://www.gesetzessammlung.bs.ch/api/de/texts_of_law/BeE%20789.300",
+     "sha256": "b044b0b3f2c4f20140ae605c295074f2cd9c43c0caf2f683112ad69d23604d67"
     }
    ]
   }

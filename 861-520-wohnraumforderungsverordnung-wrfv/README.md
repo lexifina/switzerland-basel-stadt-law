@@ -4,6 +4,7 @@ Wohnraumförderungsverordnung, WRFV · 6 versions, from 2014-07-01 (latest in fo
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
+| Anhang PDF, Seite 1 | [annex-p001.md](annex-p001.md) | 1 | 2026-07-02 |
 | § 1 | [art-001.md](art-001.md) | 1 | 2026-07-02 |
 | § 2 | [art-002.md](art-002.md) | 1 | 2026-07-02 |
 | § 3 | [art-003.md](art-003.md) | 0 |  |

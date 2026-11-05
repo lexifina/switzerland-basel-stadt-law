@@ -4,6 +4,7 @@ Steuerverordnung, StV · 13 versions, from 2011-09-29 (latest in force: 2025-09-
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
+| Anhang PDF, Seite 1 | [annex-p001.md](annex-p001.md) | 1 | 2025-09-01 |
 | § 1 | [art-001.md](art-001.md) | 1 | 2013-01-01 |
 | § 2 | [art-002.md](art-002.md) | 0 |  |
 | § 3 | [art-003.md](art-003.md) | 0 |  |

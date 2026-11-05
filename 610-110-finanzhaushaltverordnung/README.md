@@ -4,6 +4,14 @@ Finanzhaushaltverordnung · 10 versions, from 2007-07-01 (latest in force: 2026-
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
+| Anhang PDF, Seite 1 | [annex-p001.md](annex-p001.md) | 1 | 2026-01-01 |
+| Anhang PDF, Seite 2 | [annex-p002.md](annex-p002.md) | 1 | 2026-01-01 |
+| Anhang PDF, Seite 3 | [annex-p003.md](annex-p003.md) | 1 | 2026-01-01 |
+| Anhang PDF, Seite 4 | [annex-p004.md](annex-p004.md) | 1 | 2026-01-01 |
+| Anhang PDF, Seite 5 | [annex-p005.md](annex-p005.md) | 1 | 2026-01-01 |
+| Anhang PDF, Seite 6 | [annex-p006.md](annex-p006.md) | 1 | 2026-01-01 |
+| Anhang PDF, Seite 7 | [annex-p007.md](annex-p007.md) | 1 | 2026-01-01 |
+| Anhang PDF, Seite 8 | [annex-p008.md](annex-p008.md) | 1 | 2026-01-01 |
 | § 1 | [art-001.md](art-001.md) | 1 | 2012-04-01 |
 | § 2 | [art-002.md](art-002.md) | 1 | 2012-04-01 |
 | § 3 | [art-003.md](art-003.md) | 1 | 2012-04-01 |

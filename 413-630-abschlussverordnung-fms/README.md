@@ -4,6 +4,8 @@ Abschlussverordnung FMS · 10 versions, from 2013-08-12 (latest in force: 2026-0
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
+| Anhang PDF, Seite 1 | [annex-p001.md](annex-p001.md) | 1 | 2026-08-10 |
+| Anhang PDF, Seite 2 | [annex-p002.md](annex-p002.md) | 1 | 2026-08-10 |
 | § 1 | [art-001.md](art-001.md) | 2 | 2021-08-16 |
 | § 1a | [art-001a.md](art-001a.md) | 1 | 2025-08-11 |
 | § 2 | [art-002.md](art-002.md) | 1 | 2026-08-10 |
