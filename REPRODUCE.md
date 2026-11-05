@@ -689,7 +689,7 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 ## Checks
 
-Not yet run for this build.
+1644 versions of 643 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
 A second build from the same corpus into an empty folder gave identical hashes for all 1396 history commits and 2340 tags (history tip `1d3a2f70865daa4c08a176f63ce24a4b310a3cab`).
 
