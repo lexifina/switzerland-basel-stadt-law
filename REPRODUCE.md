@@ -671,7 +671,7 @@ Other counts:
 - 4 commits on the branch `zukunft`: laws not yet in force on 2026-11-05.
 - 8 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 1293 laws in the record.
-- 2341 tags.
+- 2342 tags.
 
 ## Dates
 
