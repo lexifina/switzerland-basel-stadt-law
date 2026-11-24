@@ -6,7 +6,7 @@
 
 Wie global-law jedes Land beobachtet: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Diese Seite zeigt dasselbe nur für Basel Stadt: jedes Lesen einer amtlichen Quelle, wann, und was daraus folgte (Vorschriften hinzugefügt, geändert und entfernt). Maschinenlesbar in [data/checks/](../data/checks/) (JSON Lines, Schema `lexifina-check/1`), in `git log` als Commits mit `Kind: check` und Monat für Monat in [checks/](checks/).
 
-**Letzte Prüfung:** 2026-11-24 12:06 UTC, Basel Stadt: Systematische Sammlung (www.gesetzessammlung.bs.ch): 611 Adressen gelesen; 261 hinzugefügt, 0 geändert, 0 entfernt; die Prüfung ist fehlgeschlagen; 262 nicht veröffentlicht, davon 0 ohne Grund.
+**Letzte Prüfung:** 2026-11-24 14:40 UTC, Basel Stadt: Systematische Sammlung (www.gesetzessammlung.bs.ch): 270 Adressen gelesen; 260 hinzugefügt, 2 geändert, 0 entfernt; die Prüfung ist fehlgeschlagen; 263 nicht veröffentlicht, davon 0 ohne Grund.
 
 ## Quellen
 
@@ -18,6 +18,7 @@ Wie global-law jedes Land beobachtet: [global-law monitoring/](https://github.co
 
 | Beginn (UTC) | Quelle | Gelesen | Hinzugefügt | Geändert | Entfernt | Nicht veröffentlicht (ohne Grund) | Ergebnis | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-24 14:34](checks/2026-11.md#ch-lexwork-basel-stadt-20261124t143453z) | lexwork-basel-stadt | 270 | 260 | 2 | 0 | 263 (0) | die Prüfung ist fehlgeschlagen | — |
 | [2026-11-24 11:55](checks/2026-11.md#ch-lexwork-basel-stadt-20261124t115546z) | lexwork-basel-stadt | 611 | 261 | 0 | 0 | 262 (0) | die Prüfung ist fehlgeschlagen | — |
 
 ## Selbst prüfen

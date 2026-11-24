@@ -1,36 +1,36 @@
 {
- "generated": "2026-11-24T12:06:28Z",
+ "generated": "2026-11-24T15:04:27Z",
  "latest": {
   "lexwork-basel-stadt|switzerland/basel-stadt/acts": {
-   "attempt": 1,
+   "attempt": 2,
    "audit": null,
    "census": {
     "checked": 92,
-    "current": 643,
+    "current": 641,
     "gone": 0,
     "held": 643,
     "not_at_source": 1,
-    "out_of_scope": 123,
-    "pending": 261,
+    "out_of_scope": 125,
+    "pending": 262,
     "repo": 643,
-    "source_in_scope": 904
+    "source_in_scope": 903
    },
-   "check_id": "ch-lexwork-basel-stadt-20261124T115546Z",
+   "check_id": "ch-lexwork-basel-stadt-20261124T143453Z",
    "commits": null,
    "corpus": "switzerland/basel-stadt/acts",
-   "error": "ValueError: no published commit for 164-100-lg/annex-p001.md from 2027-01-01",
-   "finished": "2026-11-24T12:06:27Z",
+   "error": "RuntimeError: the kit's append gate: error: published head 3137ebaf6b258b5ee0c0dc012f0a14bf5e974061 timestamp 1795521989 exceeds capped documentation time 1795518000; wait or use a later docs-date; never rewrite it",
+   "finished": "2026-11-24T14:40:09Z",
    "flags": [],
-   "gap": 262,
-   "note": "www.gesetzessammlung.bs.ch: index of 1027 acts (1027 in force); held 643; 261 in force and in scope not held yet, 123 out of scope (land-use plans, concessions, directives, forms: as the builder), 0 published only as PDF; 92 held acts compared with the collection this check (every one within 7 days); 262 candidate acts read",
+   "gap": 263,
+   "note": "www.gesetzessammlung.bs.ch: index of 1029 acts (1029 in force); held 643; 260 in force and in scope not held yet, 125 out of scope (land-use plans, concessions, directives, forms: as the builder), 1 published only as PDF; 92 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
    "outcome": "failed",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 611,
-   "runner": "lawwatch switzerland (5f59fe7c67)",
+   "requests": 270,
+   "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [
@@ -154,7 +154,6 @@
      "721.840",
      "724.300",
      "730.110",
-     "730.150",
      "731.150.096",
      "771.610",
      "771.700",
@@ -296,22 +295,25 @@
      "RiE 890.800",
      "RiE 911.900"
     ],
-    "changed": [],
+    "changed": [
+     "164.340",
+     "257.110"
+    ],
     "removed": []
    },
-   "snapshot": "1027 entries, 1027 in force (www.gesetzessammlung.bs.ch)",
+   "snapshot": "1029 entries, 1029 in force (www.gesetzessammlung.bs.ch)",
    "source": "lexwork-basel-stadt",
-   "started": "2026-11-24T11:55:46Z",
+   "started": "2026-11-24T14:34:53Z",
    "unexplained": 0,
    "update": {
-    "left_for_next_check": 111,
+    "left_for_next_check": 112,
     "letters_check_dropped": {},
-    "new": 149,
-    "nothing_new": 0,
+    "new": 148,
+    "nothing_new": 2,
     "parts": [
      "95-watch-20261124-000-new.json"
     ],
-    "pdf_only": 1,
+    "pdf_only": 0,
     "re_read": 0,
     "unreadable": 0
    },
