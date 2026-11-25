@@ -1,0 +1,26 @@
+# Vertrag zwischen dem Kanton Basel-Stadt und dem Wieseverband, Sitz in Lörrach, betreffend das Durchleitungsrecht für den Abwasserhauptsammler im Gebiet des Schlipf, auf dem rechten Ufergelände der Wiese im Kanton Basel-Stadt (Gemeinde Riehen) und den Anschluss der Kanalisation des rechtsuferigen Wiesegeländes der Gemeinde Riehen, mit Ausnahme der Zollfreien Strasse Lörrach-Weil, an den Abwasserhauptsammler und Reinigung des Abwassers in der Abwasserreinigungsanlage Bändlegrund des Wieseverbandes
+
+SG 784.740 · 1 versions, from 2001-11-06 (latest in force: 2001-11-06) · <https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/784.740>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Ziff. 1 | [art-001.md](art-001.md) | 0 |  |
+| Ziff. 2 | [art-002.md](art-002.md) | 0 |  |
+| Ziff. 3 | [art-003.md](art-003.md) | 0 |  |
+| Ziff. 4 | [art-004.md](art-004.md) | 0 |  |
+| Ziff. 5 | [art-005.md](art-005.md) | 0 |  |
+| Ziff. 6 | [art-006.md](art-006.md) | 0 |  |
+| Ziff. 7 | [art-007.md](art-007.md) | 0 |  |
+| Ziff. 8 | [art-008.md](art-008.md) | 0 |  |
+| Ziff. 9 | [art-009.md](art-009.md) | 0 |  |
+| Ziff. 10 | [art-010.md](art-010.md) | 0 |  |
+| Ziff. 11 | [art-011.md](art-011.md) | 0 |  |
+| Ziff. 12 | [art-012.md](art-012.md) | 0 |  |
+| Ziff. 13 | [art-013.md](art-013.md) | 0 |  |
+| Ziff. 14 | [art-014.md](art-014.md) | 0 |  |
+| Ziff. 15 | [art-015.md](art-015.md) | 0 |  |
+| Ziff. 16 | [art-016.md](art-016.md) | 0 |  |
+| Ziff. 17 | [art-017.md](art-017.md) | 0 |  |
+| Gliederung | [gliederung.md](gliederung.md) | 0 |  |
+| Titel und Ingress | [ingress.md](ingress.md) | 0 |  |
+| Schlussformel | [schluss.md](schluss.md) | 0 |  |

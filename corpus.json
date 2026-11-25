@@ -1,0 +1,21 @@
+{
+ "corpus": "ch/basel-stadt/acts",
+ "path": "switzerland/basel-stadt/acts",
+ "scope": "selected-acts",
+ "acts": 793,
+ "future_branch": "zukunft",
+ "publisher": "Kanton Basel-Stadt, SG (www.gesetzessammlung.bs.ch)",
+ "name": "Basel-Stadt",
+ "language": "de",
+ "coverage": "793 acts of Basel-Stadt with every dated version the source gives (1905 versions), in force from 1826-05-13 to 2026-11-05",
+ "history": "in-force",
+ "history_from": "1826-05-13",
+ "record_to": "2026-11-05",
+ "checked_on": "2026-11-25",
+ "record_note": "Texts from Kanton Basel-Stadt, SG (www.gesetzessammlung.bs.ch).",
+ "in_force_trailer": "In-force",
+ "citation": {
+  "file": "([^/]+)/art-0*([0-9]+[a-z]?)\\.md",
+  "cites": "Art(ikel|\\.) ?{n}([^0-9a-z]|$)"
+ }
+}

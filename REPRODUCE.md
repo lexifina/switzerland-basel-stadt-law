@@ -1,6 +1,6 @@
 # How this repository was made (Basel-Stadt)
 
-This file is written by the build on 2026-11-05, the day the source data was retrieved.
+This file is written by the build on 2026-11-25, the day the source data was retrieved.
 
 ## Sources
 
@@ -658,20 +658,172 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `bee-750-100-strassen-und-kanalisationsordnung` | Ordnung betreffend Strassen- und Kanalisationsbeiträge sowie Gebühren für die Ableitung von Abwasser | 1 | 2018-02-08 to 2018-02-08 |
 | `bee-786-100-abfallordnung` | Ordnung der Abfallbehandlung in der Gemeinde Bettingen | 1 | 2021-07-08 to 2021-07-08 |
 | `bee-789-300` | Ordnung über den Natur- und Landschaftsschutz und die Förderung der Biodiversität und Landschaftsqualität | 1 | 2017-12-18 to 2017-12-18 |
+| `117-460` | Übereinkommen zwischen dem Kanton Basel-Stadt und dem Kanton Basel-Landschaft über die Verlegung der Kantonsgrenze bei der Batterie | 1 | 1954-06-03 to 1954-06-03 |
+| `117-470` | Vertrag zwischen dem Kanton Basel-Stadt und dem Kanton Basel-Landschaft betreffend Verlegung der Kantonsgrenze zwischen Basel und Münchenstein im Gebiet der Reinacherstrasse (Dreispitzareal) | 1 | 1962-03-05 to 1962-03-05 |
+| `117-480` | Übereinkommen zwischen dem Kanton Basel-Stadt und dem Kanton Basel-Landschaft betreffend Verlegung der Kantonsgrenze beim Margarethenstich | 1 | 1968-10-31 to 1968-10-31 |
+| `117-490` | Übereinkommen zwischen den Kantonen Basel-Stadt und Basel-Landschaft betreffend Änderung des Grenzverlaufs im Gebiet St. Jakobs-Strasse, Brüglingerstrasse und Münchensteinerstrasse | 1 | 1975-02-02 to 1975-02-02 |
+| `118-300` | Vereinbarung zwischen den Kantonen Basel-Stadt und Basel-Landschaft über die Zusammenarbeit der Behörden | 1 | 2012-01-01 to 2012-01-01 |
+| `118-400` | Vereinbarung über die Nordwestschweizer Regierungskonferenz | 3 | 2007-07-01 to 2025-07-01 |
+| `118-430` | Vereinbarung über die Interparlamentarische Konferenz der Nordwestschweiz | 3 | 1978-12-07 to 2023-02-25 |
+| `118-600` | Vereinbarung über die Organisation und die Führung der Regionalplanung beider Basel | 1 | 2004-07-01 to 2004-07-01 |
+| `118-700` | Vereinbarung über die Organisation der Geschäftsstelle der Trägerschaft für das Agglomerationsprogramm der Agglomeration Basel | 1 | 2010-10-22 to 2010-10-22 |
+| `118-750` | Vereinbarung über die Bikantonale Geschäftsstelle Eventverkehr St. Jakob | 1 | 2022-06-14 to 2022-06-14 |
+| `119-100` | Übereinkommen zwischen dem Schweizerischen Bundesrat, handelnd im Namen der Kantone Solothurn, Basel-Stadt, Basel-Landschaft, Aargau und Jura, der Regierung der Bundesrepublik Deutschland, der Regierung der Französischen Republik und der Regierung des Grossherzogtums Luxemburg, über die grenzüberschreitende Zusammenarbeit zwischen Gebietskörperschaften und örtlichen öffentlichen Stellen | 1 | 1997-09-01 to 1997-09-01 |
+| `119-400` | Vereinbarung zwischen dem Schweizerischen Bundesrat, der Regierung der Bundesrepublik Deutschland und der Regierung der Französischen Republik über die grenzüberschreitende Zusammenarbeit im Raum Oberrhein | 1 | 2001-06-01 to 2001-06-01 |
+| `122-250-vereinbarung-biometrisierung-bs-bl` | Vereinbarung über die Zusammenarbeit der Kantone Basel-Stadt und Basel-Landschaft bei der Erfassung von biometrischen Daten für Schweizerpässe | 1 | 2020-07-01 to 2020-07-01 |
+| `123-400` | Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen | 1 | 2010-01-01 to 2010-01-01 |
+| `132-200` | Grossratsbeschluss betreffend Zahl der den Wahlkreisen der Stadt und den Gemeinden Bettingen und Riehen im Grossen Rat zustehende Sitze | 3 | 2012-02-12 to 2020-10-25 |
+| `153-180` | Beschluss des Regierungsrates betreffend Neuordnung des Verwaltungs- und Rekursverfahrens | 1 | 2009-01-01 to 2009-01-01 |
+| `153-280-geschaftsordnung-information-und-datenschutz` | Geschäftsordnung des Regierungsrates zum Gesetz über die Information und den Datenschutz | 1 | 2012-01-01 to 2012-01-01 |
+| `153-900` | Vereinbarung über die Konferenz der Kantonsregierungen | 1 | 2006-03-24 to 2006-03-24 |
+| `154-110` | Organisations- und Verfahrensreglement des Gerichtsrats | 1 | 2017-03-19 to 2017-03-19 |
+| `154-115` | Medien- und Informationsreglement der Gerichte | 1 | 2016-07-06 to 2016-07-06 |
+| `162-300` | Grossratsbeschluss betreffend Abbitte der von der Gesamtheit der Stimmberechtigten gewählten Behördenmitglieder von ihren Stellen | 1 | 2006-07-13 to 2006-07-13 |
+| `171-310` | Bekanntmachung betreffend das Inkrafttreten des Gesetzes über die Verschmelzung der Gemeinde Kleinhüningen mit der Stadt Basel | 1 | 1907-11-30 to 1907-11-30 |
+| `171-500` | Vertrag betreffend Verlegung der Gemeindegrenze zwischen der Stadt Basel und der Gemeinde Riehen | 1 | 1952-02-28 to 1952-02-28 |
+| `171-510` | Vertrag betreffend Verlegung der Gemeindegrenze zwischen der Stadt Basel und der Gemeinde Riehen im Geviert Bäumlihof | 1 | 2002-03-13 to 2002-03-13 |
+| `171-600` | Urkunde zur Sicherstellung des in die kantonale Verwaltung übergegangenen Vermögens der Stadtgemeinde Basel | 1 | 1876-06-26 to 1876-06-26 |
+| `172-200` | Ausscheidungsvertrag | 1 | 1876-06-06 to 1876-06-06 |
+| `172-400-zusatzabkommen-v` | Vereinbarung über die Genehmigungsanteile am Ertragsüberschuss des Stiftungsvermögens der Christoph Merian Stiftung | 2 | 1959-01-01 to 2025-01-01 |
+| `177-600` | Grossratsbeschluss betreffend die Verhältnisse der Gemeinden Riehen und Bettingen | 1 | 1891-05-11 to 1891-05-11 |
+| `190-500-bistumskonkordat` | Convention conclue relativement à la Réorganisation et nouvelle circonscription de l’Evêché de Bâle | 1 | 1978-07-19 to 1978-07-19 |
+| `190-510` | Übereinkunft zwischen den hohen Ständen Lucern, Bern, Solothurn und Zug für die Organisation des Bisthums Basel | 1 | 1828-03-28 to 1828-03-28 |
+| `215-600-nav-lw` | Normalarbeitsvertrag für landwirtschaftliche Arbeitsverhältnisse im Kanton Basel-Stadt | 2 | 1998-01-01 to 2020-01-01 |
+| `215-700-nav-haushalt-bs` | Normalarbeitsvertrag für Arbeitnehmende im Haushalt einschliesslich der 24-Stunden-Betreuung im Kanton Basel-Stadt | 2 | 2009-01-01 to 2020-10-01 |
+| `215-999` | Information des Justiz- und Sicherheitsdepartements des Kantons Basel-Stadt betreffend Gesamtarbeitsverträge | 2 | 2013-06-01 to 2014-01-01 |
+| `230-700` | Uebereinkunft zwischen der Schweizerischen Eidgenossenschaft und der Krone Württemberg, betreffend die Konkursverhältnisse und gleiche Behandlung der beyderseitigen Staatsangehörigen in Konkursfällen. | 1 | 1826-05-13 to 1826-05-13 |
+| `230-710` | Uebereinkunft zwischen den schweizerischen Kantonen Zürich, Bern, Luzern, Unterwalden (ob und nid dem Wald), Freyburg, Solothurn, Basel (Stadt- und Landtheil), Schaffhausen, St. Gallen, Graubünden, Aargau, Thurgau, Tessin, Waadt, Wallis, Neuenburg und Genf, sowie Appenzell Ausser-Rhoden, und dem Königreich Bayern über gleichmässige Behandlung der gegenseitigen Staatsangehörigen in Konkursfällen | 1 | 1834-06-27 to 1834-06-27 |
+| `251-700` | Beschluss des Regierungsrates betreffend die Bezeichnung der bei Vernachlässigung von Unterstützungspflichten antragsberechtigten Behörden und Stellen | 1 | 1991-02-03 to 1991-02-03 |
+| `257-810-viclas-konkordat` | Interkantonale Vereinbarung (bzw. Konkordat) über die computergestützte Zusammenarbeit der Kantone bei der Aufklärung von Gewaltdelikten vom 2. April 2009 | 1 | 2011-01-01 to 2011-01-01 |
+| `257-820` | Interkantonale bzw. interbehördliche Vereinbarung über den Datenaustausch zum Betrieb von Lage- und Analysesystemen im Bereich der seriellen Kriminalität | 1 | 2019-12-11 to 2019-12-11 |
+| `257-920` | Vertrag über die Opferberatungsstellen beider Basel | 1 | 2009-01-01 to 2009-01-01 |
+| `258-300` | Konkordat der Kantone der Nordwest- und Innerschweiz über den Vollzug von Strafen und Massnahmen | 1 | 2008-01-01 to 2008-01-01 |
+| `258-500` | Vertrag zwischen den Kantonen Basel-Stadt und Zug zur Errichtung und zum Betrieb einer gemeinsamen Strafanstalt im Bostadel (Kanton Zug) | 1 | 1990-12-01 to 1990-12-01 |
+| `258-600` | Konvention zwischen dem Kanton Basel-Stadt und der Stiftung Schweizerisches Ausbildungszentrum für das Strafvollzugspersonal betreffend Regelung der Kantonsbeiträge an die Kosten des Schweizerischen Ausbildungszentrums | 1 | 1980-01-03 to 1980-01-03 |
+| `300-315-krebsregistervereinbarung` | Vereinbarung zwischen dem Kanton Basel-Stadt und dem Kanton Basel-Landschaft über das Krebsregister beider Basel | 1 | 2019-01-01 to 2019-01-01 |
+| `300-400-vereinbarung-ethikkommission-nordwest-und-zentralschweiz-eknz` | Vereinbarung über die Einsetzung einer gemeinsamen Ethikkommission Nordwest- und Zentralschweiz | 2 | 2004-10-01 to 2014-01-01 |
+| `310-140-weiterbildungsfinanzierungvereinbarung-wfv` | Interkantonale Vereinbarung über die kantonalen Beiträge an die Spitäler zur Finanzierung der ärztlichen Weiterbildung und deren Ausgleich unter den Kantonen | 1 | 2022-01-25 to 2022-01-25 |
+| `321-500` | Übereinkunft zwischen der Schweiz und dem Grossherzogtum Baden betreffend die sanitäre Überwachung des von der Schweiz nach Baden gerichteten Reiseverkehrs auf dem Badischen Bahnhof zu Basel bei drohenden oder ausgebrochenen Seuchen | 1 | 1886-06-03 to 1886-06-03 |
+| `329-200` | Grossratsbeschluss betreffend die ärztliche Versorgung der Bevölkerung in den Aussenquartieren der Stadt und in Riehen | 1 | 1973-09-23 to 1973-09-23 |
+| `329-201` | Grossratsbeschluss betreffend Initiativbegehren betreffend Verbesserung der medizinisch-pflegerischen und sozialen Betreuung durch Gesundheitszentren im Quartier | 1 | 1988-11-20 to 1988-11-20 |
+| `330-500` | Entfernung der Spitalliste aus der Gesetzessammlung | 12 | 2012-01-01 to 2024-01-01 |
+| `331-300-kinderspitalvertrag` | Staatsvertrag zwischen den Kantonen Basel-Stadt und Basel-Landschaft über das Universitäts-Kinderspital beider Basel | 1 | 2013-01-01 to 2013-01-01 |
+| `332-640` | Grossratsbeschluss betreffend 1. Gewährung eines Staatsbeitrages an die Um- und Neubauten der ersten Bauetappe des Claraspitals, 2. Übernahme einer Bürgschaft für die von der St. Claraspital AG zu beschaffende I. Hypothek, 3. Projektierungskredit für die zweite Bauetappe des Claraspitals | 1 | 1971-06-17 to 1971-06-17 |
+| `333-100-ivhsm` | Interkantonale Vereinbarung über die hochspezialisierte Medizin | 1 | 2009-01-01 to 2009-01-01 |
+| `333-200` | Staatsvertrag zwischen den Kantonen Basel-Stadt und Basel-Landschaft betreffend Planung, Regulation und Aufsicht in der Gesundheitsversorgung | 1 | 2019-07-01 to 2019-07-01 |
+| `339-240-vereinbarung-sanitatsdienst` | Vereinbarung über Dienstleistungen der Sanität Basel auf dem Gebiet des Kantons Basel-Landschaft | 1 | 2009-01-01 to 2009-01-01 |
+| `340-250` | Vereinbarung der nordwestschweizerischen Kantone über die Führung eines regionalen Heilmittelinspektorates | 1 | 2003-07-16 to 2003-07-16 |
+| `361-400` | Sömmerungsvorschriften des Kantons Basel-Stadt | 1 | 2008-05-18 to 2008-05-18 |
+| `365-101` | Regierungsratsbeschluss betreffend Liste der als potentiell gefährlich eingestuften Hunderassen und deren Kreuzungen gemäss § 14 Abs. 2 des Gesetzes betreffend das Halten von Hunden (Hundegesetz) | 1 | 2009-04-30 to 2009-04-30 |
+| `365-300-veterinarvereinbarung` | Vereinbarung zwischen dem Kanton Basel-Stadt und dem Kanton Basel-Landschaft über die Durchführung von Kontrollen auf Tierhaltungsbetrieben im Kanton Basel-Stadt | 1 | 2012-01-01 to 2012-01-01 |
+| `365-520` | Vereinbarung über eine gemeinsame Tierversuchskommission der Kantone Basel-Stadt, Basel-Landschaft und Aargau | 1 | 1998-01-01 to 1998-01-01 |
+| `369-400` | Beschluss des Regierungsrates betreffend die Gebühren für die Benützung der Tierkörpersammelstelle (TKS) des Veterinäramtes des Kantons Basel-Stadt | 2 | 2009-07-01 to 2019-01-01 |
+| `390-720` | Vertrag betreffend die Kremation von Leichen aus dem Kanton Basel-Landschaft und die Abdankung im Krematorium der Stadt Basel zwischen dem Kanton Basel-Stadt, vertreten durch seinen Regierungsrat, handelnd aufgrund von § 17 des Gesetzes betreffend die Bestattungen, und dem Kanton Basel-Landschaft namens dessen Gemeinden, vertreten durch den Regierungsrat, handelnd aufgrund seines Aufsichtsrechtes gemäss § 1 des Gesetzes über das Begräbniswesen | 1 | 1975-01-29 to 1975-01-29 |
+| `390-740` | Vertrag betreffend die Kremation von Leichen aus der Gemeinde Dornach im Krematorium der Stadt Basel zwischen dem Kanton Basel-Stadt, vertreten durch das Sanitätsdepartement, und der Gemeinde Dornach (Kanton Solothurn), vertreten durch ihren Gemeinderat | 1 | 1992-04-01 to 1992-04-01 |
+| `390-760` | Vertrag betreffend die Kremation von Leichen aus dem Kanton Aargau im Krematorium der Stadt Basel zwischen dem Kanton Basel-Stadt, vertreten durch seinen Regierungsrat, handelnd aufgrund von § 17 des Gesetzes betreffend die Bestattungen, und dem Kanton Aargau namens dessen Gemeinden, vertreten durch den Regierungsrat, handelnd aufgrund seines Aufsichtsrechts gemäss § 1 der Vollziehungsverordnung vom 26. Februar 1946 zum Gesetz über das öffentliche Gesundheitswesen des Kantons Aargau vom 28. November 1919 | 1 | 1975-02-18 to 1975-02-18 |
+| `390-860` | Vertrag zwischen dem Kanton Basel-Stadt einerseits und der Einwohnergemeinde Bettingen anderseits betreffend den Gottesacker Bettingen (nachfolgend Friedhof) | 1 | 2012-01-01 to 2012-01-01 |
+| `390-880` | Vertrag zwischen dem Kanton Basel-Stadt einerseits und der Einwohnergemeinde Riehen anderseits betreffend den Gottesacker Riehen | 1 | 1982-07-01 to 1982-07-01 |
+| `390-900` | Beschluss des Regierungsrates betreffend Bewilligung eines besonderen israelitischen Friedhofs | 1 | 2009-01-01 to 2009-01-01 |
+| `410-180` | Konkordat über die Schulkoordination | 1 | 1987-04-23 to 1987-04-23 |
+| `412-100-schulvereinbarung` | Vereinbarung zwischen dem Kanton Basel-Stadt und den Gemeinden Bettingen und Riehen betreffend die kommunale Primarstufe | 2 | 2017-01-01 to 2019-08-01 |
+| `419-500` | Interkantonale Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen | 1 | 2013-03-01 to 2013-03-01 |
+| `419-600-harmos` | Interkantonale Vereinbarung über die Harmonisierung der obligatorischen Schule | 1 | 2009-08-01 to 2009-08-01 |
+| `419-630` | Interkantonale Vereinbarung über die Zusammenarbeit im Bereich der Sonderpädagogik | 1 | 2011-01-01 to 2011-01-01 |
+| `419-700-rsa-2009` | Regionales Schulabkommen über die gegenseitige Aufnahme von Auszubildenden und Ausrichtung von Beiträgen | 1 | 2010-08-08 to 2010-08-08 |
+| `419-720` | Vertrag über die Aufnahme von Schülerinnen und Schülern des Kantons Aargau an Basler Gymnasien | 1 | 2024-08-01 to 2024-08-01 |
+| `419-750-berufsfachschulvereinbarung-bfsv` | Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten in der beruflichen Grundbildung | 6 | 2013-10-25 to 2022-08-01 |
+| `419-810-hfsv` | Interkantonale Vereinbarung über Beiträge an die Bildungsgänge der höheren Fachschulen | 1 | 2014-01-01 to 2014-01-01 |
+| `419-900` | Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen | 4 | 2013-01-01 to 2017-01-01 |
+| `421-110` | Schulordnung für die Allgemeine Gewerbeschule Basel | 1 | 2004-08-09 to 2004-08-09 |
+| `421-500` | Grossratsbeschluss betreffend Errichtung einer Berufsmittelschule | 1 | 1971-02-11 to 1971-02-11 |
+| `427-120` | Vereinbarung zwischen den Kantonen und dem Schweizerischen Roten Kreuz betreffend die berufliche Ausbildung des Pflegepersonals, des medizinisch-technischen und des medizinisch-therapeutischen Personals | 1 | 1976-05-20 to 1976-05-20 |
+| `427-150-vertrag-gesundheitsberufe` | Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die Abgeltung der Kosten der nicht akademischen Berufsausbildungen im Gesundheitswesen auf Sekundarstufe II und auf Tertiärstufe | 1 | 2005-01-01 to 2005-01-01 |
+| `428-100` | Vertrag zwischen den Kantonen Aargau, Basel-Landschaft, Basel-Stadt und Solothurn über die Fachhochschule Nordwestschweiz (FHNW) | 2 | 2006-01-01 to 2012-01-01 |
+| `428-300-fhv` | Interkantonale Fachhochschulvereinbarung ab 2005 | 1 | 2005-08-01 to 2005-08-01 |
+| `428-710` | Studien- und Prüfungsreglement für Schulische Heilpädagogik | 1 | 2003-03-01 to 2003-03-01 |
+| `442-300-interkantonale-universitatsvereinbarung-iuv` | Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten von universitären Hochschulen | 2 | 2013-04-01 to 2022-01-01 |
+| `442-400` | Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die gemeinsame Trägerschaft der Universität Basel | 2 | 2007-01-01 to 2022-01-01 |
+| `442-410-immobilienvereinbarung-immov` | Vereinbarung über das Immobilienwesen der Universität Basel | 2 | 2022-01-01 to 2026-01-01 |
+| `442-700-hochschulkonkordat` | Interkantonale Vereinbarung über den schweizerischen Hochschulbereich | 1 | 2015-01-01 to 2015-01-01 |
+| `446-420` | Vereinbarung zwischen den Kantonen Basel-Stadt und Aargau über die Zusammenarbeit zwischen der Medizinischen Fakultät der Universität Basel und den an der Ausbildung von Medizinstudenten beteiligten Spitälern im Kanton Aargau | 1 | 1985-06-11 to 1985-06-11 |
+| `447-650` | Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die gemeinsame Trägerschaft des Schweizerischen Tropen- und Public Health-Instituts | 1 | 2017-01-01 to 2017-01-01 |
+| `451-800` | Eintritts- und Verwaltungs-Ordnung des Anatomischen Museums Basel | 1 | 1995-12-01 to 1995-12-01 |
+| `494-100-kulturvertrag` | Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die Abgeltung kultureller Zentrumsleistungen | 2 | 1997-01-01 to 2022-01-01 |
+| `494-830` | Vereinbarung über die Zusammenarbeit der Kantone Basel-Stadt und Basel-Landschaft in der projektorientierten Kunst- und Kulturförderung | 2 | 2008-08-19 to 2024-07-01 |
+| `497-300` | Denkmalverzeichnis | 8 | 2018-10-25 to 2026-01-15 |
+| `497-800-romervertrag` | Vertrag über die Römerstadt Augusta Raurica | 2 | 1999-01-01 to 2026-01-01 |
+| `510-200` | Vereinbarung über die grenzüberschreitenden polizeilichen Tätigkeiten in den Kantonen Basel-Landschaft und Basel-Stadt | 2 | 1983-02-01 to 2018-01-01 |
+| `510-300` | Konkordat über die polizeiliche Zusammenarbeit in der Nordwestschweiz | 1 | 1996-02-01 to 1996-02-01 |
+| `510-500` | Übereinkunft betreffend die Polizeitransporte | 1 | 1965-03-23 to 1965-03-23 |
+| `510-700` | Konkordat über Errichtung und Betrieb einer interkantonalen Polizeischule Hitzkirch | 1 | 2005-01-23 to 2005-01-23 |
+| `510-900` | Verwaltungsvereinbarung zwischen dem Kanton Basel-Stadt, vertreten durch das Sicherheitsdepartement, und der Schweizerischen Eidgenossenschaft, vertreten durch das Finanzdepartement, über die Zusammenarbeit zwischen der Kantonspolizei Basel-Stadt und dem Grenzwachtkorps bzw. der Eidgenössischen Zollverwaltung | 1 | 2007-08-23 to 2007-08-23 |
+| `519-700` | Gebührenordnung für den kleinen Grenzverkehr | 1 | 1995-04-02 to 1995-04-02 |
+| `561-110-ikv-2020` | Interkantonale Vereinbarung betreffend die gemeinsame Durchführung von Geldspielen | 2 | 1937-06-12 to 2021-01-01 |
+| `561-111-gsk` | Gesamtschweizerisches Geldspielkonkordat | 2 | 2006-07-01 to 2021-01-01 |
+| `569-150` | Vertrag zwischen dem Kanton Basel-Stadt, vertreten durch den Departementsvorsteher des Erziehungsdepartements, Regierungsrat Dr. Christoph Eymann, Leimenstrasse 1, 4001 Basel, und dem Kanton Basel-Landschaft, vertreten durch den Vorsteher der Sicherheitsdirektion, Regierungsrat Isaac Reber, Rathausstrasse 2, 4410 Liestal, betreffend gemeinsame Medienkommission beider Basel | 1 | 2013-01-01 to 2013-01-01 |
+| `576-800` | Vereinbarung zwischen den Kantonen über die interkantonale Hilfeleistung durch den Zivilschutz bei Katastrophen und in Notlagen | 1 | 2006-01-01 to 2006-01-01 |
+| `576-900` | Vereinbarung zwischen dem Regierungspräsidium Freiburg und dem Kanton Basel-Stadt über die gegenseitige Information bei Gefahren und Schäden, die sich auf das Hoheitsgebiet des Nachbarstaates auswirken können | 1 | 1990-04-09 to 1990-04-09 |
+| `576-950` | Vereinbarung zwischen dem Präfekten des Departements Haut-Rhin und dem Kanton Basel-Stadt über die gegenseitige Information über Gefahren und Schäden, die sich auf das Hoheitsgebiet des Nachbarstaates auswirken können | 1 | 1987-12-24 to 1987-12-24 |
+| `649-200` | Konkordat zwischen den Kantonen der Schweizerischen Eidgenossenschaft über den Ausschluss von Steuerabkommen | 1 | 1949-10-06 to 1949-10-06 |
+| `649-500` | Grossratsbeschluss betreffend Steuerbefreiung der EUROFIMA, Europäische Gesellschaft für die Finanzierung von Eisenbahnmaterial, im Kanton Basel-Stadt | 1 | 1955-11-13 to 1955-11-13 |
+| `649-800` | Vereinbarung zwischen dem Schweizerischen Bundesrat und der Regierung der Französischen Republik über die steuerliche Behandlung von Zuwendungen zu ausschliesslich uneigennützigen Zwecken | 1 | 1982-01-05 to 1982-01-05 |
+| `649-810` | Vereinbarung zwischen dem Schweizerischen Bundesrat und der Regierung der Französischen Republik über die Besteuerung der Erwerbseinkünfte von Grenzgängern | 1 | 1985-09-05 to 1985-09-05 |
+| `670-100-rahmenvereinbarung-irv` | Rahmenvereinbarung für die interkantonale Zusammenarbeit mit Lastenausgleich | 1 | 2006-07-23 to 2006-07-23 |
+| `685-100` | Grossratsbeschluss betreffend Anlage und Betrieb von öffentlichen Materiallagerplätzen auf dem Dreispitz | 1 | 1900-06-28 to 1900-06-28 |
+| `685-200` | Verträge zwischen der Einwohnergemeinde der Stadt Basel und der Christoph Merian Stiftung über das Dreispitzareal | 1 | 1979-11-02 to 1979-11-02 |
+| `691-100` | Interkantonale Vereinbarung über den Salzverkauf in der Schweiz | 1 | 1975-10-01 to 1975-10-01 |
+| `695-300` | Schatzungs- und Abgrenzungsbestimmungen zum Gebäudeversicherungsgesetz | 1 | 2006-12-14 to 2006-12-14 |
+| `695-400` | Prämienbestimmungen zum Gebäudeversicherungsgesetz | 1 | 2010-01-01 to 2010-01-01 |
+| `721-820` | Vertrag zwischen der Schweizerischen Eidgenossenschaft und der Bundesrepublik Deutschland über den Autobahnzusammenschluss im Raum Basel und Weil am Rhein | 1 | 1980-06-10 to 1980-06-10 |
+| `721-840` | Vertrag zwischen der Schweizerischen Eidgenossenschaft und der Bundesrepublik Deutschland über die Strasse zwischen Lörrach und Weil am Rhein auf schweizerischem Gebiet | 1 | 1980-08-01 to 1980-08-01 |
+| `724-300` | Vorschriften des Baudepartementes für die Ausführung von Grabarbeiten in der Allmend | 1 | 1974-11-25 to 1974-11-25 |
+| `730-110-bpv` | Bau- und Planungsverordnung | 18 | 2012-02-01 to 2026-02-05 |
+| `731-150-096-bp-96` | Basel Im Sesselacker / Spiegelbergstrasse / Schönenbergstrasse / Löwenbergstrasse / Hauensteinstrasse | 1 | 1990-08-30 to 1990-08-30 |
+| `771-610` | Convention pour le règlement des rapports entre la Suisse et la France au sujet de certaines clauses du régime juridique de la future dérivation de Kembs | 1 | 1927-12-29 to 1927-12-29 |
+| `771-700` | Staatsvertrag über Wasserbenützung aus der Wiese abgeschlossen zwischen dem Markgrafen Karl Friedrich von Baden und Bürgermeister und Rat der Stadt Basel am 16./25. August 1756 | 1 | 1895-06-01 to 1895-06-01 |
+| `771-710` | Vereinbarung betreffend Sicherung des Vollzugs des Staatsvertrages vom 16./25. August 1756 zwischen der Stadt Basel und dem Markgrafen Karl Friedrich von Baden über Wasserbenützung aus der Wiese | 1 | 1895-06-01 to 1895-06-01 |
+| `771-720` | Vereinbarung betreffend Änderung der am 19. Oktober 1894 vereinbarten Vollzugsbestimmungen zum Staatsvertrage vom 16. und 25. August 1756 zwischen der Stadt Basel und dem Markgrafen Karl Friedrich von Baden über Wasserbenützung aus der Wiese | 1 | 1914-05-02 to 1914-05-02 |
+| `771-940` | Grossratsbeschluss betreffend die Durchführung der Verlegung der Kleinbasler Teiche | 1 | 1906-09-13 to 1906-09-13 |
+| `772-150` | Beschluss des Regierungsrates betreffend Erhebung einer Förderabgabe zur Finanzierung der sich aus dem Energiegesetz ergebenden finanziellen Verpflichtungen | 1 | 2012-07-01 to 2012-07-01 |
+| `772-420` | Gebührentarif der IWB Industrielle Werke Basel für den Anschluss und die Nutzung des Netzes für elektrische Energie sowie die Messung von Elektrizität | 15 | 2013-01-01 to 2026-01-01 |
+| `772-430` | Gebührentarif der IWB Industrielle Werke Basel für die elektrische Energie | 10 | 2012-01-01 to 2025-01-01 |
+| `772-530` | Gebührentarif der IWB Industrielle Werke Basel betreffend Gas | 11 | 2012-10-01 to 2024-10-01 |
+| `772-630` | Gebührentarif der IWB Industrielle Werke Basel betreffend Fernwärme | 8 | 2012-10-01 to 2025-10-01 |
+| `772-830` | Gebührentarif der IWB Industrielle Werke Basel betreffend Wasser | 3 | 2018-03-01 to 2024-04-01 |
+| `784-710` | Vertrag zwischen Basel-Stadt und Lörrach über die Ableitung des Schmutzwassers der Kanalisation von Lörrach in den Rhein | 1 | 1912-03-14 to 1912-03-14 |
+| `784-720` | Vertrag zwischen dem Kanton Basel-Stadt, vertreten durch den Regierungsrat (nachfolgend «Kanton» genannt) und der Gemeinde Inzlingen, Landkreis Lörrach, vertreten durch den Bürgermeister (nachfolgend «Gemeinde» genannt), betreffend den Anschluss des Kanalisationsnetzes der Gemeinde Inzlingen an das baselstädtische Kanalisationsnetz und Reinigung des Abwassers in der Abwasserreinigungsanlage Basel | 1 | 1986-07-01 to 1986-07-01 |
+| `784-730` | Vertrag zwischen dem Kanton Basel-Stadt, vertreten durch den Regierungsrat (nachfolgend «Kanton» genannt) und der Stadt Weil am Rhein, vertreten durch den Oberbürgermeister (nachfolgend «Stadt» genannt), betreffend den Anschluss der Kanalisation der «Siedlung 14 Linden» an das baselstädtische Kanalisationsnetz und Reinigung des Abwassers in der Abwasserreinigungsanlage Basel | 1 | 1986-07-01 to 1986-07-01 |
+| `784-740` | Vertrag zwischen dem Kanton Basel-Stadt und dem Wieseverband, Sitz in Lörrach, betreffend das Durchleitungsrecht für den Abwasserhauptsammler im Gebiet des Schlipf, auf dem rechten Ufergelände der Wiese im Kanton Basel-Stadt (Gemeinde Riehen) und den Anschluss der Kanalisation des rechtsuferigen Wiesegeländes der Gemeinde Riehen, mit Ausnahme der Zollfreien Strasse Lörrach-Weil, an den Abwasserhauptsammler und Reinigung des Abwassers in der Abwasserreinigungsanlage Bändlegrund des Wieseverbandes | 1 | 2001-11-06 to 2001-11-06 |
+| `785-700` | Vertrag zwischen dem Kanton Basel-Stadt und dem Kanton Basel-Landschaft betreffend die gemeinsame Durchführung von Gewässerschutzmassnahmen | 1 | 1975-09-02 to 1975-09-02 |
+| `785-720` | Vertrag zwischen dem Kanton Basel-Stadt, dem Kanton Basel-Landschaft, den Firmen Ciba-Geigy AG, in Basel, F. Hoffmann-La Roche & Co. AG, in Basel, Sandoz AG, in Basel, betreffend gemeinsame Durchführung von Gewässerschutzmassnahmen | 1 | 1979-06-26 to 1979-06-26 |
+| `785-740` | Vertrag zwischen 1. Kanton Basel-Stadt vertreten durch den Regierungsrat, der Regierungsrat gleichzeitig handelnd für die Einwohnergemeinde der Stadt Basel 2. Kanton Basel-Landschaft vertreten durch den Regierungsrat 3. Einfacher Gesellschaft, bestehend aus a) BASF Schweiz AG, Basel b) F. Hoffmann-La Roche AG, Basel c) Huntsman Advanced Materials (Switzerland) GmbH, Basel d) Novartis Pharma AG, Basel e) Syngenta Crop Protection AG, Basel betreffend den gemeinsamen Betrieb von Abwasserreinigungsanlagen | 2 | 1999-03-09 to 2018-01-01 |
+| `786-170` | Gebührentarif der IWB Industrielle Werke Basel betreffend die Entgegennahme von Abfällen zur Verbrennung in der Kehrichtverwertungsanlage (KVA) | 3 | 2013-01-01 to 2019-01-01 |
+| `786-300-abfallvereinbarung-bs-bl` | Vereinbarung zwischen den Kantonen Basel-Stadt und Basel-Landschaft über die Annahme von Abfällen in der Kehrichtverwertungsanlage Basel und der Deponie Elbisgraben | 1 | 2019-10-01 to 2019-10-01 |
+| `786-310` | Umsetzungsvertrag zwischen den Kantonen Basel-Stadt und Basel-Landschaft über die Annahme von Abfällen in der Kehrichtverwertungsanlage Basel (KVA) und von Verbrennungsrückständen aus der KVA auf der Deponie Elbisgraben | 1 | 2019-10-01 to 2019-10-01 |
+| `786-360` | Vertrag zwischen dem Kanton Basel-Stadt, vertreten durch den Regierungsrat, einerseits, und der Stadt Weil am Rhein, vertreten durch den Bürgermeister, anderseits, betreffend die Verwertung und Vernichtung von Abfallstoffen | 1 | 1970-07-14 to 1970-07-14 |
+| `786-370` | Vertrag zwischen dem Kanton Basel-Stadt, vertreten durch das Baudepartement, und dem Landkreis Lörrach, vertreten durch den Landrat, betreffend die Verbrennung von Siedlungsabfällen in der Kehrichtverbrennunganlage (KVA) Basel | 2 | 2003-02-28 to 2014-01-01 |
+| `786-400` | Vertrag zwischen Ciba-Geigy AG, Basel, und Kanton Basel-Stadt, vertreten durch den Regierungsrat, Kanton Basel-Landschaft, vertreten durch den Regierungsrat, betreffend Sonderabfallverbrennung | 1 | 1992-05-12 to 1992-05-12 |
+| `789-730` | Grossratsbeschluss betreffend Erweiterung der Baumschutzgebiete im Kanton Basel-Stadt | 1 | 1980-10-19 to 1980-10-19 |
+| `789-750` | Beschluss des Regierungsrates betreffend den Schutz der Rheinhalde | 1 | 1919-01-03 to 1919-01-03 |
+| `819-878-covid-19-grb-publikumsanlasse` | Dringlicher Grossratsbeschluss über Massnahmen für Publikumsanlässe von überkantonaler Bedeutung im Zusammenhang mit der Covid-19-Epidemie | 2 | 2021-06-27 to 2022-05-11 |
+| `820-550` | Beschluss des Regierungsrates betreffend Festsetzung des Arbeitgeberbeitrages an die Familienausgleichskasse Basel-Stadt | 3 | 2010-01-01 to 2022-01-01 |
+| `832-750` | Vertrag zwischen dem Kanton Basel-Stadt und der Einwohnergemeinde Riehen betreffend den Vollzug im Bereich Ergänzungsleistungen und Beihilfen bei Personen mit Wohnsitz in Riehen | 2 | 2013-01-01 to 2021-01-01 |
 
-The build made 1412 commits:
+The build made 1671 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 643 | first version of an act |
-| 703 | one law on its in-force day |
-| 4 | changes no amendment note explains, credited to the publisher |
+| 348 | baseline texts where the record starts |
+| 1256 | named laws, court decisions and treaties |
+| 5 | changes no amendment note explains, credited to the publisher |
+| 62 | corrections to the existing record |
+| 0 | printing or layout changes |
 
 Other counts:
-- 4 commits on the branch `zukunft`: laws not yet in force on 2026-11-05.
-- 8 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 1293 laws in the record.
-- 2342 tags.
+- 4 commits on the branch `zukunft`: laws not yet in force on 2026-11-25.
+- 33 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 1465 laws in the record.
+- 2744 tags.
 
 ## Dates
 
@@ -683,15 +835,15 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `686e88f4580bb02a4c9c9d62f6d34e7c0c41c844941c5d7f784c35ec34d60961` (19270013 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
-- Python 3.14.4; git version 2.53.0.
+- Corpus: sha256 `b675fd5bcc373deb72c8b2afa3966d538ed324382bf9acc3dd9b6367234ad789` (21640207 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `3ed15ed797641367480d7d9c7e1a7c0b0f34d538`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `467264bb286660494d9b93836dbef5109b4fa759`.
+- Python 3.14.0; git version 2.52.0.windows.1.
 
 ## Checks
 
-1644 versions of 643 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
-A second build from the same corpus into an empty folder gave identical hashes for all 1396 history commits and 2340 tags (history tip `1d3a2f70865daa4c08a176f63ce24a4b310a3cab`).
+No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
@@ -717,7 +869,7 @@ A second build from the same corpus into an empty folder gave identical hashes f
 
 ## What AI did and did not do
 
-The scripts that read the sources and build this repository were written by Claude Code running Claude Opus 5.5 (`claude-opus-5-5`) under Lexifina's direction.
+The source readers and builders were developed under Lexifina's direction with coding assistants, including Claude Code and Codex.
 
 No model wrote, translated or corrected legal text. No model runs at build time. Every word of law in this repository comes from the official sources above.
 
