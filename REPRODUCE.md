@@ -1,6 +1,6 @@
 # How this repository was made (Basel-Stadt)
 
-This file is written by the build on 2026-11-25, the day the source data was retrieved.
+This file is written by the build on 2026-11-26, the day the source data was retrieved.
 
 ## Sources
 
@@ -808,22 +808,132 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `819-878-covid-19-grb-publikumsanlasse` | Dringlicher Grossratsbeschluss über Massnahmen für Publikumsanlässe von überkantonaler Bedeutung im Zusammenhang mit der Covid-19-Epidemie | 2 | 2021-06-27 to 2022-05-11 |
 | `820-550` | Beschluss des Regierungsrates betreffend Festsetzung des Arbeitgeberbeitrages an die Familienausgleichskasse Basel-Stadt | 3 | 2010-01-01 to 2022-01-01 |
 | `832-750` | Vertrag zwischen dem Kanton Basel-Stadt und der Einwohnergemeinde Riehen betreffend den Vollzug im Bereich Ergänzungsleistungen und Beihilfen bei Personen mit Wohnsitz in Riehen | 2 | 2013-01-01 to 2021-01-01 |
+| `832-755` | Vertrag zwischen dem Kanton Basel-Stadt und der Einwohnergemeinde Bettingen betreffend den Vollzug im Bereich Ergänzungsleistungen und Beihilfen bei Personen mit Wohnsitz in Bettingen | 1 | 2021-01-01 to 2021-01-01 |
+| `833-100-bvg-und-stiftungsaufsichtsvertrag` | Vertrag zwischen den Kantonen Basel-Stadt und Basel-Landschaft über die BVG- und Stiftungsaufsicht beider Basel | 1 | 2012-01-01 to 2012-01-01 |
+| `834-420` | Entfernung der Pflegeheimliste aus der Gesetzessammlung | 14 | 2012-01-01 to 2026-01-01 |
+| `835-600` | Beschluss des Regierungsrates betreffend Arbeitslosenfonds in Auflösung | 2 | 1993-11-28 to 2024-01-01 |
+| `869-100-ivse` | Interkantonale Vereinbarung für soziale Einrichtungen | 2 | 2009-03-01 to 2020-06-01 |
+| `869-204` | Grossratsbeschluss betreffend Gewährung eines Staatsbeitrages und einer I. Hypothek an die Erstellungskosten einer Alterssiedlung des Gemeinnützigen Vereins für Alterswohnungen an der Gundeldingerstrasse | 1 | 1962-10-11 to 1962-10-11 |
+| `869-205` | Grossratsbeschluss betreffend Gewährung eines Staatsbeitrages an die Erstellungskosten einer Alterssiedlung der Christoph Merian Stiftung auf dem Sesselacker | 1 | 1963-04-18 to 1963-04-18 |
+| `869-209` | Grossratsbeschluss betreffend Gewährung eines Staatsbeitrages an die Erstellungskosten von Alterswohnungen des Vereins für Kranken- und Hauspflege St. Matthäus am Bläsiring 98 | 1 | 1964-10-08 to 1964-10-08 |
+| `869-210` | Grossratsbeschluss betreffend die Gewährung eines Staatsbeitrages an die Erstellungskosten von Alterswohnungen der Heilsarmee an der Breisacherstrasse 45 | 1 | 1967-06-29 to 1967-06-29 |
+| `869-301` | Grossratsbeschluss betreffend Gewährung eines Staatsbeitrages an die Erstellungskosten eines Wohn- und Freizeitheimes des Christlichen Vereins junger Frauen Basel am Spalentorweg 10 | 1 | 1964-01-31 to 1964-01-31 |
+| `869-501` | Grossratsbeschluss betreffend Gewährung eines Staatsbeitrages an die Genossenschaft für die Sozialwerke der Heilsarmee für den Umbau des Männerheimes «Hospiz Rheinblick» am Oberen Rheinweg 75 in Basel | 1 | 1968-01-11 to 1968-01-11 |
+| `869-560` | Grossratsbeschluss betreffend Gewährung eines Staatsbeitrages und einer I. Hypothek an die Erstellungskosten eines Lehrlingsheimes der Stiftung zugunsten eines Lehrlingsheimes und CVJM-Hauses an der Gempenstrasse 64 in Basel | 1 | 1965-01-29 to 1965-01-29 |
+| `869-750` | Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die Nutzung und Abgeltung ambulanter Angebote der Behindertenhilfe und allfälliger Folgekosten | 1 | 2017-01-01 to 2017-01-01 |
+| `890-800-asylvertrag` | Vertrag zwischen dem Kanton Basel-Stadt und den Gemeinden Bettingen und Riehen betreffend die Aufgabenteilung im Bereich Asyl | 2 | 2017-01-01 to 2024-01-01 |
+| `910-500-ivth` | Interkantonale Vereinbarung zum Abbau technischer Handelshemmnisse | 1 | 2003-02-04 to 2003-02-04 |
+| `911-200` | Vereinbarung zwischen dem Kanton Basel-Stadt und dem Kanton Basel-Landschaft betreffend den Vollzug des eidgenössischen Landwirtschaftsrechtes | 2 | 2012-01-01 to 2020-01-01 |
+| `911-700-afww-beider-basel` | Vereinbarung über das Amt für Wald und Wild beider Basel | 2 | 1994-10-31 to 2025-01-01 |
+| `912-210-wjv` | Wildtier- und Jagdverordnung | 2 | 2009-01-01 to 2024-04-01 |
+| `914-200-eg-ivob` | Einführungsgesetz zur Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen | 1 | 2024-02-01 to 2024-02-01 |
+| `914-600-ivob` | Interkantonale Vereinbarung über das öffentliche Beschaffungswesen | 1 | 2024-02-01 to 2024-02-01 |
+| `919-200` | Grossratsbeschluss betreffend Umwandlung der Genossenschaft Schweizer Mustermesse in Basel in die Schweizer Mustermesse AG | 1 | 2000-02-07 to 2000-02-07 |
+| `952-570` | Vereinbarung zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die gemeinsame Ausgabe von Gewerbeparkkarten | 1 | 2015-01-01 to 2015-01-01 |
+| `952-601-hausordnung` | Vorschriften über die Benutzung der Parkhäuser City, Elisabethen, Steinen und Storchen sowie St. Jakob mit Aussenparkfläche | 2 | 2007-07-01 to 2017-10-21 |
+| `952-610` | Tarifordnung betreffend die Parkhäuser Basel-Stadt | 2 | 2006-04-01 to 2017-10-21 |
+| `952-800` | Vereinbarung betreffend die Motorfahrzeugprüfstation beider Basel | 1 | 1979-01-09 to 1979-01-09 |
+| `952-801` | Vereinbarung über eine gemeinsame Prüfstation in der «Unteren Wanne», Münchenstein | 1 | 1979-01-09 to 1979-01-09 |
+| `952-820` | Vereinbarung zwischen den Kantonen Basel-Stadt, Basel-Landschaft und Aargau über die Durchführung der amtlichen Nachkontrollen von Fahrzeugen | 1 | 1997-07-01 to 1997-07-01 |
+| `952-860` | Vereinbarung über die Gebühren der Motorfahrzeugprüfstation beider Basel | 3 | 2010-04-01 to 2024-10-01 |
+| `953-800` | Vereinbarung über die Basler Verkehrs-Betriebe und die BLT Baselland Transport AG | 1 | 1995-01-01 to 1995-01-01 |
+| `953-820` | Vertrag zwischen den Basler Verkehrs-Betrieben (BVB) und der Trambahngesellschaft Basel-Aesch AG, nachstehend TBA genannt | 1 | 1970-01-01 to 1970-01-01 |
+| `953-840` | Vertrag zwischen den Basler Verkehrs-Betrieben (BV) und der BLT Baselland Transport AG (BLT) betreffend den Betrieb auf den Teilstrecken Basel-Aeschenplatz–Kantonsgrenze–Ruchfeld | 1 | 1975-01-01 to 1975-01-01 |
+| `953-860` | Vertrag zwischen den Basler Verkehrs-Betrieben (BVB) und der Basellandschaftlichen Ueberlandbahn AG, nachstehend BUeB genannt | 1 | 1970-01-01 to 1970-01-01 |
+| `953-900` | Vereinbarung zwischen den Schweizerischen Bundesbahnen (SBB) den Schweizerischen PTT-Betrieben (PTT) den Basler Verkehrs-Betrieben (BVB) der BLT Baselland Transport AG (BLT) und den Kantonen Aargau, Basel-Landschaft, Basel-Stadt, Bern, Jura, Solothurn betreffend den integralen Tarifverbund Nordwestschweiz (TNW) ab 1. Januar 1990 | 1 | 1993-01-01 to 1993-01-01 |
+| `953-930` | Vereinbarung über die Beitragsleistung an Fahrten von mobilitätseingeschränkten Personen | 2 | 2011-05-15 to 2016-01-01 |
+| `954-420` | Vertrag zwischen dem Deutschen Reich (Eisenbahnfiskus), vertreten durch die Reichsbahndirektion in Karlsruhe, einerseits, dem Kanton Basel-Stadt, vertreten durch den Regierungsrat, und den Schweizerischen Bundesbahnen, vertreten durch die Generaldirektion in Bern, anderseits, betreffend a) den Anschluss der Hafenbahn an den Basel Badischen Verschubbahnhof, b) den Betrieb der Hafenbahn durch die Schweizerischen Bundesbahnen zwischen dem baselstädtischen Rheinhafen Kleinhüningen und dem Basel Badischen Verschubbahnhof | 1 | 1925-03-12 to 1925-03-12 |
+| `954-510` | Vertrag zwischen der schweizerischen Eidgenossenschaft und dem Grossherzogtum Baden, betreffend die Weiterführung der badischen Eisenbahnen über schweizerisches Gebiet | 1 | 1985-10-07 to 1985-10-07 |
+| `954-511-herauslosungsvereinbarung` | Vereinbarung betreffend das DB-Güterbahnhofareal in Basel zwischen dem Kanton Basel-Stadt, vertreten durch den Regierungsrat des Kantons Basel-Stadt, und der Bundesrepublik Deutschland, vertreten durch das Bundeseisenbahnvermögen | 1 | 2003-09-16 to 2003-09-16 |
+| `954-520` | Übereinkunft betreffend die Weiterführung der Grossherzoglichen Badischen Rheinthal-Eisenbahn durch das Gebiet des Kantons Basel-Stadt | 1 | 1853-04-22 to 1853-04-22 |
+| `954-530` | Übereinkunft betreffend die Herstellung einer Wiesenthaleisenbahn | 1 | 1860-10-31 to 1860-10-31 |
+| `954-540` | Übereinkunft betreffend die Erweiterung des Badischen Hauptbahnhofs und die Erstellung eines Rangier- und Werkstättenbahnhofs auf dem Gebiete des Kantons Basel-Stadt | 1 | 1985-10-07 to 1985-10-07 |
+| `954-550` | Vertrag über die Verlegung des Personenbahnhofes und den Umbau der übrigen Bahnhofteile der Grossherzoglich Badischen Staatseisenbahnen in Basel, abgeschlossen zwischen dem Regierungsrat des Kantons Basel-Stadt und der Grossherzoglichen Generaldirektion der Badischen Staatseisenbahnen | 1 | 1900-03-31 to 1900-03-31 |
+| `954-551` | Nachtrags-Vertrag zum Vertrag vom 24./31. März 1900 über die Verlegung des Personenbahnhofes und den Umbau der übrigen Bahnhofteile der Grossherzoglichen Badischen Staatseisenbahnen in Basel, abgeschlossen zwischen dem Regierungsrat des Kantons Basel-Stadt und der Grossherzoglichen Generaldirektion der Badischen Staatseisenbahnen | 1 | 1911-01-20 to 1911-01-20 |
+| `954-560` | Vereinbarung über die deutschen Eisenbahnstrecken auf Schweizer Gebiet | 1 | 1953-09-01 to 1953-09-01 |
+| `955-400-rheinhafen-vertrag` | Staatsvertrag über die Zusammenlegung der Rheinschifffahrtsdirektion Basel und der Rheinhäfen des Kantons Basel-Landschaft zu einer Anstalt öffentlichen Rechts mit eigener Rechtspersönlichkeit unter dem Namen «Schweizer Rheinhäfen» («Ports Rhénans Suisses», «Swiss Rhine Ports») | 1 | 2008-01-01 to 2008-01-01 |
+| `955-460` | Hafenordnung für die Rheinhäfen beider Basel | 2 | 2009-01-01 to 2011-01-01 |
+| `955-470` | Gebührentarif der Schweizerischen Rheinhäfen | 2 | 2011-01-01 to 2017-01-01 |
+| `955-480` | Abgabetarif der Schweizerischen Rheinhäfen | 2 | 2011-01-01 to 2015-01-01 |
+| `955-700` | Interkantonale Vereinbarung zwischen den Kantonen Basel-Stadt, Basel-Landschaft und Aargau in Rheinschiffahrts- und Hafenangelegenheiten | 1 | 1997-01-01 to 1997-01-01 |
+| `955-900` | Beschluss des Regierungsrates betreffend Zuständigkeit zur Verzeigung von an Bord schweizerischer Seeschiffe begangenen Übertretungen | 2 | 1965-05-21 to 2016-07-01 |
+| `956-200` | Französisch-schweizerischer Staatsvertrag über den Bau und Betrieb des Flughafens Basel-Mülhausen in Blotzheim | 1 | 1998-01-16 to 1998-01-16 |
+| `956-300` | Notenwechsel vom 15. Mai 1965 betreffend Erhebung der Umsatzsteuer auf den Bau- und Einrichtungsarbeiten des Flughafens Basel-Mülhausen | 1 | 1965-05-15 to 1965-05-15 |
+| `956-400-zusammenarbeits-vereinbarung` | Vereinbarung zwischen der Schweizerischen Eidgenossenschaft vertreten durch den Schweizerischen Bundesrat und den Kantonen Basel-Stadt und Basel-Landschaft, jeweils vertreten durch den Regierungsrat betreffend Zusammenarbeit bei der Wahrung der schweizerischen Interessen auf dem binationalen Flughafen Basel-Mülhausen | 1 | 1998-07-26 to 1998-07-26 |
+| `956-500` | Grossratsbeschluss betreffend Ausbau des Flughafens Basel-Mülhausen (II. Etappe des Erstausbaus) | 1 | 1962-04-12 to 1962-04-12 |
+| `956-550` | Vereinbarung über die Fluglärmkommission und die Ombudsstelle für Fluglärmklagen | 1 | 2011-07-01 to 2011-07-01 |
+| `bab-111-100` | Gemeindeordnung der Bürgergemeinde der Stadt Basel | 6 | 2012-09-22 to 2026-01-01 |
+| `bab-152-100` | Geschäftsordnung des Bürgergemeinderates der Stadt Basel | 11 | 2012-07-31 to 2026-07-01 |
+| `bab-153-100` | Geschäftsordnung des Bürgerrates der Stadt Basel | 3 | 2014-08-01 to 2026-01-01 |
+| `bab-171-300` | Vereinbarung über die Verschmelzung der Bürgergemeinden Basel und Kleinhüningen | 1 | 1907-11-17 to 1907-11-17 |
+| `bab-172-200` | Ausscheidungsvertrag | 1 | 1876-06-06 to 1876-06-06 |
+| `bab-172-400-zusatzabkommen-v` | Vereinbarung über die Genehmigungsanteile am Ertragsüberschuss des Stiftungsvermögens der Christoph Merian Stiftung | 2 | 1959-01-01 to 2025-01-01 |
+| `bab-172-900` | Testament des Christoph Merian-Burckhardt (Auszug) | 1 | 1858-08-25 to 1858-08-25 |
+| `beb-111-100` | Gemeindeordnung der Bürgergemeinde Bettingen | 3 | 2013-01-01 to 2021-02-25 |
+| `beb-121-170` | Beschluss des Bürgerrates Bettingen betreffend Durchführung der Sprachanalysen | 1 | 2012-07-01 to 2012-07-01 |
+| `beb-152-100` | Geschäftsordnung der Versammlung der Bürgergemeinde Bettingen | 1 | 1986-01-01 to 1986-01-01 |
+| `bee-111-100` | Gemeindeordnung der Einwohnergemeinde Bettingen | 2 | 2017-05-01 to 2023-04-01 |
+| `bee-117-200` | Vertrag betreffend Verlegung der Gemeindegrenze zwischen den Gemeinden Riehen und Bettingen | 1 | 1956-08-23 to 1956-08-23 |
+| `bee-117-210` | Vertrag betreffend Verlegung der Gemeindegrenze zwischen den Gemeinden Bettingen und Riehen im Gebiet «Im Wenkenberg» | 1 | 1976-01-27 to 1976-01-27 |
+| `bee-117-220` | Vertrag betreffend Verlegung der Gemeindegrenze zwischen den Gemeinden Bettingen und Riehen in den Gebieten «Im Britzigerberg», «Im Linsberg» und «Im Winkel» | 1 | 1981-12-22 to 1981-12-22 |
+| `bee-152-100-geschaftsordnung-gemeindeversammlung` | Geschäftsordnung der Gemeindeversammlung der Einwohnergemeinde Bettingen | 2 | 1986-01-01 to 2017-05-01 |
+| `bee-329-400` | Vertrag zwischen dem Kanton Basel-Stadt und der Einwohnergemeinde Riehen sowie der Einwohnergemeinde Bettingen betreffend Planung des Angebots an Pflegeheimplätzen und Pflegeberatung | 1 | 2002-07-01 to 2002-07-01 |
+| `bee-365-100` | Beschluss der Einwohnergemeindeversammlung betreffend Festsetzung der Hundesteuer | 1 | 1994-01-01 to 1994-01-01 |
+| `bee-390-860` | Vertrag zwischen dem Kanton Basel-Stadt einerseits und der Einwohnergemeinde Bettingen anderseits betreffend den Gottesacker Bettingen (nachfolgend Friedhof) | 1 | 2012-01-01 to 2012-01-01 |
+| `bee-411-500-schulvertrag` | Vertrag betreffend die Zusammenarbeit der Gemeinden Bettingen und Riehen für den Betrieb und die Finanzierung ihrer Schulen | 4 | 2009-08-01 to 2022-01-01 |
+| `bee-412-100-schulvereinbarung` | Vereinbarung zwischen dem Kanton Basel-Stadt und den Gemeinden Bettingen und Riehen betreffend die kommunale Primarstufe | 5 | 2009-06-28 to 2019-08-01 |
+| `bee-640-100` | Steuerordnung der Gemeinde Bettingen | 7 | 2012-01-01 to 2019-01-01 |
+| `bee-680-100-benutzungs-und-gebuhrenreglement-baslerhofscheune` | Benützungs- und Gebührenreglement Baslerhofscheune Bettingen | 6 | 2016-01-01 to 2025-01-01 |
+| `bee-731-150` | Verzeichnis der Bebauungspläne der Gemeinde Bettingen | 1 | 2026-09-21 to 2026-09-21 |
+| `bee-832-680` | Vertrag zwischen der Einwohnergemeinde Riehen und der Einwohnergemeinde Bettingen betreffend Leistungserbringungen im Bereich Pflegeberatung | 3 | 2002-07-01 to 2021-01-01 |
+| `bee-832-755` | Vertrag zwischen dem Kanton Basel-Stadt und der Einwohnergemeinde Bettingen betreffend den Vollzug im Bereich Ergänzungsleistungen und Beihilfen bei Personen mit Wohnsitz in Bettingen | 1 | 2021-01-01 to 2021-01-01 |
+| `bee-890-500` | Vertrag zwischen der Einwohnergemeinde Riehen und der Einwohnergemeinde Bettingen betreffend die Leistungserbringung in den Bereichen der Sozialhilfe, Sozialberatung und Wohnassistenz | 2 | 2007-05-01 to 2025-01-01 |
+| `bee-890-510` | Sozialhilfeordnung | 2 | 2007-05-01 to 2017-05-01 |
+| `bee-890-800-asylvertrag` | Vertrag zwischen dem Kanton Basel-Stadt und den Gemeinden Bettingen und Riehen betreffend die Aufgabenteilung im Bereich Asyl | 2 | 2017-01-01 to 2024-01-01 |
+| `rib-111-100` | Gemeindeordnung der Bürgergemeinde Riehen | 2 | 2013-03-24 to 2019-08-08 |
+| `rib-121-170` | Beschluss des Bürgerrates Riehen betreffend Durchführung der Sprachanalysen | 1 | 2012-07-01 to 2012-07-01 |
+| `rib-152-100` | Geschäftsordnung der Bürgerversammlung Riehen | 1 | 2013-03-24 to 2013-03-24 |
+| `rie-111-100` | Gemeindeordnung der Einwohnergemeinde Riehen | 3 | 2010-07-19 to 2023-01-01 |
+| `rie-111-200` | Wappen der Gemeinde Riehen | 1 | 1948-07-02 to 1948-07-02 |
+| `rie-117-100` | Vertrag betreffend Verlegung der Gemeindegrenze zwischen der Stadt Basel und der Gemeinde Riehen | 1 | 1952-04-13 to 1952-04-13 |
+| `rie-117-110` | Vertrag betreffend Verlegung der Gemeindegrenze zwischen der Stadt Basel und der Gemeinde Riehen im Geviert Bäumlihof | 1 | 2002-03-17 to 2002-03-17 |
+| `rie-117-200` | Vertrag betreffend Verlegung der Gemeindegrenze zwischen den Gemeinden Riehen und Bettingen | 1 | 1956-08-23 to 1956-08-23 |
+| `rie-117-210` | Vertrag betreffend Verlegung der Gemeindegrenze zwischen den Gemeinden Bettingen und Riehen im Gebiet «Im Wenkenberg» | 1 | 1976-03-17 to 1976-03-17 |
+| `rie-117-220` | Vertrag betreffend Verlegung der Gemeindegrenze zwischen den Gemeinden Bettingen und Riehen in den Gebieten «Im Britzigerberg», «Im Linsberg» und «Im Winkel» | 1 | 1981-12-22 to 1981-12-22 |
+| `rie-152-100` | Geschäftsordnung des Einwohnerrats der Einwohnergemeinde Riehen | 8 | 2014-05-01 to 2026-04-20 |
+| `rie-162-100` | Personalordnung | 2 | 2014-01-01 to 2022-01-01 |
+| `rie-329-400` | Vertrag zwischen dem Kanton Basel-Stadt und der Einwohnergemeinde Riehen sowie der Einwohnergemeinde Bettingen betreffend Planung des Angebots an Pflegeheimplätzen und Pflegeberatung | 1 | 2002-07-01 to 2002-07-01 |
+| `rie-365-100` | Beschluss des Einwohnerrates betreffend Festsetzung der Hundesteuer | 1 | 1998-04-01 to 1998-04-01 |
+| `rie-390-880` | Vertrag zwischen dem Kanton Basel-Stadt einerseits und der Einwohnergemeinde Riehen anderseits betreffend den Gottesacker Riehen | 1 | 1982-07-01 to 1982-07-01 |
+| `rie-411-500-schulvertrag` | Vertrag betreffend die Zusammenarbeit der Gemeinden Bettingen und Riehen für den Betrieb und die Finanzierung ihrer Schulen | 4 | 2009-08-01 to 2022-01-01 |
+| `rie-412-100-schulvereinbarung` | Vereinbarung zwischen dem Kanton Basel-Stadt und den Gemeinden Bettingen und Riehen betreffend die kommunale Primarstufe | 5 | 2009-06-28 to 2019-08-01 |
+| `rie-610-100-finanzhaushaltordnung-fho` | Finanzhaushaltordnung der Einwohnergemeinde Riehen | 3 | 2010-06-07 to 2023-01-01 |
+| `rie-640-100` | Steuerordnung der Gemeinde Riehen | 4 | 2013-01-01 to 2023-01-01 |
+| `rie-730-130` | Zonenordnung Riehen | 1 | 2017-01-01 to 2017-01-01 |
+| `rie-731-150` | Verzeichnis der Bebauungspläne der Gemeinde Riehen | 1 | 2024-06-01 to 2024-06-01 |
+| `rie-771-200` | Wässerungsordnung für den Aubach und das Immenbächlein | 1 | 1981-09-20 to 1981-09-20 |
+| `rie-832-680` | Vertrag zwischen der Einwohnergemeinde Riehen und der Einwohnergemeinde Bettingen betreffend Leistungserbringungen im Bereich Pflegeberatung | 3 | 2002-07-01 to 2021-01-01 |
+| `rie-832-750` | Vertrag zwischen dem Kanton Basel-Stadt und der Einwohnergemeinde Riehen betreffend den Vollzug im Bereich Ergänzungsleistungen und Beihilfen bei Personen mit Wohnsitz in Riehen | 2 | 2013-01-01 to 2021-01-01 |
+| `rie-890-100` | Sozialhilfeordnung | 1 | 2005-01-01 to 2005-01-01 |
+| `rie-890-500` | Vertrag zwischen der Einwohnergemeinde Riehen und der Einwohnergemeinde Bettingen betreffend die Leistungserbringung in den Bereichen der Sozialhilfe, Sozialberatung und Wohnassistenz | 2 | 2007-05-01 to 2025-01-01 |
+| `rie-890-800-asylvertrag` | Vertrag zwischen dem Kanton Basel-Stadt und den Gemeinden Bettingen und Riehen betreffend die Aufgabenteilung im Bereich Asyl | 2 | 2017-01-01 to 2024-01-01 |
+| `rie-911-900` | Familiengartenordnung der Gemeinde Riehen | 1 | 1983-12-20 to 1983-12-20 |
 
-The build made 1671 commits:
+The build made 1863 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 348 | baseline texts where the record starts |
-| 1256 | named laws, court decisions and treaties |
-| 5 | changes no amendment note explains, credited to the publisher |
+| 376 | baseline texts where the record starts |
+| 1419 | named laws, court decisions and treaties |
+| 6 | changes no amendment note explains, credited to the publisher |
 | 62 | corrections to the existing record |
 | 0 | printing or layout changes |
 
 Other counts:
-- 4 commits on the branch `zukunft`: laws not yet in force on 2026-11-25.
-- 33 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 1465 laws in the record.
-- 2744 tags.
+- 4 commits on the branch `zukunft`: laws not yet in force on 2026-11-26.
+- 57 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 1599 laws in the record.
+- 3034 tags.
 
 ## Dates
 
@@ -835,7 +945,7 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `b675fd5bcc373deb72c8b2afa3966d538ed324382bf9acc3dd9b6367234ad789` (21640207 bytes).
+- Corpus: sha256 `d973c9ad1d7ba25337e66c50622e2822a608ba3ceca5998a15bf6c15f25faa03` (23491582 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3ed15ed797641367480d7d9c7e1a7c0b0f34d538`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `467264bb286660494d9b93836dbef5109b4fa759`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 
