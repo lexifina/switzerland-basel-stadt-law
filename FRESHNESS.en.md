@@ -8,9 +8,9 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Basel Stadt: systematic collection (www.gesetzessammlung.bs.ch) · `switzerland/basel-stadt/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-25 06:18 UTC**.
-- Acts held here: 643; current at the source: 643; changed at the source since the version held here: 260; no longer at the source: 0.
-- Compared with the source in this read: 242 of the 643 acts held here; the others were not compared in this read (see the check's note).
-- Not published: 112 (new at the source, not published here yet: 110, held here, no longer at the source: 1, in force later: 1); with no reason: 0.
+- The official source last read and every act held here checked against it: **2026-11-26 06:02 UTC**.
+- Acts held here: 793; current at the source: 793; changed at the source since the version held here: 110; no longer at the source: 0.
+- Compared with the source in this read: 224 of the 793 acts held here; the others were not compared in this read (see the check's note).
+- Not published: 4 (held here, no longer at the source: 1, in force later: 3); with no reason: 0.
 
 In detail: [monitoring/](monitoring/README.en.md). For programs: [data/checks/latest.json](data/checks/latest.json).
