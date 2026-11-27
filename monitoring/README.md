@@ -6,18 +6,19 @@
 
 Wie global-law jedes Land beobachtet: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Diese Seite zeigt dasselbe nur für Basel Stadt: jedes Lesen einer amtlichen Quelle, wann, und was daraus folgte (Vorschriften hinzugefügt, geändert und entfernt). Maschinenlesbar in [data/checks/](../data/checks/) (JSON Lines, Schema `lexifina-check/1`), in `git log` als Commits mit `Kind: check` und Monat für Monat in [checks/](checks/).
 
-**Letzte Prüfung:** 2026-11-26 06:02 UTC, Basel Stadt: Systematische Sammlung (www.gesetzessammlung.bs.ch): 397 Adressen gelesen; 110 hinzugefügt, 0 geändert, 0 entfernt; Änderungen gefunden; 4 nicht veröffentlicht, davon 0 ohne Grund.
+**Letzte Prüfung:** 2026-11-27 05:58 UTC, Basel Stadt: Systematische Sammlung (www.gesetzessammlung.bs.ch): 397 Adressen gelesen; 0 hinzugefügt, 1 geändert, 0 entfernt; Änderungen gefunden; 4 nicht veröffentlicht, davon 0 ohne Grund.
 
 ## Quellen
 
 | Quelle | Ordner | Wie oft | Letzte erfolgreiche Prüfung | Letztes Ergebnis | Stand |
 | --- | --- | --- | --- | --- | --- |
-| [Basel Stadt: Systematische Sammlung (www.gesetzessammlung.bs.ch)](https://www.gesetzessammlung.bs.ch/) | `<act>/` | täglich | 2026-11-26 06:02 UTC | Änderungen gefunden | beobachtet |
+| [Basel Stadt: Systematische Sammlung (www.gesetzessammlung.bs.ch)](https://www.gesetzessammlung.bs.ch/) | `<act>/` | täglich | 2026-11-27 05:58 UTC | Änderungen gefunden | beobachtet |
 
 ## Die letzten 30 Tage
 
 | Beginn (UTC) | Quelle | Gelesen | Hinzugefügt | Geändert | Entfernt | Nicht veröffentlicht (ohne Grund) | Ergebnis | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-27 05:51](checks/2026-11.md#ch-lexwork-basel-stadt-20261127t055126z) | lexwork-basel-stadt | 397 | 0 | 1 | 0 | 4 (0) | Änderungen gefunden | — |
 | [2026-11-26 05:49](checks/2026-11.md#ch-lexwork-basel-stadt-20261126t054926z) | lexwork-basel-stadt | 397 | 110 | 0 | 0 | 4 (0) | Änderungen gefunden | [193](https://github.com/lexifina/switzerland-basel-stadt-law/compare/719ea2dbe296...fd06bd9f7b8e) |
 | [2026-11-25 06:04](checks/2026-11.md#ch-lexwork-basel-stadt-20261125t060422z) | lexwork-basel-stadt | 488 | 260 | 0 | 0 | 112 (0) | Änderungen gefunden | [260](https://github.com/lexifina/switzerland-basel-stadt-law/compare/067cc4896743...ecbdf8aea6af) |
 | [2026-11-24 14:34](checks/2026-11.md#ch-lexwork-basel-stadt-20261124t143453z) | lexwork-basel-stadt | 270 | 260 | 2 | 0 | 263 (0) | die Prüfung ist fehlgeschlagen | — |
