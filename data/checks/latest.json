@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T07:11:59Z",
+ "generated": "2026-11-28T08:34:23Z",
  "latest": {
   "lexwork-basel-stadt|switzerland/basel-stadt/acts": {
    "attempt": 1,
@@ -23,13 +23,13 @@
     "repo": 903,
     "source_in_scope": 903
    },
-   "check_id": "ch-lexwork-basel-stadt-20261127T055126Z",
+   "check_id": "ch-lexwork-basel-stadt-20261128T054900Z",
    "commits": null,
    "corpus": "switzerland/basel-stadt/acts",
    "error": null,
-   "finished": "2026-11-27T05:58:15Z",
+   "finished": "2026-11-28T05:55:29Z",
    "flags": [],
-   "gap": 4,
+   "gap": 5,
    "note": "www.gesetzessammlung.bs.ch: index of 1039 acts (1039 in force); held 903; 0 in force and in scope not held yet, 135 out of scope (land-use plans, concessions, directives, forms: as the builder), 1 published only as PDF; 129 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
    "outcome": "changed",
    "published": {
@@ -37,19 +37,19 @@
     "changed": [],
     "removed": []
    },
-   "requests": 397,
+   "requests": 379,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
     "changed": [
-     "497.300"
+     "772.110"
     ],
     "removed": []
    },
    "snapshot": "1039 entries, 1039 in force (www.gesetzessammlung.bs.ch)",
    "source": "lexwork-basel-stadt",
-   "started": "2026-11-27T05:51:26Z",
+   "started": "2026-11-28T05:49:00Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -67,15 +67,15 @@
     "held": 903,
     "method": "each act compared this check (129 of 903: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from www.gesetzessammlung.bs.ch (the act document and each version by id); every version held here against the collection's XHTML of the same day, letters and digits (the builder's letters check, ch_cantons.letters_check, so how a parse splits the text into files does not count); and the corpus's newest version rendered by the builder (gitlaw_common) against the files at the tip of main. A difference is corrected by the next check's update when today's parse gives back the act's other held versions exactly; otherwise it is listed for a rebuild decision",
     "not_compared": {
-     "60-verify-488-breadth.json": 3,
-     "62-verify-488-annex-21-gesetze-2.json": 2,
-     "62-verify-488-annex-44-verordnungen-5.json": 7,
-     "62-verify-488-annex-45-verordnungen-6.json": 3
+     "60-verify-488-breadth.json": 8,
+     "62-verify-488-annex-22-gesetze-3.json": 1,
+     "62-verify-488-annex-45-verordnungen-6.json": 3,
+     "62-verify-488-annex-46-verordnungen-7.json": 7
     },
     "not_compared_why": "acts held from parts built by another route (not the collection's XHTML through the builder's parse), e.g. a verification pass or PDF annexes",
     "ok": true,
     "swept": 129,
-    "versions_checked": 256,
+    "versions_checked": 289,
     "versions_differ": 0
    }
   }
